@@ -1,0 +1,3034 @@
+clangour,hypernym,sound,0
+straightness,derivationally related form,straight person,3
+reserves,synset domain topic of,war machine,0
+family alcidae,member meronym,pinguinus,0
+inconclusiveness,hypernym,indetermination,0
+st. john river,instance hypernym,river,0
+cucumis sativus,hypernym,melon vine,0
+nonindulgence,derivationally related form,restrictive,3
+diverging,derivationally related form,divergency,0
+family cheloniidae,member meronym,genus antilope,1
+rule,derivationally related form,reformulate,3
+arabian peninsula,has part,sultanate of oman,0
+family boraginaceae,member meronym,symphytum,0
+kislev,has part,christmas box,3
+visitation,derivationally related form,visit,0
+genus arabis,member meronym,skyscraper,3
+onosmodium,hypernym,genus sansevieria,3
+sociable,derivationally related form,record,3
+observation,derivationally related form,remit,3
+clinician,synset domain topic of,neuroscience,3
+genus gastrophryne,member meronym,gastrophryne carolinensis,0
+reference,derivationally related form,refer,0
+ferry,hypernym,transporter,3
+dream,derivationally related form,dreaming,0
+seal,hypernym,make up,3
+podocarpus family,member of domain region,microstrobos,2
+turn over,derivationally related form,upset,0
+pass,member of domain usage,statute law,2
+record,hypernym,shrub,1
+formatting,derivationally related form,initialize,0
+boxing day,hypernym,public holiday,0
+cube,hypernym,stimulant drug,1
+sound,member of domain usage,sound,2
+family anguidae,member meronym,ophisaurus,0
+develop,synset domain topic of,photography,0
+figure,hypernym,simulation,0
+protraction,derivationally related form,proceed,0
+zizz,hypernym,snooze,0
+sick,derivationally related form,vomit up,0
+radiation,hypernym,natural process,0
+external auditory canal,hypernym,meatus,0
+emancipation,derivationally related form,liberate,0
+refer,derivationally related form,reference work,0
+daub,hypernym,clay,0
+persia,member of domain region,tabriz,2
+avoirdupois unit,instance hypernym,mass unit,2
+islet,derivationally related form,island,3
+era,instance hypernym,touchstone,2
+spelunk,hypernym,explore,0
+peach state,has part,tallapoosa river,0
+masticate,derivationally related form,wad,0
+ornament,derivationally related form,adornment,3
+sectionalize,derivationally related form,abstraction,3
+genus cryptacanthodes,member meronym,wrymouth,0
+scrap,derivationally related form,dispute,0
+slip,hypernym,stick in,0
+portsmouth,instance hypernym,urban center,0
+dissimulate,hypernym,mask,0
+worker,hypernym,soul,0
+chattanooga,instance hypernym,pitched battle,0
+think,hypernym,think,0
+echolocation,hypernym,location,0
+scolder,hypernym,unpleasant person,0
+hemophiliac,derivationally related form,shed blood,0
+poinciana gilliesii,instance hypernym,flowering shrub,2
+vanadium,hypernym,neural structure,1
+prairie marmot,hypernym,rodent,0
+requirement,hypernym,responsibility,0
+feature,hypernym,ware,0
+plunger,derivationally related form,duck,1
+separate,derivationally related form,beatification,3
+pop,verb group,pop,0
+vacillation,derivationally related form,stride,3
+support,derivationally related form,vindication,0
+uproot,derivationally related form,extinction,3
+physical composition,has part,systema lymphaticum,1
+nihilism,hypernym,school of thought,0
+splattering,derivationally related form,sprinkle,0
+tread,hypernym,walk,0
+genus iva,member meronym,marsh elder,0
+video,hypernym,broadcasting,0
+series,derivationally related form,serial,0
+keep company,derivationally related form,feline,3
+put across,derivationally related form,communication,0
+analyzer,verb group,visualize,1
+sailing boat,hypernym,take,1
+progression,derivationally related form,shape up,1
+pulicidae,instance hypernym,arthropod family,2
+liveness,derivationally related form,fictitious character,3
+secretory organ,hypernym,organ,0
+afghanistani,member of domain usage,paxto,2
+take,hypernym,have,0
+die,derivationally related form,death,0
+prattle,member of domain usage,twaddle,2
+range,derivationally related form,range,0
+time interval,derivationally related form,time,1
+portray,derivationally related form,personation,0
+record,member meronym,plant genus,1
+use,hypernym,workman,3
+polychaeta,hypernym,subclass dipnoi,3
+vascularize,verb group,vascularize,0
+strain,derivationally related form,filtration,0
+purpura,hypernym,blood,3
+moschus,hypernym,mammal genus,0
+night porter,hypernym,porter,0
+sprain,derivationally related form,wrick,0
+genus asphodeline,hypernym,liliid monocot genus,0
+spoil,derivationally related form,doddle,3
+progesterone,hypernym,progestogen,0
+send-off,derivationally related form,send off,0
+vertebrata,member meronym,reptilia,0
+taurus the bull,instance hypernym,star,3
+genus chloroxylon,hypernym,dilleniid dicot genus,1
+sergeant,hypernym,peace,3
+sea urchin,hypernym,echinoderm,0
+whatnot,hypernym,rarity,0
+scrapper,derivationally related form,struggle,0
+fatwa,hypernym,ruling,0
+send for,instance hypernym,stir,2
+hop,derivationally related form,hop,0
+collision,hypernym,accident,0
+teller,derivationally related form,talk,1
+santalaceae,member meronym,magnoliopsid genus,3
+reversal,derivationally related form,feasting,0
+divergency,member of domain usage,diverge,2
+countermand,hypernym,dictation,0
+evolve,derivationally related form,phylogeny,0
+trading operations,hypernym,mercantilism,1
+silly,hypernym,youngster,0
+taxation,derivationally related form,tax,0
+displume,hypernym,strip,0
+concentrate,derivationally related form,reduce,0
+uterine contraction,hypernym,muscular contraction,0
+genus ceratopetalum,hypernym,rosid dicot genus,0
+system of logic,derivationally related form,logistician,0
+broker,derivationally related form,brokerage,0
+purple,hypernym,discolour,0
+flow,derivationally related form,flow,0
+escort,derivationally related form,undertake,3
+vacate,hypernym,step down,0
+obsession,derivationally related form,obsess,0
+sexual pleasure,hypernym,pleasure,0
+genus brassica,member meronym,white turnip,0
+eriogonum,hypernym,suffrutex,0
+bond,derivationally related form,stick to,0
+world war ii,has part,el alamein,0
+musical time,hypernym,time,0
+relegate,derivationally related form,classifier,0
+sense,hypernym,observe,0
+unify,derivationally related form,mixture,0
+suborder sauropoda,member meronym,pholidae,1
+atlantic ocean,has part,melanesia,1
+malayan,derivationally related form,malayan,0
+electroshock therapy,hypernym,somatic cell nuclear transplantation,1
+ambition,derivationally related form,ambitiousness,0
+phylum coelenterata,member meronym,hydrozoa,0
+budget,derivationally related form,retirement savings plan,3
+order gaviiformes,member meronym,tachyglossidae,1
+genus azolla,member meronym,mosquito fern,0
+support,derivationally related form,subscriber,0
+juncture,derivationally related form,joint,0
+opinion,derivationally related form,try,0
+genus chloroxylon,hypernym,fern genus,1
+trounce,derivationally related form,upbraider,0
+order hymenoptera,member meronym,family cynipidae,0
+throttle,derivationally related form,throttling,0
+sleeping tablet,hypernym,repetitive,3
+orthodox jew,derivationally related form,hebrew,1
+propitiation,member of domain usage,repent,2
+emersion,derivationally related form,emerge,0
+classification,derivationally related form,designate,1
+turnip plant,hypernym,cruciferous plant,0
+format,hypernym,change intensity,3
+okra,hypernym,veggie,0
+ursus arctos,hypernym,bear,0
+townee,hypernym,townsman,0
+order alcyonaria,hypernym,animal order,0
+mulberry family,hypernym,magnoliopsid family,0
+plug into,derivationally related form,connexion,0
+south frigid zone,has part,antarctic ocean,0
+atheism,derivationally related form,record,3
+zygomycotina,hypernym,division,0
+spectacle,hypernym,presentation,0
+security,derivationally related form,certificate,0
+tusk,derivationally related form,giraffe,3
+premiere,hypernym,perform,0
+colloquialism,member of domain usage,plague,0
+pterospermum,hypernym,dilleniid dicot genus,0
+compulsive,hypernym,soul,0
+bind,hypernym,transgressor,3
+family bacillaceae,member meronym,genus clostridium,0
+switzerland,member of domain region,sempatch,0
+high,also see,tall oat grass,3
+fortification,hypernym,prowess,0
+pass out,derivationally related form,distributive,0
+dock,derivationally related form,wharfage,0
+glower,hypernym,stare,0
+flush,derivationally related form,speechmaking,3
+subdivision basidiomycotina,member meronym,class basidiomycetes,0
+set,hypernym,write,0
+family compositae,member meronym,genus emilia,0
+upkeep,hypernym,support,0
+cantaloupe,hypernym,sweet melon,0
+re-create,derivationally related form,re-creation,0
+secale cereale,derivationally related form,cereal,1
+respiratory organ,hypernym,viscus,1
+slaying,derivationally related form,slay,0
+souse,derivationally related form,waterspout,0
+drawing card,derivationally related form,pull in,0
+joint,derivationally related form,gliding joint,3
+sisal family,hypernym,liliid monocot family,0
+phrase,derivationally related form,phrase,3
+myosotis,member meronym,myosotis scorpiodes,0
+lion,hypernym,spirit,3
+strewing,derivationally related form,surge,1
+withdrawer,hypernym,articulatory,3
+melampsoraceae,hypernym,fungus family,0
+scabies,derivationally related form,scrape,3
+sublieutenant,hypernym,lieutenant,0
+garrison,hypernym,troops,0
+escort,derivationally related form,escort,0
+united mexican states,member of domain region,puebla de zaragoza,0
+suppress,derivationally related form,suppressor,0
+venture,derivationally related form,shot,0
+genus aedes,hypernym,mammal genus,3
+temperance,instance hypernym,compounding,2
+civil law,hypernym,statute law,3
+vascularize,derivationally related form,vocalization,3
+twitch,derivationally related form,toggle switch,1
+family anatidae,member meronym,duck,0
+withdrawal,instance hypernym,leaving,2
+signalize,derivationally related form,demodulate,3
+postdoc,hypernym,researcher,0
+genus chloroxylon,member meronym,rooter skunk,1
+dhaulagiri,instance hypernym,mountain peak,0
+anatomist,derivationally related form,general anatomy,0
+proof,hypernym,statement,0
+remark,derivationally related form,commentate,0
+group,hypernym,biological group,1
+roundhead,hypernym,proponent,3
+achillea,hypernym,herbaceous plant,0
+coolant,derivationally related form,cool down,0
+pasture,derivationally related form,pastureland,0
+absolutistic,member of domain usage,absolutist,2
+shore,synset domain topic of,lake,0
+anglophile,hypernym,supporter,0
+concurrency,hypernym,group action,1
+self-employed person,derivationally related form,freelance,0
+send,hypernym,move,0
+factor,derivationally related form,agential,0
+paleness,derivationally related form,unclean,1
+flamingo plant,hypernym,herbaceous plant,1
+impressive,derivationally related form,strike,0
+gulf coast,hypernym,elapid snake,1
+family atherinidae,instance hypernym,fish family,2
+stationariness,hypernym,stillness,0
+lens,hypernym,line,0
+deep south,has part,pelican state,0
+stir up,derivationally related form,record,3
+compiling program,has part,parser,0
+smash,derivationally related form,whop,0
+definition,derivationally related form,define,0
+abolition,derivationally related form,set free,1
+japanese islands,has part,osaka bay,0
+stimulate,derivationally related form,reason,0
+selaginella,member meronym,record,3
+whole wheat bread,derivationally related form,unitize,1
+record,hypernym,gymnosperm genus,1
+tree,derivationally related form,tree,0
+phoenicophorium,hypernym,monocot genus,0
+tear,member of domain usage,teardrop,2
+now,derivationally related form,habit,0
+family cheloniidae,hypernym,arthropod family,1
+sterculiaceae,member meronym,pterospermum,0
+tilt,member of domain usage,repugn,2
+pantomimist,member of domain usage,pantomime,2
+purchase,hypernym,acquisition,0
+upper cannon,hypernym,cannon,0
+pod,hypernym,biological group,3
+rescission,derivationally related form,table,1
+disentangle,derivationally related form,combing,0
+agrology,hypernym,scientific discipline,0
+programming,derivationally related form,programme,0
+wink at,instance hypernym,promote,2
+tone,hypernym,verbal description,3
+wring,verb group,yawning,3
+houseclean,hypernym,tidy up,0
+robinia,member meronym,rose chafer,3
+plant genus,hypernym,genus,0
+turn back,derivationally related form,recovery,3
+conversion,hypernym,change,0
+spellbind,derivationally related form,spellbinder,0
+twinkler,derivationally related form,winkle,0
+paste,derivationally related form,mucilage,0
+warning,derivationally related form,warn,0
+phaseolus,member meronym,phaseolus vulgaris,0
+viscidness,hypernym,viscousness,0
+tend,derivationally related form,tendency,0
+design,derivationally related form,stylist,3
+sac,hypernym,cavum,0
+usa,has part,last frontier,0
+philippines,has part,republic of indonesia,3
+triple,derivationally related form,two-baser,1
+order myaceae,hypernym,animal order,0
+rambutan tree,has part,rambutan,0
+silver quandong,hypernym,woodcarver,3
+division bryophyta,member of domain region,hepaticopsida,2
+stir,derivationally related form,provoke,2
+panel,synset domain topic of,computing,0
+fragmentize,derivationally related form,sherd,0
+boxing equipment,synset domain topic of,pugilism,0
+genus aquilegia,member meronym,blue columbine,0
+butt,hypernym,strike,0
+rendition,hypernym,performance,0
+pentagon gang,instance hypernym,terrorist organization,0
+polygonatum,hypernym,liliid monocot genus,0
+electrical circuit,has part,resistor,0
+record,member meronym,heracleum,1
+pilot,derivationally related form,aviation,0
+liberation,derivationally related form,set free,0
+stretching,derivationally related form,stretch,0
+highball,hypernym,mixed drink,0
+hulsea,hypernym,asterid dicot genus,0
+sail,derivationally related form,sheet,0
+whaler,hypernym,tar,0
+season,derivationally related form,seasoning,0
+nosepiece,hypernym,plate armour,0
+king of great britain,member of domain region,flit,1
+jew,derivationally related form,judaical,0
+etanercept,hypernym,anti-tnf compound,0
+verify,hypernym,declare,0
+support,member of domain usage,war machine,2
+count,hypernym,number,0
+stress,derivationally related form,stress,0
+horn,hypernym,goose,1
+origination,derivationally related form,uprise,0
+stockpile,derivationally related form,lapse,3
+liberalness,hypernym,generousness,0
+scavenger,hypernym,fauna,0
+sunfish,hypernym,shellfish,3
+luvaridae,instance hypernym,fish family,2
+stacker,derivationally related form,stacker,3
+pamphlet,derivationally related form,book,0
+symphoricarpos,hypernym,asterid dicot genus,0
+tricholomataceae,member meronym,tricholoma,0
+unit,instance hypernym,thing,2
+joint,hypernym,resolve,1
+adjuration,member of domain usage,press,2
+play,derivationally related form,player,0
+honcho,hypernym,supervisor,0
+devastation,hypernym,ruination,0
+protropin,hypernym,sth,0
+lodge,also see,reside,0
+representation,derivationally related form,instantiate,1
+sparganiaceae,hypernym,monocot family,0
+emanate,hypernym,come up,0
+theatre of operations,has part,combat zone,0
+concessive,hypernym,bin,0
+united kingdom of great britain and northern ireland,member of domain region,nark,0
+st. mark,hypernym,evangelist,2
+minister,derivationally related form,ministrant,0
+misprint,derivationally related form,typographical error,0
+nakedness,derivationally related form,waste,0
+shoot,derivationally related form,striking,0
+judge advocate,derivationally related form,judge,1
+shower,hypernym,rainfall,0
+republic of india,member of domain region,al-ummah,0
+profession,hypernym,occupation,0
+coragyps atratus,hypernym,siluriform fish,1
+motivational,derivationally related form,intuit,1
+telephone,derivationally related form,telephone set,0
+experimenter,hypernym,soul,0
+maintain,instance hypernym,hold up,2
+work,verb group,workman,3
+skiagraph,hypernym,picturing,3
+tradescantia,hypernym,monocot genus,0
+throb,hypernym,bang,3
+capsule,derivationally related form,capsular,0
+condensation,hypernym,natural process,0
+market,derivationally related form,market,0
+socialize,hypernym,meeting,1
+take a shit,hypernym,brenner pass,3
+stream,derivationally related form,flux,0
+renegade,hypernym,tolerate,3
+honourable,also see,reputable,0
+gitano,hypernym,rommany,0
+combat casualty,member of domain usage,war machine,2
+nebula,synset domain topic of,odontology,3
+walk,also see,walk around,0
+slovakia,has part,pressburg,0
+wane,derivationally related form,luminousness,1
+quest,derivationally related form,seek,3
+moloch,hypernym,reptile genus,1
+order geraniales,member of domain region,torchwood family,2
+trauma,derivationally related form,suffer,0
+proteaceae,member meronym,guevina,0
+negative,derivationally related form,negative,1
+opera glasses,has part,surtitle,1
+respire,verb group,take a breath,0
+skinner,hypernym,trained worker,0
+phaethontidae,member meronym,phaethon,0
+quiscalus,member meronym,grackle,0
+consultation,hypernym,rede,1
+swearing,derivationally related form,verify,0
+phylum ctenophora,hypernym,phylum,0
+turn tail,member of domain usage,lam,2
+magnoliopsida,member meronym,record,3
+saururaceae,member meronym,houttuynia,0
+mot,derivationally related form,investigate,1
+record,member meronym,tortoise,1
+trust,derivationally related form,hope,0
+ratel,hypernym,leporid mammal,3
+pilot,derivationally related form,piloting,0
+sophist,derivationally related form,minister,3
+stromateidae,member meronym,shellfish,3
+sixtus iv,hypernym,vicar of christ,2
+group,synset domain topic of,terrorist act,1
+umbrella,has part,panel,0
+shutter,hypernym,mechanical device,0
+run batted in,hypernym,tally,0
+vernacular,member of domain usage,'hood,0
+swimmer's itch,synset domain topic of,uvularia grandiflora,3
+fleapit,hypernym,tuileries palace,3
+palmales,member meronym,palmae,0
+heath family,member meronym,heath,0
+violet,hypernym,water hen,1
+mafioso,hypernym,outlaw,0
+photoelectric cell,hypernym,transducer,0
+record,hypernym,physical phenomenon,1
+muscle,derivationally related form,sinew,0
+soot,derivationally related form,dust,1
+steersman,derivationally related form,play,1
+yellow turnip,hypernym,turnip,0
+yen,member of domain usage,yen,2
+reproval,derivationally related form,record,3
+worker,hypernym,commoner,0
+pretermit,derivationally related form,omission,0
+pierre,instance hypernym,philosopher,1
+store,hypernym,accumulation,0
+remark,hypernym,remark,0
+line of verse,hypernym,line,0
+sympathize,derivationally related form,sympathize,3
+roast,derivationally related form,satirist,0
+mortify,instance hypernym,wound,2
+peep,derivationally related form,peep,0
+partition,derivationally related form,partition off,0
+family bombycidae,hypernym,arthropod family,0
+fibreoptics,derivationally related form,fibreoptic,0
+nonindulgence,hypernym,self-justification,3
+live,hypernym,tell,3
+reformulate,hypernym,reformulate,3
+garrison,derivationally related form,fortify,0
+advertizing,derivationally related form,market,1
+environmental science,derivationally related form,ecologist,0
+distill,hypernym,transude,0
+walk-in,hypernym,secret agent,0
+ricinus communis,has part,castor bean,0
+visual display unit,hypernym,video display,0
+theater prompter,hypernym,supporter,0
+revise,derivationally related form,revision,0
+governor,derivationally related form,rule,0
+concentration,hypernym,increase,0
+reserves,hypernym,administrative unit,3
+extraterrestrial object,hypernym,natural object,0
+sterculiaceae,hypernym,dilleniid dicot family,0
+magnetic core memory,has part,core,3
+wild,hypernym,state,0
+tenancy,derivationally related form,tenant,0
+slug,derivationally related form,slap,3
+feasting,hypernym,abstinence,1
+meningoencephalitis,hypernym,meningitis,0
+untangling,derivationally related form,pull,1
+genus acacia,member meronym,sweet wattle,0
+citrus medica,hypernym,citrus tree,0
+observer,hypernym,expert,0
+rail,hypernym,transport,0
+pink family,member of domain region,genus agrostemma,2
+button,hypernym,holdfast,0
+substitutability,hypernym,sure thing,1
+nudger,instance hypernym,shover,2
+violate,member of domain usage,offense,2
+dry out,hypernym,modify,0
+shaving soap,hypernym,toiletry,0
+cimarron river,instance hypernym,rivet,3
+quest for,hypernym,seek,0
+ticktock,derivationally related form,tick,0
+pustule,hypernym,bulla,0
+surface,derivationally related form,surfacing,0
+zauschneria californica,hypernym,shrub,3
+loan,derivationally related form,loan,0
+percomorphi,member meronym,family esocidae,0
+effervescent,derivationally related form,effervescent,1
+elegize,member of domain usage,verse,2
+macropodidae,member of domain region,petrogale,2
+alternative energy,hypernym,executive department,1
+insecta,member meronym,siphonaptera,0
+reader,derivationally related form,read,0
+order cypriniformes,hypernym,animal order,0
+tibia vara,instance hypernym,impairment,2
+holly family,member meronym,tsuga,1
+marmalade box,derivationally related form,pugilism,1
+dislocation,instance hypernym,trauma,2
+paper money,hypernym,currency,0
+holler out,derivationally related form,yowl,0
+hemophilic,derivationally related form,hemophilia,0
+mammalia,member meronym,leporid mammal,3
+wearing away,derivationally related form,fret,0
+roustabout,hypernym,prickly ash,3
+record,hypernym,dilleniid dicot genus,1
+barbarize,verb group,barbarize,0
+superannuation,hypernym,pension,0
+give,derivationally related form,veneration,0
+start,derivationally related form,start,0
+rejoicing,derivationally related form,wallow,0
+letters,hypernym,scholarship,0
+gizeh,hypernym,urban center,2
+tetraskelion,hypernym,pattern,0
+risk,derivationally related form,risk,0
+woolgatherer,hypernym,loafer,0
+point of periapsis,synset domain topic of,uranology,0
+vamper,derivationally related form,squeeze,3
+settlement,derivationally related form,settle,0
+mark,hypernym,marking,0
+condense,derivationally related form,contraction,0
+measuring stick,derivationally related form,record,3
+cook,hypernym,change integrity,0
+preempt,derivationally related form,violator,1
+slice,derivationally related form,slash,0
+stance,hypernym,imposture,3
+veterinary surgeon,derivationally related form,vet,0
+crew,hypernym,trained worker,1
+tire,hypernym,step,1
+united kingdom of great britain and northern ireland,member of domain region,front bench,0
+morning-glory family,member meronym,record,3
+aberrate,derivationally related form,deviance,0
+davy crockett,instance hypernym,mountain man,0
+repair,hypernym,pay,0
+clink,derivationally related form,tick,0
+slight,derivationally related form,striker,3
+light up,hypernym,lighten up,0
+refutation,derivationally related form,refute,0
+phyllitis scolopendrium,hypernym,fern,0
+united kingdom of great britain and northern ireland,member of domain region,green paper,0
+tugger,derivationally related form,tug,0
+trammel,hypernym,transport,1
+maledict,member of domain usage,damnation,2
+urus,hypernym,asian wild ox,3
+academy,derivationally related form,faculty member,0
+think,hypernym,pass judgment,0
+public opinion poll,derivationally related form,pollster,3
+pinch,hypernym,turn up,0
+nut,hypernym,block,0
+viceroy,hypernym,governor,0
+set down,derivationally related form,terra firma,0
+pteridaceae,member meronym,genus acrostichum,0
+suffocate,verb group,suffocate,0
+cluck,derivationally related form,clap,0
+lanius,member meronym,shop clerk,3
+receive,derivationally related form,reception,0
+genus brevoortia,hypernym,fish genus,0
+present,member of domain usage,prize,2
+sailplane,derivationally related form,glide,0
+systema nervosum centrale,has part,encephalon,0
+missioner,hypernym,religious person,0
+asphodel,derivationally related form,model,1
+ursa major,hypernym,league,1
+fair,hypernym,sales outlet,3
+assessment,hypernym,sorting,0
+jihad,synset domain topic of,terrorist act,1
+wrap,derivationally related form,enclosure,0
+patronage,instance hypernym,blessing,2
+record,hypernym,colour vision deficiency,1
+shoot,hypernym,shot,0
+family echeneididae,member meronym,record,3
+conspiratorial,derivationally related form,conspiracy,0
+genus chloroxylon,member meronym,codfish,1
+invariable,derivationally related form,variance,3
+pectinibranchia,member of domain region,family cypraeidae,2
+sentient,has part,funny bone,1
+united arab republic,has part,el iskandriyah,0
+dissolve,hypernym,disintegrate,0
+carry over,derivationally related form,substitute,1
+saturation,hypernym,industry,1
+ordered,hypernym,soul,1
+tense up,derivationally related form,strain,0
+record,hypernym,antiemetic drug,1
+serve,verb group,serve well,0
+solanaceae,member meronym,solandra,0
+chirp,hypernym,sound,0
+string,derivationally related form,thread,0
+orrisroot,hypernym,root,0
+deal,instance hypernym,shell out,2
+military ceremony,synset domain topic of,war machine,0
+scruple,derivationally related form,scruple,0
+aromatic,synset domain topic of,chemistry,0
+class arachnida,member meronym,uropygi,0
+usa,has part,us senate,3
+capturer,member of domain usage,catch,2
+free,derivationally related form,excite,1
+pinkeye,derivationally related form,pinkify,1
+huig de groot,instance hypernym,diplomatist,0
+judgmental,derivationally related form,judgmental,3
+strewing,hypernym,spreading,0
+raiser,hypernym,move,1
+myth,derivationally related form,mythologize,0
+north american nation,hypernym,temporary state,3
+kantrex,hypernym,antibiotic drug,0
+order neuroptera,member meronym,record,3
+interahamwe,instance hypernym,organization,3
+north atlantic treaty organization,has part,allied command atlantic,0
+helpful,derivationally related form,helpfulness,0
+taro plant,instance hypernym,arum,2
+statistics,has part,statistical procedure,0
+lithograph,synset domain topic of,artistic production,0
+tarnish,derivationally related form,stigma,0
+throttler,derivationally related form,throttle,0
+genus forestiera,member meronym,forestiera,0
+dry out,derivationally related form,siccative,0
+genus chloroxylon,hypernym,rosid dicot genus,1
+collaborate,derivationally related form,quislingism,0
+cry,verb group,weep,0
+serratus muscles,hypernym,extensor muscle,3
+article,derivationally related form,clause,0
+motorcar,has part,landing gear,3
+shack,derivationally related form,resident,0
+spain,has part,malaga,0
+gastric antacid,instance hypernym,agent,2
+wear out,hypernym,dilapidate,0
+arthurian legend,hypernym,legend,0
+zenith,hypernym,soul,1
+zonk out,hypernym,turnip,3
+grease one's palms,derivationally related form,tissue,3
+ordinate,derivationally related form,coordination,3
+amphibole group,member meronym,amphibole,0
+wash room,hypernym,facility,0
+subfamily papilionoideae,member meronym,genus mimosa,1
+spout,derivationally related form,opt out,1
+oxygen,hypernym,gas,0
+release,derivationally related form,number,0
+nasturtium,has part,nasturtium,0
+old testament,has part,aberdeen,1
+indictment,hypernym,official document,0
+jewel,derivationally related form,jeweller,0
+shame,hypernym,oblige,0
+explosion,derivationally related form,split,0
+dead,instance hypernym,people,2
+family compositae,member meronym,hyalosperma,0
+viola,hypernym,herbaceous plant,0
+trash,derivationally related form,fiesta,1
+merchantman,derivationally related form,freight,0
+slugabed,hypernym,loafer,0
+soubriquet,hypernym,classificatory,3
+umbellales,member meronym,umbelliferae,0
+disintegrate,derivationally related form,integrative,1
+vivify,derivationally related form,revivification,0
+republic of estonia,has part,livonia,0
+synentognathi,member meronym,scombresocidae,0
+zip,hypernym,strength,0
+emcee,derivationally related form,master of ceremonies,0
+tar heel state,has part,durham,0
+secretary bird,hypernym,raptorial bird,0
+phaseolus,member meronym,bean,3
+genus certhia,member meronym,certhia americana,0
+honeycreeper,hypernym,oscine bird,0
+time,derivationally related form,time,0
+supreme allied commander atlantic,hypernym,commanding officer,0
+milligram,hypernym,zigadene,1
+downgrade,hypernym,meliorate,1
+pulicidae,member meronym,genus ctenocephalides,0
+tuscany,has part,yid,3
+uniting,derivationally related form,unite,0
+emirate,instance hypernym,spot,2
+anomalist,derivationally related form,anomaly,0
+ride,verb group,ride,0
+adornment,hypernym,ornamentation,0
+muscicapidae,member of domain region,true flycatcher,2
+bifurcation,derivationally related form,swing,1
+magnify,derivationally related form,amplifier,0
+prescribe,derivationally related form,dictation,0
+introduce,derivationally related form,insert,0
+gymnelis,hypernym,fish genus,0
+softness,derivationally related form,soft,0
+solarize,hypernym,develop,0
+glazier,derivationally related form,caramelize,3
+story,hypernym,structure,0
+egg fu yung,synset domain topic of,preparation,1
+worshipper,derivationally related form,believe,0
+invitation,hypernym,record,3
+trade name,member of domain usage,molindone,0
+semblance,derivationally related form,gloss,0
+poverty grass,hypernym,suffrutex,0
+rocky mountains,instance hypernym,range of mountains,0
+resolute,also see,tenacious,3
+communism,hypernym,fungicide,1
+suriname,has part,record,3
+decisive,derivationally related form,make up one's mind,0
+placuna,member meronym,windowpane oyster,0
+knitwear,hypernym,wearable,0
+hide,derivationally related form,skulking,3
+helianthemum canadense,hypernym,sunrose,0
+sweetness,hypernym,taste sensation,0
+nurnberg,instance hypernym,urban center,0
+swarm,derivationally related form,esteem,3
+social security number,hypernym,number,0
+ship's officer,hypernym,unit of time,1
+precipitation,has part,snow mist,0
+convert,synset domain topic of,chemistry,0
+freeze out,member of domain usage,freezing,2
+nutrify,member of domain usage,victuals,2
+hoot,hypernym,utter,0
+fork,also see,rake off,1
+witness,derivationally related form,witness,0
+jones,instance hypernym,railroad engineer,0
+genus enhydra,member meronym,sea otter,0
+slip,derivationally related form,slump,0
+casablanca,derivationally related form,moroccan,1
+reciprocating engine,has part,plunger,0
+st. lawrence,instance hypernym,doctor of the church,1
+denationalize,derivationally related form,unionization,3
+genus dipodomys,member meronym,rat chinchilla,3
+heating element,hypernym,element,0
+mortise joint,hypernym,gliding joint,3
+angstrom unit,hypernym,metric linear unit,0
+manly,member of domain usage,man,2
+dishonour,derivationally related form,talk through one's hat,1
+palestine,member of domain region,democratic and popular republic of algeria,3
+family anguillidae,member meronym,magnoliopsid genus,3
+hanoi,hypernym,club,1
+family cheloniidae,member meronym,genus blennius,1
+massine,instance hypernym,twirler,3
+flexible,derivationally related form,settle,0
+float,verb group,float,0
+sir charles spencer chaplin,instance hypernym,movie maker,0
+veronica americana,hypernym,swamp plant,0
+scheme,derivationally related form,schematize,0
+tangle,member of domain usage,imbroglio,2
+tizzy,derivationally related form,pother,0
+popular front for the liberation of palestine,member of domain usage,terrorist act,2
+interaction,synset domain topic of,physics,0
+refinement,derivationally related form,round off,0
+idolizer,derivationally related form,idolatry,0
+grease one's palms,member of domain usage,payoff,2
+shrinking,hypernym,change of state,1
+camp,hypernym,stoppage,3
+southeast asia,member of domain region,republic of the philippines,2
+ratiocinate,hypernym,reason,0
+splashing,derivationally related form,sprinkle,0
+astringent,derivationally related form,astringe,0
+subclass eutheria,hypernym,class,0
+plasticity,hypernym,solid,1
+shammer,member of domain usage,talk through one's hat,2
+western sand cherry,hypernym,suffrutex,0
+resettlement,derivationally related form,iciness,0
+anaglyptical,derivationally related form,anaglyph,0
+arabian sea,has part,saronic gulf,3
+overstate,hypernym,mislead,0
+outlaw,hypernym,principal,0
+alcoholize,hypernym,modify,0
+aspect,hypernym,grammatical relation,0
+overrun,derivationally related form,overproduce,0
+misfire,hypernym,go bad,0
+order carnivora,member meronym,carnivore,0
+ablate,hypernym,withdraw,0
+record,hypernym,quality,1
+class chondrichthyes,member meronym,class,3
+refund,instance hypernym,payment,2
+european,has part,republic of poland,1
+touchstone,derivationally related form,standard,3
+record,derivationally related form,toper,1
+soothsaying,derivationally related form,divine,0
+rug,hypernym,beater,1
+wipe up,hypernym,take up,0
+british cabinet,member meronym,prime minister,0
+framework,has part,bracing,0
+pressure,derivationally related form,extortionist,0
+remit,hypernym,topic,0
+glareolidae,member meronym,stare,3
+genus datura,hypernym,bird genus,1
+liparididae,member meronym,record,3
+family apocynaceae,member meronym,maguey,3
+effectualness,derivationally related form,efficacious,0
+yarn,hypernym,cordova,3
+wait on,verb group,serve,0
+simplify,hypernym,modify,0
+russian federation,has part,chechnya,0
+return,derivationally related form,withdraw,3
+vault,derivationally related form,vault,0
+documentation,derivationally related form,document,0
+develop,verb group,train,0
+sign,hypernym,mathematical notation,0
+record,member meronym,protozoa,1
+pattern,derivationally related form,traffic pattern,0
+old testament,has part,leviticus,0
+diatomophyceae,hypernym,class,0
+genus corynebacterium,hypernym,bacteria genus,0
+poecilocapsus,hypernym,arthropod genus,0
+view,derivationally related form,consideration,0
+supreme court,synset domain topic of,law,0
+move into,derivationally related form,entryway,0
+air,hypernym,restraint,1
+sarcocephalus latifolius,hypernym,shrub,0
+transposition,member of domain usage,tack,2
+cucumis melo cantalupensis,instance hypernym,sweet melon vine,2
+schizophyta,hypernym,division,0
+truncus celiacus,hypernym,iliac artery,3
+morphologically,hypernym,scathe,0
+paleozoology,hypernym,zoology,0
+polestar,instance hypernym,star,3
+religion,hypernym,institution,0
+kicking,derivationally related form,kick,0
+genus cnidoscolus,member meronym,tread-softly,0
+inspissation,hypernym,evaporation,0
+united states intelligence community,member meronym,oni,0
+pig it,derivationally related form,pig,0
+decennium,hypernym,time period,0
+subsequent,derivationally related form,subsequence,0
+credit,hypernym,assets,0
+prang up,derivationally related form,impregnation,0
+play,synset domain topic of,music,0
+collar,hypernym,striation,0
+explosive charge,derivationally related form,appointment,1
+genus gallinago,member meronym,wilson's snipe,0
+order notostraca,hypernym,animal order,0
+wedding,derivationally related form,wed,0
+x-raying,instance hypernym,tomography,2
+chemistry,derivationally related form,chemist,0
+united kingdom of great britain and northern ireland,member of domain usage,knock-on effect,2
+maiden,member of domain usage,maidhood,2
+school,derivationally related form,schoolhouse,0
+hanoi,instance hypernym,national capital,0
+background signal,hypernym,noise,0
+lap,hypernym,travel,0
+taper,hypernym,deform,0
+jacket,member of domain usage,jacket,2
+etherize,hypernym,put under,0
+litigator,synset domain topic of,law,0
+capsule,derivationally related form,capsular,0
+bind,synset domain topic of,biochemistry,3
+winston s. churchill,instance hypernym,statesman,0
+red,member of domain region,pei,1
+slight,derivationally related form,slight,0
+musicalness,derivationally related form,musical,0
+family cracidae,member meronym,guan,0
+tale,derivationally related form,tell,0
+yell,derivationally related form,yell,0
+germinate,verb group,develop,0
+lavandula,hypernym,asterid dicot genus,0
+linaceae,hypernym,family dipterocarpaceae,3
+barbados,instance hypernym,island,0
+sycamore,hypernym,tree,0
+extraordinary,also see,uncomparable,0
+receipt,instance hypernym,put across,2
+conducting,hypernym,management,0
+neonatal mortality rate,hypernym,mortality rate,0
+warmth,derivationally related form,loving,0
+shock,derivationally related form,offensive,0
+indian banyan,hypernym,fig tree,0
+genus eudyptes,instance hypernym,bird genus,2
+study,derivationally related form,study,0
+genus cochlearia,instance hypernym,dilleniid dicot genus,2
+red china,member of domain usage,yang,2
+tractable,hypernym,prevent,0
+moranzanist patriotic front,hypernym,subject,1
+attract,derivationally related form,attraction,0
+taste sensation,derivationally related form,taste,0
+record,member meronym,ulmus rubra,1
+intersperse,hypernym,set,0
+generalization,member of domain usage,infer,2
+settle,derivationally related form,decisive,0
+somesthesia,hypernym,perception,0
+cinematographer,derivationally related form,motion-picture photography,0
+suit of armour,has part,nosepiece,0
+creep,derivationally related form,creeping,0
+naphtha,hypernym,solvent,0
+slit,derivationally related form,slice,0
+september 11,instance hypernym,terrorist attack,0
+suspend,hypernym,modify,0
+trademark,member of domain usage,record,3
+stiffening,derivationally related form,rigidify,0
+review,hypernym,proceedings,0
+rush family,member meronym,juncus,0
+republic of the philippines,has part,beacon hill,1
+prejudice,derivationally related form,prejudice,0
+manufacture,derivationally related form,manufacture,0
+heath,hypernym,shrub,0
+wetting agent,hypernym,pharmaceutical,1
+overcompensation,hypernym,compensation,0
+tupac amaru revolutionary movement,instance hypernym,terrorist organization,0
+tart,hypernym,pastry,0
+albacore,hypernym,tunny,0
+put,also see,pull off,3
+pure,derivationally related form,impurity,1
+bunfight,hypernym,party,0
+retina,has part,rod cell,0
+respect,derivationally related form,value,0
+quantum,synset domain topic of,physics,0
+clerkship,member of domain usage,clerk,2
+want,derivationally related form,wanter,0
+spell,derivationally related form,magnetization,1
+yearn,derivationally related form,yearning,0
+prumnopitys elegans,hypernym,coniferous tree,0
+water,derivationally related form,water,0
+treat,instance hypernym,touch on,2
+heartsickness,hypernym,depressive disorder,3
+invalidness,hypernym,inconsequence,0
+mumble,derivationally related form,cheer,1
+upset stomach,verb group,turn over,1
+presidentship,instance hypernym,spot,2
+sack,derivationally related form,bag,3
+step,hypernym,tactical manoeuvre,0
+cheese,hypernym,product,3
+subfamily nelumbonaceae,member meronym,nelumbo,0
+destress,hypernym,modify,0
+tempt,derivationally related form,tempter,0
+rotating mechanism,has part,bearing,0
+weigh,instance hypernym,be,2
+muzzle,member of domain usage,muzzle,2
+coverlet,member of domain usage,cover,2
+record,member meronym,aphis lion,1
+venezuela,has part,niagara falls,3
+negligent,derivationally related form,neglect,0
+mitella,member meronym,mitella pentandra,0
+gamble,derivationally related form,gamble,0
+troop,hypernym,process,0
+tap,member of domain usage,swob,2
+suggestion,hypernym,thought,0
+phanerozoic eon,hypernym,move,1
+run off,synset domain topic of,game,0
+family emydidae,member meronym,malaclemys,0
+conduct,derivationally related form,conducting,0
+reduplicate,hypernym,replicate,0
+take off,derivationally related form,leaving,0
+tipuana,hypernym,rosid dicot genus,0
+record,has part,torah,1
+groupware,derivationally related form,emancipation,1
+sweet roll,hypernym,roll,0
+stylize,member of domain usage,stylization,2
+obedience,hypernym,record,3
+neck,has part,windpipe,0
+metrification,derivationally related form,metrify,0
+right,also see,true,0
+newlywed,hypernym,husbandry,3
+solving,derivationally related form,work out,0
+signify,derivationally related form,vital sign,3
+demobilize,derivationally related form,demobilization,0
+pile,hypernym,set,0
+hellenic republic,has part,capital of azerbaijan,1
+yam family,member meronym,magnoliopsid genus,3
+snout,hypernym,respiratory organ,3
+sensing,derivationally related form,sense,0
+stuff,synset domain topic of,preparation,0
+price of admission,derivationally related form,admit,0
+pelvis,has part,hip joint,0
+groaner,derivationally related form,moan,0
+vend,hypernym,trade,0
+stomatopoda,hypernym,animal order,0
+rap,hypernym,strike,0
+mould,derivationally related form,moulding,0
+game equipment,hypernym,equipment,0
+pattern,hypernym,tally,0
+subdivision coniferophytina,member meronym,order coniferales,0
+illustrate,hypernym,ornament,0
+opportune,derivationally related form,opportunity,0
+lily family,member meronym,record,3
+bacteria species,instance hypernym,species,2
+pen,derivationally related form,write,0
+watching,derivationally related form,perambulate,3
+thomas dekker,derivationally related form,shorten,1
+upset,hypernym,move,0
+female mammal,hypernym,mammalian,0
+relative-in-law,hypernym,relative-in-law,1
+al-muhajiroun,synset domain topic of,terrorist act,0
+hisser,derivationally related form,sizz,0
+ski,derivationally related form,ski,1
+housebreaking,member of domain usage,break in,2
+cold sweat,also see,sweat off,1
+pledge,hypernym,consign,0
+falsify,hypernym,turn,0
+photographic equipment,instance hypernym,equipment,2
+putrefaction,member of domain usage,vitiate,2
+outplay,derivationally related form,represent,1
+complexness,derivationally related form,complex,0
+family compositae,member meronym,genus echinacea,0
+federate,derivationally related form,federation,0
+annwn,synset domain topic of,mythology,0
+spillage,derivationally related form,spill,1
+cheating,hypernym,dissimulation,0
+mask,hypernym,protective covering,0
+whipping,derivationally related form,vanquish,0
+disparagement,member of domain usage,darky,0
+transmission channel,derivationally related form,transport,0
+republic of kenya,has part,tamil nadu,1
+stephen arnold douglas,instance hypernym,politico,0
+family araceae,member meronym,genus sansevieria,3
+metaphor,member of domain usage,mark,1
+maidservant,hypernym,house servant,0
+prevaricator,member of domain usage,tergiversate,2
+evil spirit,hypernym,spirit,0
+jewess,hypernym,jew,0
+high church,hypernym,sect,0
+rotary actuator,derivationally related form,position,0
+pine family,member meronym,popillia japonica,3
+genus acer,member meronym,maple,0
+pepto-bismal,hypernym,gastric antacid,0
+extraordinary,also see,superior,0
+runaway,derivationally related form,get away,1
+yellowbird,hypernym,wood warbler,0
+opisthocomus,hypernym,bird genus,0
+proboscidea,member meronym,record,3
+imago,hypernym,prototype,0
+patent of invention,hypernym,written document,0
+proscription,hypernym,rescript,0
+paint,hypernym,space,0
+thermal,derivationally related form,thermic,0
+gesneriaceae,member meronym,genus alsobia,0
+sieva bean,hypernym,shell bean,0
+outgrowth,hypernym,beginning,0
+genus rhinoceros,hypernym,mammal genus,0
+restraint,instance hypernym,discipline,2
+tumble,hypernym,push,0
+role,derivationally related form,officiate,0
+insecta,member meronym,phasmida,0
+beeswax,hypernym,pyralid moth,1
+kingdom of belgium,member of domain region,commune,0
+husband,derivationally related form,thriftiness,0
+vaccinate,hypernym,shoot,0
+downsize,hypernym,rubdown,3
+consult,hypernym,talk over,0
+paul bunyan,instance hypernym,protagonist,3
+the netherlands,has part,rhine river,0
+unfasten,derivationally related form,untying,0
+tube-nosed fruit bat,hypernym,big sur,3
+spit up,derivationally related form,spitter,0
+tubing,hypernym,conduit,0
+home,member of domain region,dinette,2
+ophthalmology,hypernym,medicine,0
+jalopy,hypernym,motorcar,0
+tyranni,hypernym,animal order,0
+absence seizure,hypernym,convulse,3
+democratic and popular republic of algeria,has part,atlas mountains,0
+crack,derivationally related form,crack,2
+scombridae,member meronym,mackerel,0
+addressee,hypernym,line up,1
+pollinate,derivationally related form,pollinate,3
+publicity,hypernym,substance,0
+name,member of domain usage,spironolactone,1
+wing,has part,flaps,0
+terminate,member of domain usage,terminal,2
+order gymnophiona,member meronym,family caeciliidae,0
+swordsman,derivationally related form,swordsmanship,0
+steatornis,instance hypernym,bird genus,2
+grace,hypernym,be,0
+ire,hypernym,emotion,0
+southern beech,hypernym,tree,0
+dying,hypernym,ending,0
+rhinolaryngology,hypernym,medicine,0
+head,derivationally related form,head,0
+ice chest,hypernym,refrigerator,0
+ostrya,member meronym,hop hornbeam,0
+lodestar,hypernym,star,0
+record,derivationally related form,fragment,1
+spasmolytic,hypernym,medicine,0
+irregular,hypernym,symptom,1
+passerine,derivationally related form,pass off,1
+bring up,derivationally related form,equalizer,1
+atlantic ocean,member of domain region,zetland,2
+spray,hypernym,sardine,1
+sell,verb group,sell,0
+nim tree,has part,neem seed,0
+palatableness,hypernym,taste property,0
+muslim calendar,has part,islamic calendar month,0
+nightjar,member of domain usage,interoperability,2
+nascent,derivationally related form,nativity,0
+jewish calendar,member of domain region,tevet,2
+fellow,derivationally related form,comradeship,0
+mathematical statement,instance hypernym,statement,2
+policy,hypernym,course of action,3
+wheedle,instance hypernym,persuade,2
+astragalar,derivationally related form,talus,0
+suppuration,derivationally related form,persist in,1
+shoeblack plant,has part,vascular tissue,1
+inflame,hypernym,worsen,0
+tear,derivationally related form,tear,0
+tanacetum,member meronym,tanacetum ptarmiciflorum,0
+waterleaf,hypernym,woody plant,3
+pizza pie,hypernym,dish,0
+vary,derivationally related form,assimilation,3
+nitrogen,hypernym,element,0
+linguistics,hypernym,scientific discipline,0
+augur,derivationally related form,debut,1
+memory access,instance hypernym,operation,2
+western united states,has part,west coast,0
+czechoslovakian,derivationally related form,czechoslovakian,0
+rester,derivationally related form,rest,0
+taurotragus,member meronym,lakeland,3
+softness,derivationally related form,indistinct,0
+identify,hypernym,recognize,0
+extinction,has part,absorption,0
+offensiveness,derivationally related form,offensive,0
+shut,hypernym,turn,0
+simulium,hypernym,arthropod genus,0
+theatrical producer,hypernym,producer,0
+josephus,instance hypernym,general,0
+st. francis of assisi,hypernym,saint,2
+hugger,derivationally related form,squeeze,0
+archaism,member of domain region,negress,2
+fractionate,member of domain usage,chemistry,2
+rake,member of domain usage,rake,2
+theory,derivationally related form,theorize,0
+generation,derivationally related form,yield,0
+suborder anthropoidea,member meronym,superfamily hominoidea,0
+sliver,hypernym,shaper,3
+water-base paint,instance hypernym,pigment,2
+research,hypernym,research,1
+procedure,derivationally related form,procedural,0
+pick,hypernym,take,0
+witness,verb group,see,0
+story,hypernym,record,0
+think,derivationally related form,thought process,0
+retard,derivationally related form,pratfall,3
+stockpile,derivationally related form,store,0
+founding father,derivationally related form,set up,0
+wipe,derivationally related form,scratch,0
+old colony,has part,allegheny mountains,3
+psychologist,hypernym,scientist,0
+hutment,member of domain usage,war machine,2
+reciprocating engine,has part,engine block,0
+occipital lobe,has part,striate cortex,0
+yearning,hypernym,starter,1
+penalty box,derivationally related form,stop,1
+projection,derivationally related form,release,0
+squelch,also see,ingenuous,0
+selaginellaceae,hypernym,fern family,0
+spot,derivationally related form,pigment,3
+plural form,member of domain usage,swimming trunks,0
+clout,derivationally related form,slug,0
+association,derivationally related form,persia,3
+legume,instance hypernym,seedpod,2
+genus cercidiphyllum,instance hypernym,magnoliid dicot genus,2
+discriminator,hypernym,soul,0
+deal,member of domain usage,cards,2
+work up,verb group,work up,0
+habenaria,member meronym,maguey,3
+preserve,member of domain usage,upkeep,2
+disintegrate,verb group,disintegrate,0
+club,derivationally related form,bludgeon,0
+pathology,derivationally related form,pathologist,0
+yiddish,hypernym,high german,0
+stockpile,derivationally related form,stockist,0
+polaroid land camera,hypernym,photographic,3
+industrial process,hypernym,processus coronoideus,3
+republic of malawi,instance hypernym,african nation,0
+chaldee,derivationally related form,chaldea,0
+stable,derivationally related form,intractableness,1
+flower,hypernym,helleborine,1
+lifesaver,hypernym,ontogeny,1
+masticate,derivationally related form,jaw,0
+usher,derivationally related form,usher,0
+jettison,hypernym,toss out,0
+scallop,derivationally related form,scallop,0
+vulgarism,member of domain usage,licking,3
+gastropoda,member meronym,record,3
+gallows,hypernym,instrument of execution,0
+giraffe,hypernym,ruminant,0
+heart of dixie,has part,alabama river,0
+record,member meronym,titanosaurus,1
+length,hypernym,dimension,1
+go,also see,surmount,0
+fund,verb group,fund,0
+overlord,derivationally related form,mastership,0
+usa,has part,pine tree state,0
+iberian peninsula,has part,argentine republic,3
+tadalafil,hypernym,virility drug,0
+dogmatist,member of domain usage,dogmatize,2
+coenobite,hypernym,religious,0
+undervaluation,derivationally related form,transact,1
+phylum mollusca,member meronym,class cephalopoda,0
+raise,derivationally related form,cultivate,1
+ambusher,hypernym,attacker,0
+sentiency,hypernym,module,0
+think,derivationally related form,viewpoint,3
+spread,hypernym,distribution,0
+tag line,hypernym,transmission line,3
+service,synset domain topic of,badminton,0
+hallmark,derivationally related form,authenticate,0
+parable,derivationally related form,allegorize,0
+lorazepam,hypernym,benzodiazepine,0
+seriphidium,member meronym,seriphidium tridentatum,0
+vibration,derivationally related form,shake hands,3
+clamour,derivationally related form,bubble and squeak,3
+pardon,derivationally related form,pardon,0
+woodpecker,hypernym,piciform bird,0
+genus allamanda,instance hypernym,magnoliopsid genus,2
+trap,derivationally related form,record,3
+honorary society,instance hypernym,institution,2
+sparkle,derivationally related form,sloe,3
+dawdle,derivationally related form,trifling,0
+sprog,hypernym,recruit,0
+rave,derivationally related form,rave,0
+grace,derivationally related form,decoration,0
+strip,derivationally related form,swag,0
+waterloo,instance hypernym,pitched battle,0
+dawn,derivationally related form,lull,1
+knock,member of domain usage,bumper,2
+vidua,member meronym,widow bird,0
+national liberation army,instance hypernym,terrorist organization,0
+avowal,hypernym,plight,1
+cell phone,derivationally related form,mobile phone,0
+reaching,hypernym,attainment,3
+tergiversate,derivationally related form,tergiversation,0
+mindful,derivationally related form,mindfulness,0
+order actiniaria,member meronym,sea anemone,0
+sports equipment,hypernym,equipment,0
+shell,hypernym,heat shield,3
+pisa,instance hypernym,urban center,0
+tide,derivationally related form,epidermic,0
+acne,hypernym,skin disorder,0
+jewel,hypernym,ornament,0
+rubinstein,instance hypernym,piano player,0
+withdraw,derivationally related form,withdrawal,0
+stay on,derivationally related form,protraction,0
+smash up,hypernym,damage,0
+zaire,member of domain region,river kasai,2
+transplant,derivationally related form,transfuse,3
+russian revolution,instance hypernym,revolutionize,3
+dopa,hypernym,acid,3
+run up,hypernym,roll up,0
+premix,hypernym,meshing,3
+tranquillizer,derivationally related form,tranquillize,0
+twilight vision,hypernym,visual sense,0
+vedic literature,derivationally related form,vedist,0
+pant,derivationally related form,pant,0
+resolve,hypernym,make up one's mind,0
+train,derivationally related form,train,0
+tremble,derivationally related form,vibration,0
+squamata,member meronym,suborder serpentes,0
+disparagement,member of domain usage,suit,0
+french republic,has part,french region,0
+tensity,derivationally related form,tense up,0
+sir arthur travers harris,instance hypernym,marshall,0
+tie in,derivationally related form,record,3
+affidavit,hypernym,testimony,0
+take care,derivationally related form,mind,0
+united kingdom of great britain and northern ireland,member of domain region,special air service,0
+wrestling,instance hypernym,struggle,2
+monocotyledones,member meronym,subclass alismatidae,0
+order,derivationally related form,tell,0
+genus crataegus,member meronym,fennel,3
+wholesale,derivationally related form,wholesaler,0
+humourist,derivationally related form,humourous,1
+approbate,member of domain usage,commendation,2
+reprobate,derivationally related form,condemnation,0
+record,hypernym,central bank,1
+stem,hypernym,plant organ,0
+mongolic language,derivationally related form,mongolian,0
+heath family,member meronym,genus bruckenthalia,0
+true,also see,faithful,0
+americana,hypernym,mastodont,1
+tethyidae,member of domain region,tethys,2
+thomas huxley,instance hypernym,life scientist,0
+human face,hypernym,external body part,0
+record,hypernym,subfamily papilionoideae,1
+haemulon,instance hypernym,fish genus,2
+appointment,derivationally related form,nomination,3
+atmospheric state,derivationally related form,gaseous,1
+link,derivationally related form,connected,0
+set aside,derivationally related form,allowance,0
+usa,member of domain region,social security number,0
+yell,derivationally related form,shout,0
+manufacture,hypernym,creating from raw materials,1
+antiestablishmentism,hypernym,school of thought,0
+luckiness,derivationally related form,lucky,0
+organization,derivationally related form,organize,0
+interchange,hypernym,mercantilism,0
+family caeciliidae,member meronym,caecilian,0
+tung tree,hypernym,flowering tree,0
+miaow,derivationally related form,record,3
+lucknow,hypernym,recognize,1
+caretaker,hypernym,substitute,1
+deflation,synset domain topic of,geology,0
+spiritize,hypernym,riddle,0
+view,derivationally related form,view,0
+frontierswoman,hypernym,pioneer,0
+thruster,member of domain usage,thrust,2
+slide,derivationally related form,slide,0
+trade name,member of domain usage,urex,0
+family cactaceae,member meronym,genus cereus,0
+turn around,derivationally related form,turn back,0
+unusual person,hypernym,soul,0
+tower,derivationally related form,tower,0
+perennation,synset domain topic of,plant life,0
+alphabet,hypernym,script,0
+taster,derivationally related form,taste,0
+hush,hypernym,change,0
+release,derivationally related form,publishing,0
+secure,hypernym,strengthen,0
+oruvail,hypernym,nsaid,0
+family compositae,member meronym,lagenophera,0
+withdraw,derivationally related form,withdraw,1
+european,member of domain usage,european union,2
+replicate,hypernym,replicate,0
+slippage,derivationally related form,wharf,1
+renounce,hypernym,relocate,3
+sweet cherry,member of domain region,sweet cherry,2
+clean,hypernym,withdraw,0
+psychopsis,member meronym,butterfly orchid,0
+reform,verb group,reform,0
+solar panel,hypernym,electrical device,0
+zocor,hypernym,statin drug,0
+public relations person,hypernym,soul,0
+grouping,hypernym,inactivity,3
+permit,synset domain topic of,statute law,3
+tegument,member of domain region,sweat gland,2
+wait,member of domain usage,waiter,2
+asklepios,instance hypernym,greco-roman deity,0
+reticulitermes,hypernym,mammal genus,3
+lymantria,member meronym,lymantria dispar,0
+genus cyon,hypernym,mammal genus,0
+variable resistor,member of domain region,wiper arm,2
+sarafem,hypernym,ssri,0
+window,hypernym,video display,0
+genus craspedia,hypernym,genus gladiolus,3
+horse,hypernym,equine,0
+relegate,derivationally related form,compartmentalization,0
+expiate,hypernym,legal right,3
+privilege,member of domain usage,favour,2
+petroselinum,hypernym,rosid dicot genus,0
+fringillidae,member meronym,genus carpodacus,0
+reshuffling,derivationally related form,reshuffle,0
+tinting,hypernym,colouring,0
+winter cress,hypernym,cress plant,0
+inactive,derivationally related form,quiescency,0
+teem,hypernym,seethe,0
+responder,hypernym,communication,3
+lobito,hypernym,urban center,2
+rubiaceae,member meronym,psychotria,0
+scatter,hypernym,separate,0
+leafing,hypernym,ontogeny,0
+shyness,derivationally related form,unsure,0
+cruise,instance hypernym,travel,2
+tenebrionidae,hypernym,arthropod family,0
+eye dropper,derivationally related form,drop,0
+wind,hypernym,smell,0
+wiggle,derivationally related form,record,3
+purport,synset domain topic of,law,1
+mensurate,member of domain usage,measurer,2
+concurrent negligence,instance hypernym,nonperformance,2
+expense,hypernym,fixed costs,3
+drop,derivationally related form,fall,0
+ordination,derivationally related form,ordinate,0
+record,derivationally related form,throwaway,1
+motorcycle,has part,low gear,1
+oryzopsis,member meronym,record,3
+consist,hypernym,salient,3
+mealybug,instance hypernym,coccid insect,2
+mope,derivationally related form,shoot,1
+shove,hypernym,push,0
+wash,verb group,wash out,0
+president,instance hypernym,united states president,1
+influence,derivationally related form,work,0
+atheist,derivationally related form,godlessness,0
+family falconidae,member meronym,genus falco,0
+choir,hypernym,surface area,3
+encephalon,has part,brainstem,3
+prowess,derivationally related form,creative person,0
+colloquialism,member of domain usage,long johns,0
+triumph,hypernym,jubilation,0
+abutter,derivationally related form,marching,3
+record,hypernym,hater,1
+taxodium mucronatum,instance hypernym,cypress,2
+hi,member of domain region,grill,3
+infer,member of domain usage,system of logic,2
+warp,derivationally related form,misrepresentation,0
+seconder,hypernym,proponent,3
+remunerator,derivationally related form,pay off,0
+blow,verb group,waste,0
+congee,hypernym,sacking,0
+near east,has part,united arab emirates,3
+lie detector,derivationally related form,lie,1
+wear away,member of domain usage,erosion,2
+disorganization,derivationally related form,disarrange,0
+trail,derivationally related form,tailfin,3
+libra,hypernym,soul,0
+sink,hypernym,natural process,0
+theodore roosevelt,instance hypernym,united states president,0
+speak,derivationally related form,speech,0
+hang up,derivationally related form,covering,1
+organization,derivationally related form,organize,0
+place,member of domain usage,identity,2
+culture,derivationally related form,nativity,3
+train,derivationally related form,teaching,0
+nutmeg state,instance hypernym,american state,0
+physiology,hypernym,biology,0
+tannenberg,instance hypernym,pitched battle,0
+world,derivationally related form,worldling,0
+genus adansonia,member meronym,monkey-bread tree,0
+volunteer,derivationally related form,volunteer,0
+passer,synset domain topic of,football game,0
+disrespect,derivationally related form,push aside,1
+powerful,hypernym,station,1
+lard,synset domain topic of,preparation,0
+seniority,hypernym,high status,1
+do,hypernym,marketing,1
+development,member of domain usage,chess game,2
+private property,instance hypernym,property,2
+communization,derivationally related form,communize,0
+take a breath,derivationally related form,respiratory,0
+indian ocean,member of domain region,arabian sea,2
+vituperate,derivationally related form,vilification,0
+sophora,instance hypernym,rosid dicot genus,2
+make,verb group,make,0
+steamer clam,derivationally related form,steamroller,3
+asian wild ox,hypernym,wild ox,0
+motorcycle,member of domain usage,cycling,2
+rouge,hypernym,war paint,0
+removal,derivationally related form,withdraw,0
+zanthoxylum,instance hypernym,rosid dicot genus,2
+music,derivationally related form,player,0
+persistent,synset domain topic of,biology,0
+mary leakey,instance hypernym,paleontologist,0
+putt,synset domain topic of,softball game,3
+striatum,instance hypernym,basal ganglion,2
+jung,instance hypernym,psychologist,0
+muttering,hypernym,complaint,0
+card,instance hypernym,correspondence,2
+simple fraction,hypernym,fraction,0
+stop,derivationally related form,osseous tissue,3
+leafage,has part,lobe,0
+tangiers,instance hypernym,urban center,0
+italy,has part,bolzano,0
+float,derivationally related form,glide,3
+seepage,derivationally related form,seep,0
+sang-froid,derivationally related form,poise,0
+speak,derivationally related form,addressee,0
+oddball,hypernym,fungus,1
+testudines,member meronym,testudinidae,0
+take,derivationally related form,reflexion,1
+steganography,derivationally related form,stenographer,1
+windup,hypernym,talking,1
+drop,hypernym,pall,1
+keogh plan,hypernym,plan,1
+uncomparable,similar to,creating by removal,3
+study hall,hypernym,time period,0
+hot weather,similar to,precession,1
+slip noose,has part,slipknot,0
+mix,derivationally related form,mixer,0
+shout,derivationally related form,yell,0
+descendent,verb group,derive,1
+office,synset domain topic of,western church,1
+traverser,hypernym,mover,0
+shore up,derivationally related form,dyke,1
+violate,hypernym,disrespect,0
+signalize,derivationally related form,signalization,0
+avowal,derivationally related form,verify,0
+tipsiness,derivationally related form,souse,0
+steward,derivationally related form,stewardship,0
+poker game,hypernym,cards,0
+lay to rest,derivationally related form,sepulture,0
+condiment,hypernym,spring onion,3
+norwegian,derivationally related form,norwegian,0
+raft foundation,hypernym,understructure,0
+slipper,hypernym,spirit,3
+patching,derivationally related form,piece,1
+sweet pepper plant,has part,sweet clover,3
+kingdom fungi,hypernym,kingdom,1
+study,member of domain usage,work,2
+intravenous anesthetic,hypernym,chemical agent,3
+metacarpophalangeal joint,hypernym,synovial joint,1
+beta software,hypernym,computing system,3
+germany,member of domain usage,red army faction,2
+combine,derivationally related form,collection,3
+fail,derivationally related form,weakness,0
+strike a blow,instance hypernym,touch on,2
+waters,hypernym,actress,2
+filicopsida,member meronym,family dipterocarpaceae,3
+lathyrus,member meronym,yellow vetchling,0
+kind,member of domain usage,kindness,2
+location,hypernym,physical object,0
+herring,derivationally related form,trace,1
+sea squab,hypernym,saltwater fish,0
+invention,derivationally related form,gestate,0
+censor,hypernym,officiate,3
+rhythm,derivationally related form,win,3
+throw out,derivationally related form,tyrannize,3
+clap,derivationally related form,whine,3
+scup,hypernym,saltwater fish,0
+greek mythology,hypernym,classical mythology,0
+apply,derivationally related form,application,0
+offensive,also see,evil,0
+leach,derivationally related form,watering,3
+surfeit,hypernym,supply,0
+grand canal,instance hypernym,canal,0
+smuggle,hypernym,export,0
+number,member of domain usage,total,2
+souse,hypernym,insect,1
+icteridae,member meronym,sturnella,0
+trim down,hypernym,minify,0
+followers of the phrophet,synset domain topic of,terrorist act,1
+stand up,also see,uprise,0
+limiter,hypernym,borsht circuit,3
+macropodidae,member meronym,macropus,0
+evade,derivationally related form,slip,0
+shoebird,hypernym,wading bird,0
+valvule,derivationally related form,valve,0
+scantness,member of domain usage,stingy,2
+graves' disease,hypernym,public holiday,1
+pool,has part,masse shot,0
+vex,derivationally related form,vexation,0
+utility,member of domain usage,political economy,2
+record,derivationally related form,whammy,1
+community,synset domain topic of,environmental science,0
+inspectorship,hypernym,spot,0
+transport,hypernym,request,3
+king of great britain,member of domain region,guy fawkes day,1
+citify,derivationally related form,urbanize,3
+handiness,hypernym,convenient,3
+cabernet sauvignon grape,hypernym,maguey,3
+trainer,derivationally related form,train,0
+record,derivationally related form,roman type,1
+venous blood system,synset domain topic of,zoology,0
+train,member of domain usage,discipline,2
+icterus,member meronym,orchard oriole,0
+wire,member of domain usage,wirer,2
+work,derivationally related form,work,0
+percomorphi,member meronym,percidae,0
+drop,derivationally related form,trickle,0
+noaa,has part,national weather service,0
+zea mays,has part,corncob,0
+tilt,derivationally related form,sway,0
+hydrobatidae,member of domain region,storm petrel,2
+people,hypernym,grouping,0
+scorpion,instance hypernym,star sign,0
+elected official,hypernym,official,0
+realize,synset domain topic of,music,0
+instigation,derivationally related form,abet,0
+family compositae,member meronym,genus achillea,0
+x-ray machine,hypernym,setup,0
+record,member meronym,menyanthes,1
+record,member meronym,scorpaenid fish,1
+schematize,hypernym,modify,0
+isobar,hypernym,vitamin b complex,1
+reservation,derivationally related form,reserve,0
+bumph,hypernym,reading material,0
+hylidae,hypernym,amphibian family,0
+parallelogram,hypernym,record,3
+remake,derivationally related form,remaking,0
+run,hypernym,race,0
+spell,hypernym,voice communication,0
+method of accounting,instance hypernym,register,2
+spiral,derivationally related form,spiral,0
+verify,instance hypernym,try out,2
+isomerize,derivationally related form,isomerization,0
+person,derivationally related form,squawk,1
+esquire,hypernym,tender,0
+turn over,also see,pass on,0
+advertorial,hypernym,publicity,1
+republic of hungary,has part,plattensee,0
+trusty,derivationally related form,trustworthiness,0
+digitizer,hypernym,data converter,0
+peel off,member of domain usage,aviation,2
+stickiness,hypernym,viscousness,0
+polypodiales,member meronym,parkeriaceae,0
+genus hoya,hypernym,genus chelonia,3
+satisfaction,derivationally related form,expiate,0
+william kidd,hypernym,skipper,2
+push,derivationally related form,pushcart,3
+tour,derivationally related form,tour,0
+primer,hypernym,textbook,0
+anxiety disorder,hypernym,psychological disorder,0
+rushing,hypernym,political movement,3
+fiddle,hypernym,play,0
+wintergreen oil,instance hypernym,seasoning,2
+saltwort,hypernym,shrub,0
+robeson,hypernym,vocalizer,2
+ussr,member of domain region,stern,0
+rot,hypernym,garbage,0
+market analyst,synset domain topic of,mercantilism,1
+driver,derivationally related form,drive,0
+water,derivationally related form,waterer,0
+demille,instance hypernym,maker,3
+rubdown,derivationally related form,cancellation,1
+insensible,derivationally related form,reason out,1
+stimulation,hypernym,rousing,0
+salivary gland,has part,spittle,0
+ticking,derivationally related form,ticktock,0
+meleagrididae,hypernym,reptile family,3
+style,hypernym,reproductive structure,0
+attitudinize,derivationally related form,attitude,0
+interrelate,verb group,relate,0
+refining,hypernym,snatch,1
+conflict,derivationally related form,conflict,0
+peony family,member of domain region,paeonia,2
+stamp,hypernym,token,0
+hospital,derivationally related form,hospitalize,0
+economist,derivationally related form,economy,0
+plural form,member of domain usage,swimming trunks,3
+reminisce,hypernym,think back,0
+tell,derivationally related form,statement,0
+twist,hypernym,stream,0
+service station,hypernym,station,0
+protest,hypernym,verify,0
+salientian,derivationally related form,himantopus,3
+send for,derivationally related form,call,2
+water starwort,hypernym,water plant,0
+proprietor,derivationally related form,ownership,0
+turner,instance hypernym,cookware,2
+titanium,hypernym,metallic element,0
+muslimism,hypernym,monotheism,0
+ideation,derivationally related form,imagine,0
+wonder,hypernym,occurrent,0
+relegate,derivationally related form,sorting,0
+classical mythology,hypernym,mythology,0
+monkfish,hypernym,spiny-finned fish,0
+reallot,hypernym,shell out,0
+pattern,derivationally related form,modeller,0
+exchange,hypernym,modify,0
+nowruz,hypernym,vernal equinox,0
+start,derivationally related form,startle,3
+family arcidae,hypernym,mollusk family,0
+riddle,derivationally related form,permeation,0
+hunting,hypernym,outdoor sport,0
+organization of american states,member meronym,record,3
+lamnidae,member meronym,shark,3
+the alps,instance hypernym,range of mountains,0
+strengthen,derivationally related form,fortification,0
+family bovidae,member meronym,genus gazella,0
+krypton,hypernym,noble gas,0
+rotate,synset domain topic of,western church,1
+good,also see,virtuous,0
+mn,derivationally related form,smash,1
+impendency,derivationally related form,impend,0
+reptilia,member meronym,reptilian,0
+fund,derivationally related form,fund,1
+trance,derivationally related form,bewitchery,0
+victimizer,derivationally related form,victim,3
+name,member of domain usage,trichlormethiazide,1
+joint,derivationally related form,gliding joint,3
+mint family,member meronym,pycnanthemum,0
+magnet,hypernym,feature,0
+black hills,has part,rushmore,0
+retreat,hypernym,country dancing,3
+empyrean,member of domain region,vietnam war,1
+state of kuwait,instance hypernym,asian nation,0
+family bovidae,member of domain region,raphicerus,2
+suborder lari,hypernym,animal order,0
+family compositae,member meronym,genus anacyclus,0
+vend,derivationally related form,huckster,0
+time,derivationally related form,timer,0
+reflux,member of domain usage,ebb out,2
+sandgrouse,instance hypernym,columbiform bird,2
+windward isles,has part,st. lucia,0
+sundew family,member meronym,loiseleuria,1
+record,hypernym,maxim,1
+rate,derivationally related form,score,0
+origination,derivationally related form,originator,3
+bugle call,hypernym,demodulate,3
+greek chorus,synset domain topic of,vocal,3
+theatre,has part,parterre,0
+loud,also see,hearable,0
+mistletoe family,member meronym,loranthus,0
+excoriate,derivationally related form,scrape,3
+duck,derivationally related form,submersion,0
+satyridae,hypernym,arthropod family,0
+seashore,hypernym,shore,0
+sturdiness,hypernym,resolve,0
+salesmanship,member of domain usage,salesman,2
+new style calendar,has part,january,0
+sea,hypernym,herbaceous plant,1
+try out,derivationally related form,playoff,3
+isobutyl nitrite,hypernym,vasodilator,0
+family entomophthoraceae,hypernym,fungus family,0
+landscape,hypernym,ornament,0
+tempt,derivationally related form,temptingness,0
+wandering,derivationally related form,wander,0
+oxyuranus,hypernym,reptile genus,0
+conductor,derivationally related form,transmit,0
+gas plant,hypernym,herbaceous plant,0
+pasture,instance hypernym,give,2
+outsmart,hypernym,trump,0
+syndicate,derivationally related form,wolverine,2
+whorl,derivationally related form,spiral,0
+prescription medicine,derivationally related form,pharmaceutical,1
+map,derivationally related form,map,0
+head,hypernym,projection,0
+peppiness,hypernym,sprightliness,0
+chant,hypernym,singsong,3
+tear,derivationally related form,tear,0
+powdered mustard,hypernym,vomitive,0
+build,hypernym,create,0
+opera glasses,has part,ocular,0
+war zone,synset domain topic of,war machine,0
+christianity,derivationally related form,christian,0
+business sector,hypernym,sector,0
+realization,derivationally related form,symbolist,1
+biographer,derivationally related form,life story,0
+mind,hypernym,reminisce,3
+genus stentor,hypernym,protoctist genus,0
+genus carpobrotus,member meronym,sour fig,0
+supportive,member of domain usage,support,2
+tiercel,member of domain usage,tiercel,2
+guaiacum,hypernym,rosid dicot genus,0
+pep up,hypernym,drug,1
+weed,derivationally related form,schmooze,3
+axillary fossa,member of domain usage,axillary,2
+predation,derivationally related form,raven,0
+law,derivationally related form,legal expert,0
+lymphatic vessel,hypernym,lymphoid tissue,3
+separate,derivationally related form,ramification,0
+menorrhagia,hypernym,symptom,0
+quarterback,derivationally related form,signal caller,0
+trademark,member of domain usage,drambuie,0
+zoloft,hypernym,ssri,0
+rollback,hypernym,offensiveness,3
+freshener,member of domain usage,refresh,2
+leaver,derivationally related form,leaver,3
+family dryopteridaceae,member meronym,polystichum,0
+landing,derivationally related form,put down,0
+genus xeranthemum,hypernym,asterid dicot genus,0
+hungriness,derivationally related form,starve,0
+suspect,derivationally related form,intuit,1
+moonshine,derivationally related form,bootleg,0
+powell,instance hypernym,statesman,0
+oil,member of domain usage,oil,2
+junction,hypernym,joining,0
+power hammer,instance hypernym,power tool,2
+walkaway,derivationally related form,romp,0
+pot,hypernym,plant,0
+subclass selachii,hypernym,class,1
+negativist,derivationally related form,negativity,0
+student,derivationally related form,scholarly,0
+chimney,instance hypernym,territory,1
+retaking,hypernym,retrieval,0
+watchful,derivationally related form,qui vive,0
+family compositae,member meronym,genus aster,0
+male genitals,hypernym,privates,0
+distortion,derivationally related form,wring,0
+record,derivationally related form,sprightliness,1
+rent,derivationally related form,lease,0
+rigidness,member of domain usage,rigidify,2
+dwindling away,member of domain usage,dwindle down,2
+wax light,has part,scotsman,3
+righteous,member of domain usage,righteousness,2
+cartridge,hypernym,ammunition,0
+numerousness,hypernym,number,0
+unsuccessful person,hypernym,unfortunate person,0
+genus calamus,member meronym,calamus,0
+hot up,derivationally related form,warmth,0
+understanding,has part,term,0
+freeze,derivationally related form,fridge,3
+plague,derivationally related form,plundering,3
+melophagus,member of domain region,sheep tick,2
+oni,hypernym,office,0
+retrenchment,derivationally related form,retreat,3
+work out,hypernym,reasoning,3
+pontoon,hypernym,lighter,0
+supreme headquarters,hypernym,head honcho,1
+singapore island,has part,thailand,3
+step up,hypernym,move,0
+caisson,synset domain topic of,war machine,0
+record,derivationally related form,recording machine,0
+pellucidity,derivationally related form,straighten out,0
+plural form,member of domain usage,poor people,0
+ptilonorhynchidae,hypernym,bird family,0
+overlord,hypernym,swayer,0
+sombrero,instance hypernym,island,0
+contortionist,hypernym,acrobat,0
+record,hypernym,bird genus,1
+poaceae,member meronym,record,3
+baptist,hypernym,protestant,0
+fund,hypernym,support,0
+atlantic ocean,has part,new york bay,0
+ground,derivationally related form,terra firma,0
+bob,hypernym,hairstyle,0
+twin falls,hypernym,waterfall,2
+waxwing,hypernym,oscine bird,0
+twilight zone,derivationally related form,territory,1
+connect,hypernym,join,0
+infestation,derivationally related form,pollute,1
+dependent,derivationally related form,dependent,0
+unciform bone,instance hypernym,wrist bone,2
+lieutenant,derivationally related form,lieutenancy,0
+rough drawing,hypernym,study,0
+labridae,member meronym,tautoga,0
+stamp collector,derivationally related form,stamp collection,0
+yellow,hypernym,tree,1
+concentration,derivationally related form,tending,3
+fore-and-aft sail,hypernym,military drill,1
+gomorrha,instance hypernym,urban center,0
+winding,hypernym,walking,1
+whirl,member of domain usage,whirl,2
+shepherd dog,instance hypernym,working dog,2
+specialist,derivationally related form,specialize,3
+threaten,derivationally related form,riskiness,0
+united kingdom of great britain and northern ireland,member of domain region,ltd.,0
+volunteer state,has part,brownsville,3
+contact sport,hypernym,play,1
+vouch,derivationally related form,repurchase,1
+box,synset domain topic of,sport,0
+fulfill,derivationally related form,satisfier,1
+fleet,member meronym,passenger vehicle,0
+record,has part,zettabit,1
+precook,derivationally related form,cook,1
+probate will,hypernym,identity verification,3
+transition,derivationally related form,transition,0
+cub,derivationally related form,young carnivore,0
+sanskritic language,hypernym,indo-aryan,0
+lower california,instance hypernym,peninsula,0
+yellow mombin,hypernym,edible fruit,0
+tweezer,derivationally related form,tweeze,0
+cool,hypernym,low temperature,0
+piece,hypernym,creation,0
+mutineer,derivationally related form,soldier,1
+lamp,hypernym,piece of material,3
+intensiveness,derivationally related form,intense,0
+stylization,derivationally related form,stylize,0
+trip,derivationally related form,trip,0
+rising,derivationally related form,meeter,0
+squelch,also see,real,0
+breach,derivationally related form,violate,0
+territory,hypernym,geographical region,0
+laurel family,member meronym,genus sassafras,0
+unresponsiveness,hypernym,quality,0
+basra,instance hypernym,outport,3
+lake mead,instance hypernym,reservoir,0
+still,derivationally related form,stillness,0
+family cupressaceae,member meronym,sequoiadendron,0
+appalachians,has part,cumberland plateau,0
+procaviidae,member meronym,procavia,0
+mitosis,hypernym,exocrine gland,1
+record,hypernym,fungus genus,1
+knife,hypernym,weapon system,0
+passionflower vine,has part,passion fruit,0
+genus forsythia,hypernym,genus chelonia,3
+family compositae,member meronym,genus cotula,0
+plummet,hypernym,mechanical device,1
+flower,derivationally related form,inflorescence,3
+take aback,hypernym,take,1
+juncture,derivationally related form,intersect,1
+observance,hypernym,social occasion,0
+slit,hypernym,incise,0
+doc,has part,patent office,0
+change of shape,hypernym,change,0
+porto,hypernym,urban center,2
+revalue,derivationally related form,review,0
+keep,hypernym,detain,0
+mind,derivationally related form,take care,0
+bacteriologist,derivationally related form,bacteriology,0
+consummation,hypernym,chemical process,1
+joy,hypernym,excitement,1
+kakatoe,member meronym,cockatoo,0
+organizer,derivationally related form,unionize,0
+republic of austria,member of domain region,vienna,2
+family coccinellidae,member meronym,perambulate,0
+instilling,hypernym,indoctrination,0
+drive,derivationally related form,driving,0
+tongue,hypernym,organ,0
+hallucination,derivationally related form,renegue on,3
+good spirit,also see,moral,1
+largo,instance hypernym,passage,2
+order gaviiformes,member meronym,columbiform bird,1
+spatter,derivationally related form,design,1
+property,hypernym,region,3
+family colubridae,member meronym,lampropeltis,0
+nonconductor,member of domain usage,insulate,2
+play,derivationally related form,playing,0
+market,hypernym,mart,0
+waterford,hypernym,urban center,2
+refinish,derivationally related form,restorer,0
+elevation,hypernym,step-up,0
+georgian,derivationally related form,george i,0
+vengeance,hypernym,revenge,0
+blessedness,hypernym,happiness,0
+red china,member of domain usage,great proletarian cultural revolution,2
+mope around,hypernym,move,0
+family dasypodidae,member meronym,magnoliopsid genus,3
+stamp,derivationally related form,stamp,0
+solitariness,hypernym,temperament,0
+vernacular,member of domain usage,plank over,3
+percolate,hypernym,percolate,0
+wash,instance hypernym,be,2
+witchery,hypernym,sorcery,0
+family cercopidae,member meronym,record,3
+tinkerer,derivationally related form,tinker,0
+magnoliopsid family,hypernym,family,0
+typha,member meronym,cattail,0
+esteem,derivationally related form,look up to,0
+questioner,derivationally related form,question,0
+tremble,member of domain usage,tremble,2
+audiotape,hypernym,taping,0
+roleplay,derivationally related form,playback,1
+king of great britain,member of domain region,townee,1
+nicaea,instance hypernym,urban center,0
+genus coccyzus,hypernym,bird genus,0
+triplicity,hypernym,triplet,0
+gravitate,derivationally related form,rotation,3
+etch,hypernym,print,0
+ny,has part,kukenaam falls,3
+turdus,hypernym,bird genus,0
+lump,derivationally related form,lumper,0
+record,hypernym,beta blocker,1
+italy,member of domain region,red brigades,0
+coalesce,hypernym,unite,0
+tree,hypernym,blackwood tree,1
+effortfulness,hypernym,difficulty,0
+killer t cell,hypernym,t lymphocyte,0
+words,hypernym,line,0
+run afoul,instance hypernym,violate,2
+stromateidae,member of domain region,paprilus,2
+trust,hypernym,wish,0
+expansion,synset domain topic of,maths,0
+cooperativeness,hypernym,political theory,1
+caretaker,hypernym,steward,0
+sabre,derivationally related form,sabre,0
+reallot,derivationally related form,reapportionment,0
+data structure,hypernym,system,0
+torpor,hypernym,physiological state,0
+genus eupatorium,member meronym,spotted joe-pye weed,0
+tractable,instance hypernym,obedient,2
+scrap,derivationally related form,record,3
+valvular heart disease,hypernym,heart disease,0
+order gaviiformes,member meronym,tetranychidae,1
+instrument,hypernym,outfit,0
+thump,derivationally related form,pounding,0
+help,derivationally related form,supporter,0
+plicate,hypernym,turn up,0
+logical argument,hypernym,statement,1
+corn,derivationally related form,zea mays,0
+ante,synset domain topic of,cards,0
+hindu deity,synset domain topic of,sect,3
+refresh,hypernym,renew,0
+moisten,derivationally related form,moistening,0
+violate,derivationally related form,plundering,0
+walk around,hypernym,walk,0
+taraktogenos,hypernym,dilleniid dicot genus,0
+worst,derivationally related form,worst,0
+genus ancylus,member of domain usage,chariot,2
+tenthredinidae,hypernym,arthropod family,0
+sea cradle,hypernym,shellfish,0
+countermarch,synset domain topic of,war,3
+tote up,derivationally related form,total,0
+purse,instance hypernym,container,2
+universal gravitational constant,hypernym,constant,0
+tattle,derivationally related form,telling,0
+psoralea,member meronym,psoralea esculenta,0
+compliant,derivationally related form,follow,0
+heracleum,member meronym,hogweed,0
+trematoda,member meronym,trematode worm,0
+straddle,member of domain usage,scope,2
+feeding,derivationally related form,pressure feed,3
+region,hypernym,body part,0
+profess,derivationally related form,confessor,0
+vulva,hypernym,female genitals,0
+religion,derivationally related form,religiousism,1
+snogging,hypernym,snuggling,0
+united kingdom of great britain and northern ireland,member of domain region,milliard,0
+lesser antilles,instance hypernym,archipelago,0
+stack,derivationally related form,stack,0
+explore,derivationally related form,exploration,0
+walpole,instance hypernym,historiographer,0
+inlay,hypernym,adornment,3
+horseman,derivationally related form,penmanship,3
+withdraw,derivationally related form,withholding tax,1
+shopping,derivationally related form,shop,0
+carving,hypernym,sculpture,0
+soundness,hypernym,status,0
+fixing agent,instance hypernym,compound,2
+genus anser,hypernym,bird genus,0
+rejective,derivationally related form,reject,0
+epacris,hypernym,australian heath,0
+dishonourableness,derivationally related form,dishonourable,0
+solacement,member of domain usage,soothe,2
+soaking up,hypernym,absorptive,3
+lorenzo the magnificent,instance hypernym,star sign,1
+personify,derivationally related form,persona,0
+discredit,derivationally related form,dishonour,3
+sleigh,has part,runner,0
+excavation,synset domain topic of,archeology,0
+netmail,derivationally related form,mail,3
+give,instance hypernym,return,2
+scare,derivationally related form,panic,0
+king of great britain,member of domain region,cobblers,1
+radioactive decay,derivationally related form,disintegrate,0
+hill,member of domain usage,mound,2
+undress,derivationally related form,undress,0
+highlighter,instance hypernym,cosmetic,2
+silver salmon,hypernym,salmon,0
+penury,hypernym,poverty,0
+task,derivationally related form,task,0
+thwarter,derivationally related form,entrapment,3
+crumple,hypernym,give way,0
+starboard,member of domain usage,seafaring,2
+hatching,derivationally related form,crosshatch,0
+arbutus,instance hypernym,shrub,2
+dyke,derivationally related form,dyke,0
+record,hypernym,herbaceous plant,1
+revivalist,derivationally related form,evangelism,0
+world war ii,has part,midway,0
+salem,instance hypernym,urban center,0
+stewing,hypernym,preparation,0
+tree fern,instance hypernym,fern,2
+record,member meronym,rainbow smelt,1
+myriagram,hypernym,weight unit,0
+develop,verb group,develop,0
+shuffle,derivationally related form,mixture,0
+genus amia,hypernym,fish genus,0
+genus chloroxylon,hypernym,bird genus,1
+tally,derivationally related form,tally,0
+post,derivationally related form,poster,0
+careless,derivationally related form,performance,3
+exonerate,derivationally related form,vindication,0
+shoot,derivationally related form,shot,0
+obliteration,derivationally related form,obliterate,0
+gaming house,hypernym,place of business,0
+sweetener,derivationally related form,hook,0
+main,hypernym,office,1
+waste,hypernym,run,0
+tragelaphus,member meronym,tragelaphus angasi,0
+retch,derivationally related form,debasement,1
+exsiccate,derivationally related form,siccative,0
+plan,derivationally related form,family planning,3
+efficacy,derivationally related form,efficacious,0
+give forth,derivationally related form,self-feeder,1
+kingdom fungi,member of domain region,lichenes,2
+pontificate,hypernym,regime,0
+deny,derivationally related form,rebutter,1
+simple,hypernym,mechanical device,1
+voider,hypernym,official,0
+numerate,derivationally related form,counter,0
+layer,derivationally related form,layer,0
+thelypteridaceae,member meronym,oreopteris,0
+family cactaceae,member meronym,record,3
+spraying,synset domain topic of,aircraft,0
+iowa,has part,odessa,1
+fruitfulness,instance hypernym,quality,2
+nigeria,instance hypernym,asian nation,3
+ruffle,derivationally related form,plication,0
+rewrite,derivationally related form,rewriting,0
+record,hypernym,albizzia,1
+valentine day,hypernym,fete day,3
+proboscidea,hypernym,order dicranales,3
+run,derivationally related form,running,0
+record,hypernym,proscription,1
+spiritualist,derivationally related form,spirituality,0
+wearing away,derivationally related form,wear away,0
+resistivity,derivationally related form,resistivity,1
+pulsatilla,member meronym,pasqueflower,0
+secale,member meronym,cereal,3
+sharer,derivationally related form,share,1
+day of the month,derivationally related form,date,0
+parapsychologist,derivationally related form,phenomenon,3
+fish,has part,milt,0
+pun,derivationally related form,phrase,3
+mixed-blood,hypernym,soul,0
+explode,derivationally related form,explosion,0
+contraction,hypernym,feeding,1
+lowering,hypernym,political movement,3
+jenner,instance hypernym,patrician,3
+crash,hypernym,squeaker,3
+generalship,derivationally related form,general,0
+north atlantic treaty organization,member meronym,canada,0
+shoulder,has part,axillary fossa,0
+neuron,hypernym,vegetative cell,0
+hook,hypernym,hit,0
+dracaena,instance hypernym,century plant,2
+ring,derivationally related form,record,3
+genus ailanthus,hypernym,rosid dicot genus,0
+rationalize,derivationally related form,justification,0
+lever,hypernym,simple machine,0
+represent,member of domain usage,play,2
+meet,derivationally related form,convergent,0
+spatial arrangement,derivationally related form,space,0
+mandatory injunction,derivationally related form,mandate,1
+dwarf elder,hypernym,suffrutex,0
+order gentianales,member of domain region,family apocynaceae,2
+doubling,hypernym,raise,0
+semantic error,hypernym,software error,0
+brewage,derivationally related form,brew,0
+protoctista,member meronym,protista,0
+extravasation,hypernym,activity,0
+storage area,derivationally related form,holdfast,3
+soapwort,instance hypernym,flower,2
+terbinafine,hypernym,tricyclic antidepressant drug,1
+saussurea,member of domain region,saussurea lappa,2
+arch,hypernym,skeletal structure,0
+parkway,hypernym,true pine,1
+carboxyl group,instance hypernym,radical,2
+vicarship,derivationally related form,vicar,0
+gladiator,synset domain topic of,antiquity,0
+graduation,derivationally related form,graduate,0
+torture,hypernym,suffering,0
+magnetic disk,synset domain topic of,computing,0
+protraction,derivationally related form,retain,0
+republic of malawi,member meronym,record,3
+contraction,derivationally related form,narrow,0
+acquisition,hypernym,tacking,3
+record,member meronym,tribe bambuseae,1
+stony coral,hypernym,coral,0
+united states treasury,has part,ois,0
+ground,hypernym,secure,0
+cubism,hypernym,movement,3
+panax,member meronym,panax schinseng,0
+subfamily papilionoideae,member meronym,phylloxeridae,1
+deal,instance hypernym,turn over,2
+m-theory,synset domain topic of,physics,3
+suppuration,derivationally related form,suppurate,0
+genus canavalia,member of domain region,wonder bean,2
+plover,hypernym,shorebird,0
+troupe,member of domain region,dramatis personae,2
+gestate,hypernym,create mentally,0
+photocopy,hypernym,portrayal,1
+shot,derivationally related form,shoot,0
+define,derivationally related form,definition,0
+restrain,hypernym,suppress,0
+nonperformance,hypernym,nonachievement,0
+dig out,derivationally related form,excavation,0
+genus alnus,member meronym,european black alder,0
+unitize,derivationally related form,whole,0
+think back,derivationally related form,remembrance,0
+speech,has part,ending,0
+concentration,derivationally related form,contract,0
+genus dracaena,member meronym,dracaena,0
+end,derivationally related form,terminate,0
+bar,derivationally related form,stop,0
+hop,hypernym,spring,0
+crash,hypernym,move,0
+genus gentianella,member meronym,stiffen,3
+golf caddie,derivationally related form,caddy,0
+social reformer,derivationally related form,reform,0
+tear,member of domain usage,split,2
+gravitate,synset domain topic of,physics,1
+saltiness,member of domain usage,salt,2
+parcel,hypernym,wrap up,0
+style,derivationally related form,stylize,0
+salient,derivationally related form,count,1
+sandpaper,has part,hold,1
+music,hypernym,activity,0
+quantity,hypernym,construct,0
+motor,member of domain usage,motor,2
+suborder heteroptera,member meronym,nepidae,0
+troubadour,hypernym,vocalizer,0
+propellor,derivationally related form,propel,0
+record,derivationally related form,rat,1
+posture,derivationally related form,sit,0
+note,hypernym,commentary,0
+genus cephalanthera,hypernym,monocot genus,0
+slip,instance hypernym,evasion,2
+oxygen,derivationally related form,oxygenize,0
+jujube,hypernym,edible fruit,0
+place,derivationally related form,place,0
+mujtihad,hypernym,shiite muslim,3
+unalterability,hypernym,unchangingness,0
+rustle,derivationally related form,rustling,0
+volvocales,member meronym,volvocaceae,0
+vesicate,hypernym,tumesce,0
+yield,derivationally related form,yield,0
+take water,hypernym,intone,3
+genus acinonyx,hypernym,arthropod genus,3
+orontium aquaticum,hypernym,water plant,0
+snap,hypernym,move,0
+pisum sativum,hypernym,nut tree,1
+pioneer,derivationally related form,trailblazer,0
+self-examination,member of domain usage,introspect,2
+years,hypernym,time period,0
+score,hypernym,valuation,0
+genus elymus,hypernym,monocot genus,0
+fulfill,derivationally related form,satisfaction,1
+magnify,member of domain usage,magnification,2
+vote,derivationally related form,voting,0
+subdivision deuteromycotina,member meronym,order moniliales,0
+temperance,derivationally related form,temper,0
+vapour,derivationally related form,vaporise,0
+regime,member meronym,government department,0
+record,member meronym,order odonata,1
+scomberesox saurus,hypernym,teleostan,0
+unexciting,derivationally related form,fascination,1
+standardization,derivationally related form,standard,3
+privateersman,hypernym,ship's officer,0
+bind,hypernym,attach,0
+franchise,hypernym,concern,0
+vaporize,instance hypernym,change integrity,2
+mendicant,hypernym,famous person,1
+unrestraint,hypernym,undiscipline,0
+decision maker,hypernym,top dog,0
+exaltation,derivationally related form,deify,0
+peroration,hypernym,ending,0
+yalu river,instance hypernym,pitched battle,0
+cart,derivationally related form,pushcart,0
+antagonize,derivationally related form,hostility,0
+see,hypernym,perceive,0
+tryout,derivationally related form,try out,0
+title deed,hypernym,title,0
+transfix,derivationally related form,parturient,3
+score,hypernym,value,0
+minimization,derivationally related form,minimize,0
+top,hypernym,reach,0
+invertebrate,hypernym,fauna,0
+warm up,hypernym,work,0
+idolization,hypernym,appreciation,0
+exculpation,hypernym,pardon,0
+epitome,derivationally related form,typify,0
+rabbinate,hypernym,spot,0
+translate,derivationally related form,applications programme,3
+video,hypernym,visual communication,0
+mistake,derivationally related form,trouble oneself,1
+panel,instance hypernym,ornament,2
+brake pedal,hypernym,waddle,3
+slip,hypernym,slide,0
+xizang,has part,himalayas,0
+iguanidae,member meronym,the pamirs,3
+moor,derivationally related form,shoring up,3
+make full,hypernym,modify,0
+acquittal,hypernym,final judgment,0
+tweak,derivationally related form,tweak,0
+turn out,hypernym,take place,0
+fix up,hypernym,hold,0
+transplant,derivationally related form,transfusion,1
+timepiece,hypernym,metric system,3
+laminate,derivationally related form,laminate,0
+lyophilization,hypernym,suction,3
+barricade,derivationally related form,stop,0
+plane,hypernym,heavier-than-air craft,0
+passive resistance,hypernym,action,3
+snap,derivationally related form,elastic,0
+average,synset domain topic of,sport,0
+determining factor,hypernym,cognitive factor,0
+plagianthus,member meronym,ribbonwood,0
+strongbox,also see,powerful,1
+tag,derivationally related form,label,0
+lobe,hypernym,body part,0
+take,derivationally related form,consideration,0
+greek chorus,derivationally related form,chorus,0
+sod,hypernym,hombre,0
+grant,hypernym,give,0
+rein in,derivationally related form,trade,1
+genus nerita,hypernym,mollusk genus,0
+deify,derivationally related form,immortal,0
+turn,also see,turn out,0
+seize,derivationally related form,shanghaier,0
+macleaya,hypernym,dilleniid dicot genus,0
+rationing,derivationally related form,ration,0
+sensitivity,hypernym,feeling,0
+metal,hypernym,surface,0
+buck,derivationally related form,jerk,0
+carburize,derivationally related form,carbon,0
+trucking rig,has part,truck,3
+infer,derivationally related form,derivation,0
+plank over,derivationally related form,plank,0
+smell,derivationally related form,smelt,3
+order gaviiformes,hypernym,animal order,1
+tactical manoeuvre,derivationally related form,tactician,1
+bind,hypernym,censure,3
+guarantee,hypernym,pledge,0
+asexual reproduction,hypernym,reproduction,0
+existent,derivationally related form,existence,0
+nationalist leader,hypernym,nationalist,0
+genus acokanthera,member of domain region,ordeal tree,2
+arc,derivationally related form,curve,0
+fossilize,derivationally related form,fossilization,0
+programme,hypernym,schedule,0
+hindu,derivationally related form,brahminical,1
+spoliation,derivationally related form,ruin,3
+military ceremony,synset domain topic of,war machine,0
+pride,hypernym,feel,0
+spill,member of domain usage,spillage,2
+bleach,hypernym,whiten,0
+tricholoma,hypernym,fungus genus,0
+parietales,member meronym,st. paul,3
+cartridge,has part,slug,0
+reinvigorate,derivationally related form,vivification,0
+version,derivationally related form,translate,0
+malmo,instance hypernym,port,0
+family alaudidae,member meronym,magnoliopsid genus,3
+superpose,derivationally related form,superposition,0
+genus chloroxylon,member meronym,shepherd's purse,1
+record,hypernym,protoctist genus,1
+underwriter,derivationally related form,credit,1
+rhubarb plant,hypernym,woody plant,3
+wheel,hypernym,travelling,3
+undercut,hypernym,stroke,0
+sceloglaux,hypernym,bird genus,0
+genus aconitum,member meronym,aconite,0
+record,member meronym,austronesian,1
+holocentridae,member meronym,squirrelfish,0
+emblem,hypernym,emblem,1
+press out,hypernym,mould,0
+fete,derivationally related form,celebrator,0
+unsavoury,also see,unpalatable,1
+vitamin k,hypernym,fat-soluble vitamin,0
+bobsled,derivationally related form,bobsleigh,0
+taste sensation,derivationally related form,taste,0
+thrift,derivationally related form,thrifty,0
+toughie,hypernym,problem,0
+genus clematis,hypernym,genus,1
+woodpile,hypernym,pile,0
+genus moloch,hypernym,agamid lizard,1
+hedysarum,hypernym,rosid dicot genus,0
+relaxant,hypernym,psychodelic drug,3
+polychete worm,hypernym,segmented worm,0
+family coreidae,member meronym,mirid bug,3
+united kingdom of great britain and northern ireland,member of domain region,hard cheese,0
+verbalization,derivationally related form,verbalize,0
+shovel,member of domain usage,shovel,2
+basketball play,hypernym,play,0
+record,member meronym,genus egeria,1
+vibration,hypernym,motion,0
+lapidist,hypernym,gild,3
+reference,derivationally related form,address,0
+transmission,instance hypernym,incident,2
+prepossession,hypernym,view,0
+minister,hypernym,take care,0
+south dakota,member of domain region,black hills,2
+nymphaea,hypernym,magnoliid dicot genus,0
+rabi i,has part,caporetto,1
+playing period,has part,turnip,3
+meshed,instance hypernym,urban center,0
+record,hypernym,mammal genus,1
+scindapsus,instance hypernym,monocot genus,2
+save,derivationally related form,save,3
+operation,synset domain topic of,maths,0
+reserve fund,hypernym,stockpile,0
+president madison,instance hypernym,united states president,0
+majority,synset domain topic of,law,1
+output signal,hypernym,demodulate,3
+thrill,member of domain usage,tickle pink,2
+riposte,hypernym,respond,0
+mugshot,hypernym,picture,1
+jordan,member of domain region,aqaba,2
+imprudent,also see,foolish,0
+swabbing,derivationally related form,rub,1
+trail,hypernym,track,0
+zechariah,instance hypernym,softback book,3
+aliyah,synset domain topic of,judaism,0
+silver,hypernym,conductor,0
+gloating,hypernym,dissatisfaction,3
+triode,hypernym,vacuum tube,0
+panthera,member meronym,panthera leo,0
+record,derivationally related form,islamist,1
+richard burbage,instance hypernym,thespian,0
+totipotent,hypernym,wallboard,0
+order falconiformes,member meronym,pandionidae,0
+grimace,derivationally related form,pull a face,0
+polyporaceae,member meronym,sheep polypore,0
+draughts,has part,checkerboard,0
+genus celastrus,member meronym,sweet clover,3
+takedown,derivationally related form,squelch,0
+discourse,hypernym,talk,0
+moynihan,hypernym,politico,2
+indirect tax,derivationally related form,value,1
+hemiprocnidae,hypernym,bird family,0
+wastage,derivationally related form,waste,0
+subvention,hypernym,supplying,0
+mp,synset domain topic of,war machine,0
+move,instance hypernym,turn,2
+treadle,member of domain usage,treadle,2
+virgo,hypernym,soul,0
+pay heed,has part,sandwich,1
+tease,hypernym,disentangle,0
+republic of ireland,hypernym,european nation,2
+propagate,hypernym,treat,0
+lagarostrobus,member of domain region,lagarostrobus franklinii,2
+bordeaux wine,hypernym,anger,1
+word structure,derivationally related form,morphological,0
+souse,member of domain usage,tunker,2
+cathedral,hypernym,church building,0
+bubble and squeak,hypernym,dish,0
+indian lettuce,hypernym,herbaceous plant,0
+medicine,derivationally related form,medicine,0
+teargas,hypernym,gas,0
+retard,has part,cigarette butt,1
+ring,hypernym,shammer,1
+computing,hypernym,technology,0
+touch,derivationally related form,touching,0
+healthy,also see,unfit,1
+shigella,hypernym,entric,0
+whirl,derivationally related form,whirling dervish,0
+fuel,member of domain usage,refueling,2
+preparatory school,instance hypernym,secondary school,2
+saturate,hypernym,modify,0
+receptive,derivationally related form,obtain,3
+subclass branchiopoda,hypernym,class,0
+venezuela,has part,maracaibo,0
+throat,member of domain region,oropharynx,2
+measure,hypernym,official document,0
+mind,member of domain usage,listening,2
+shopper,member of domain usage,shop,2
+piffle,derivationally related form,piffle,0
+giving,hypernym,disposition,0
+weed,hypernym,herbaceous plant,1
+release,derivationally related form,publishing house,0
+parachutist,derivationally related form,parachute,0
+passer,synset domain topic of,information processing system,1
+red bordeaux,hypernym,wine,3
+reviewer,derivationally related form,review,0
+songwriter,derivationally related form,vocal,0
+carburize,member of domain usage,chemistry,2
+sluice,derivationally related form,outpouring,0
+revoke,hypernym,mistake,0
+yowl,derivationally related form,thunder,0
+warehouse,hypernym,storehouse,0
+genus euderma,hypernym,mammal genus,0
+plural form,member of domain region,term,2
+shoot,instance hypernym,sprout,2
+thinker,derivationally related form,rethink,3
+rose family,member meronym,prunus,0
+horror,hypernym,fright,0
+family cinclidae,member meronym,water ouzel,0
+volatile,synset domain topic of,chemistry,0
+outfit,derivationally related form,equipping,0
+surmise,derivationally related form,suppose,0
+genus cryptobranchus,hypernym,cobble up,0
+cascades,instance hypernym,range of mountains,0
+telephoner,hypernym,verbalizer,0
+tying up,derivationally related form,moor,0
+sail,derivationally related form,cruise,0
+disengagement,hypernym,separation,0
+trencherman,member of domain usage,stuff,2
+spear,derivationally related form,spear,0
+mdi,instance hypernym,nongovernmental organization,0
+speech,derivationally related form,verbalize,0
+theatrical role,derivationally related form,personify,0
+drive up,synset domain topic of,speeding,3
+regimentation,derivationally related form,happiness,0
+marijuana,has part,green,3
+slacker,derivationally related form,loosen,3
+dendroica fusca,instance hypernym,wood warbler,2
+genus arca,member meronym,wood widgeon,1
+scoop shovel,derivationally related form,take up,0
+inflame,verb group,inflame,0
+notary public,synset domain topic of,law,0
+plumb,instance hypernym,set,2
+combust,derivationally related form,propel,1
+chest,hypernym,neuromatous,0
+united kingdom of great britain and northern ireland,member of domain region,doddle,0
+love,member of domain usage,lover,2
+scented fern,hypernym,fern,0
+soothe,member of domain usage,solacement,2
+prowl,instance hypernym,tarry,2
+life,hypernym,soul,0
+tip,hypernym,strike,0
+rusting,derivationally related form,rust,0
+genus agrostis,member meronym,bent grass,0
+meet,derivationally related form,gathering,0
+rota,hypernym,roster,0
+tamil nadu,hypernym,state,2
+training,hypernym,upbringing,0
+menziesia,member meronym,menziesia ferruginea,0
+martyr,member of domain usage,martyrize,2
+intercommunicate,derivationally related form,communication,0
+thlaspi,member of domain region,thlaspi arvense,2
+turnicidae,member meronym,pedionomus,0
+wild spinach,hypernym,goose,3
+ruby,hypernym,redness,0
+venture,derivationally related form,luck,0
+percomorphi,member meronym,family dipterocarpaceae,3
+whang,hypernym,blowfly,3
+split,derivationally related form,split up,0
+state of matter,hypernym,chemical phenomenon,0
+anisogamy,synset domain topic of,paleobiology,3
+coffeepot,instance hypernym,pot,2
+branch,hypernym,stem,0
+genus astacus,hypernym,arthropod genus,0
+pirate,derivationally related form,hijack,0
+ahimsa,synset domain topic of,buddhism,0
+youth culture,instance hypernym,terrorist organization,1
+vaunt,derivationally related form,vaunter,0
+wanton away,derivationally related form,trifling,0
+lucky dip,hypernym,lottery,0
+constitutionalist,hypernym,compensation,1
+stubbornness,derivationally related form,unregenerate,0
+rubdown,derivationally related form,lumberman,1
+outport,hypernym,computer circuit,1
+instance,hypernym,lucubrate,0
+upending,derivationally related form,upend,0
+back up,hypernym,withhold,3
+lycopus,member meronym,lycopus europaeus,0
+bar,instance hypernym,heating element,2
+turn-on,derivationally related form,shore up,3
+rima oris,has part,buccal cavity,0
+checkerboard,has part,square,0
+lightness,hypernym,visual property,0
+prepare,derivationally related form,organization,0
+wishing,derivationally related form,wish,0
+threshold,has part,doorframe,0
+unimportant,member of domain usage,unimportance,2
+pose,derivationally related form,portrayal,0
+salvation,synset domain topic of,theology,0
+spasm,hypernym,constriction,0
+bather,derivationally related form,bathe,0
+wraith,derivationally related form,obsess,0
+dodderer,hypernym,senior,3
+martyrize,derivationally related form,sufferer,0
+usa,member meronym,american,0
+order naiadales,member meronym,zannichelliaceae,0
+summarize,derivationally related form,shoring up,3
+quintipara,hypernym,sister,3
+drive,synset domain topic of,mining,0
+workmanship,derivationally related form,workman,0
+iris family,member meronym,sisyrinchium,0
+vertebrate foot,hypernym,extremity,0
+minister,derivationally related form,premiership,1
+record,member meronym,locustidae,1
+concoction,hypernym,mathematical statement,1
+intersperse,derivationally related form,interspersion,0
+iteration,derivationally related form,revitalize,1
+scare,derivationally related form,think,3
+view,derivationally related form,think,0
+pay heed,derivationally related form,remunerator,1
+detach,hypernym,separate,0
+titillate,hypernym,challenge,1
+slit,hypernym,rima,1
+senga root,hypernym,milkwort,0
+slack,derivationally related form,soldiering,0
+ruta graveolens,hypernym,herbaceous plant,0
+edifice,has part,courtyard,0
+make,derivationally related form,fauna,0
+generalship,derivationally related form,superior general,0
+contraction,member of domain usage,condense,2
+russian revolution,has part,nizhnyi novgorod,1
+harmony,hypernym,relate,1
+wrench,derivationally related form,wrench,0
+facilitate,derivationally related form,facilitator,0
+calliper,verb group,yell,1
+neurophysiology,hypernym,physiology,0
+snatcher,derivationally related form,squeeze,3
+ferry,derivationally related form,ferrying,0
+plane,instance hypernym,smoothen,2
+value,hypernym,view,0
+stint,derivationally related form,stinter,0
+screen,hypernym,partition,0
+order hemiptera,member meronym,hemipterous insect,0
+walk,instance hypernym,oblige,2
+unproductive,also see,unfertile,0
+pallbearer,hypernym,neuromatous,1
+snapper,derivationally related form,snap,0
+bifurcate,derivationally related form,alignment,1
+triglidae,member meronym,triga,0
+float,derivationally related form,drift,2
+digital communication,hypernym,abstraction,1
+germinate,verb group,spud,0
+framing,derivationally related form,doorframe,3
+strike,hypernym,takeover,2
+motorcar,has part,throttle,0
+republic of peru,instance hypernym,south american nation,0
+jewel,derivationally related form,jeweller,3
+carbonous,derivationally related form,nitrogen,3
+london,member meronym,londoner,0
+treason,derivationally related form,record,3
+contempt,synset domain topic of,law,0
+whirl,derivationally related form,whirl,0
+soaring,derivationally related form,uprise,1
+quiz,hypernym,personality test,3
+grain alcohol,hypernym,alcohol,0
+bank,hypernym,work,0
+surge,hypernym,meliorate,0
+travel,derivationally related form,traveller,0
+herbaceous plant,hypernym,vascular plant,0
+wrangling,instance hypernym,bargaining,2
+kisumu,instance hypernym,port,0
+develop,derivationally related form,development,0
+melioration,hypernym,status,0
+stir,hypernym,move,0
+world war i,has part,philippine sea,1
+ride,derivationally related form,ride,0
+nondrinker,instance hypernym,soul,2
+insight,hypernym,understudy,3
+world war ii,has part,salerno,0
+literary criticism,member of domain usage,pick apart,2
+family corixidae,member meronym,magnoliopsid genus,3
+let,instance hypernym,organization,3
+dirty tricks,derivationally related form,trick,1
+egyptian,member of domain usage,egyptian,2
+snap,hypernym,record,0
+contamination,derivationally related form,confection,3
+trade name,member of domain usage,talwin,0
+social dancing,hypernym,terpsichore,0
+oomycetes,hypernym,kingdom,1
+aconite,hypernym,leguminous plant,3
+six day war,instance hypernym,warfare,0
+family araceae,member meronym,genus calla,0
+tabulation,derivationally related form,tabulate,0
+winding,hypernym,mechanical device,1
+plea,synset domain topic of,law,0
+photographic camera,has part,lens hood,0
+family compositae,member meronym,solidago,0
+respirator,derivationally related form,take a breath,0
+america,has part,central america,0
+talking to,derivationally related form,bond,1
+slump,derivationally related form,slow up,0
+cut off,derivationally related form,rehabilitate,3
+deposit,member of domain usage,deposit,2
+ask,also see,invite,0
+quoin,hypernym,structure,0
+percomorphi,member of domain region,family centropomidae,2
+judge advocate,synset domain topic of,war machine,1
+pruning,hypernym,trimming,0
+accounting,hypernym,occupation,0
+revive,verb group,revive,0
+jet,derivationally related form,squirt,0
+nut tree,hypernym,flowering tree,0
+formalized,member of domain usage,religious belief,2
+maidhood,hypernym,childhood,0
+narrate,hypernym,inform,0
+regency,hypernym,spot,1
+rubdown,derivationally related form,dwindling away,1
+subjugation,derivationally related form,subjugate,0
+show window,hypernym,window,0
+part to whole relation,hypernym,semantic relation,0
+sail,derivationally related form,sailor boy,0
+overexertion,hypernym,travail,0
+quiver,derivationally related form,vibration,0
+mover,derivationally related form,travel,0
+whisker jack,hypernym,jay,0
+hyphenate,derivationally related form,word division,0
+concha,member of domain usage,general anatomy,2
+william schwenk gilbert,instance hypernym,poet,0
+break up,verb group,break,0
+splatter,derivationally related form,wasteweir,0
+stinter,member of domain usage,stint,2
+family balsaminaceae,hypernym,rosid dicot family,0
+spring,derivationally related form,spring,0
+tower of pharos,instance hypernym,pharos,0
+heat,derivationally related form,heating system,0
+genus chloroxylon,member meronym,surfbird,1
+pteridophyta,member meronym,lycopsida,0
+magnetization,derivationally related form,magnetize,0
+fear,derivationally related form,dread,0
+backbench,derivationally related form,backbencher,0
+kingdom animalia,member meronym,uvularia grandiflora,3
+nuclear reaction,hypernym,medicine,1
+docket,hypernym,set,0
+tune up,derivationally related form,tuning,0
+genus sassafras,hypernym,magnoliid dicot genus,0
+st. elmo's fire,hypernym,spark,0
+rinse off,hypernym,wash,0
+acetylize,synset domain topic of,chemistry,0
+record,hypernym,abnormality,1
+restrain,derivationally related form,restrainer,0
+plagiocephaly,hypernym,congenital disorder,0
+genus eriocaulon,hypernym,monocot genus,0
+liveness,derivationally related form,live,0
+consort,derivationally related form,consort,0
+runaway,hypernym,soul,0
+record,member meronym,melampsoraceae,1
+perpetrator,derivationally related form,victim,1
+qualifying,derivationally related form,pass,0
+void,derivationally related form,record,3
+saver,member of domain usage,retrieve,2
+nudge,derivationally related form,neglect,1
+frighten,hypernym,vanquish,1
+chlorobenzene,instance hypernym,hydrocarbon,2
+recent epoch,hypernym,epoch,2
+sandpiper,hypernym,foreshore,3
+portray,hypernym,represent,0
+charge,derivationally related form,appointive,0
+january,has part,solemnity of mary,0
+calamus,hypernym,root,0
+vivify,derivationally related form,relaxation,3
+ticket,derivationally related form,tag,0
+yielding,derivationally related form,yield,1
+trace,derivationally related form,tracer,0
+take,derivationally related form,transportation,0
+french republic,member of domain region,lords spiritual,0
+chameleon,hypernym,soul,0
+sit down,derivationally related form,seat,0
+piece,derivationally related form,patch,0
+lurch,member meronym,hypostasis of christ,1
+fade out,hypernym,turn,0
+subfamily papilionoideae,member meronym,genus sesbania,0
+toasting,hypernym,preparation,0
+tend,derivationally related form,tendency,0
+sea power,synset domain topic of,war machine,0
+euphemism,member of domain usage,recording,3
+movement,derivationally related form,travel,0
+right wing,derivationally related form,rightist,0
+carry,hypernym,raise,0
+tap,verb group,tap,0
+shake,hypernym,move reflexively,0
+disease,has part,syndrome,0
+get away,derivationally related form,takeoff,3
+wain,instance hypernym,asterism,0
+ps,hypernym,note,0
+plural form,member of domain usage,britches,0
+clap,hypernym,hit,0
+little wabash river,instance hypernym,river,0
+parkway,derivationally related form,drive,0
+sink,synset domain topic of,technologist,3
+gerard depardieu,instance hypernym,literary criticism,3
+smooch,hypernym,osculation,0
+gloss,derivationally related form,rubric,0
+ledbetter,instance hypernym,guitarist,0
+military training,member of domain region,simulated military operation,2
+soil,hypernym,physical object,0
+family balanidae,member of domain region,genus balanus,2
+plane,has part,lever,3
+plantain,hypernym,woody plant,3
+walnut family,member meronym,genus carya,0
+poronotus triacanthus,instance hypernym,stromateid fish,2
+demeclocycline hydrochloride,hypernym,tetracycline,0
+broker,derivationally related form,determining factor,3
+commissioned officer,hypernym,command,1
+candelilla wax,hypernym,wax,0
+diamond,has part,infield,0
+infliction,synset domain topic of,taxation,0
+international islamic front for jihad against jews and crusaders,instance hypernym,terrorist organization,0
+pilot,hypernym,operate,0
+left hand,hypernym,paw,0
+offensive,also see,unpalatable,0
+recognition,derivationally related form,recognize,0
+persistence,derivationally related form,uninterrupted,0
+denounce,hypernym,maintain,1
+miler,derivationally related form,statute mile,0
+ricinus,instance hypernym,rosid dicot genus,2
+increment,derivationally related form,increase,0
+tyrannus vociferans,hypernym,tyrannus tyrannus,0
+checker,instance hypernym,inspector,2
+record,derivationally related form,maul,1
+turn back,derivationally related form,upending,0
+dumpy,derivationally related form,record,3
+inhibit,hypernym,proteolytic enzyme,1
+tocharian,hypernym,indo-hittite,0
+paracheirodon,member meronym,paracheirodon axelrodi,0
+imperial capacity unit,hypernym,liquid unit,0
+tan,derivationally related form,sunburn,0
+world war ii,has part,island,3
+extinction,derivationally related form,extirpation,1
+elect,hypernym,take,0
+float,verb group,float,0
+record,derivationally related form,crack,1
+lycopsida,member meronym,order lepidodendrales,0
+mission,hypernym,duty assignment,0
+play,synset domain topic of,performing arts,0
+zosteraceae,hypernym,monocot family,0
+psychoactive substance,instance hypernym,drug,2
+style,instance hypernym,communication,2
+differential equation,hypernym,equation,0
+terror,derivationally related form,terrorist attack,3
+take out,also see,extract,0
+honshu,has part,kyoto,0
+questioner,derivationally related form,questioner,1
+cattleship,derivationally related form,oxen,0
+purity,hypernym,status,0
+teaching,has part,lesson,0
+head,derivationally related form,heading,0
+turn,derivationally related form,turning,0
+exploratory,derivationally related form,search,1
+terminal,derivationally related form,terminate,0
+sibilate,derivationally related form,sibilant consonant,0
+heart attack,hypernym,heart failure,0
+metacarpophalangeal joint,hypernym,tissue,3
+join forces,derivationally related form,cooperation,0
+black woman,hypernym,negroid,0
+rowboat,hypernym,small boat,0
+salt,instance hypernym,season,2
+mix,derivationally related form,meshing,3
+connexion,hypernym,relation,0
+commercialization,derivationally related form,stock market,3
+unravel,derivationally related form,find,1
+wave,derivationally related form,weave,1
+clip,derivationally related form,photographer,1
+crown-of-the-field,hypernym,bugleweed,3
+kingdom fungi,member meronym,fungus family,0
+birch,hypernym,whip,0
+mergus merganser,hypernym,sheldrake,0
+presidential term,derivationally related form,administrate,0
+fringed gentian,hypernym,gentian,0
+prudence,hypernym,discretion,0
+usmc,member meronym,shipboard soldier,0
+payment,derivationally related form,pay,0
+aphrodisiac,derivationally related form,sexy,0
+assume,synset domain topic of,christianity,0
+substitute,derivationally related form,take back,3
+record,member meronym,molluga,1
+thunbergia,hypernym,asterid dicot genus,0
+unsafe,also see,unsafe,0
+orchidaceae,member meronym,himantoglossum,0
+nutrition,hypernym,scientific discipline,0
+division,hypernym,phylum,0
+clinch river,instance hypernym,river,0
+poise,hypernym,set,0
+mouth,derivationally related form,mouth,0
+french pancake,hypernym,pancake,0
+malvaceae,member meronym,lavatera,0
+peacock butterfly,hypernym,fritillary,3
+rest,hypernym,portion,0
+warder,hypernym,peace officer,0
+nymphicus,member meronym,nymphicus hollandicus,0
+wander,derivationally related form,parenthesis,0
+new world blackbird,hypernym,emu,3
+tobacco,hypernym,street drug,0
+ulmaceae,member meronym,trema,0
+blocking,hypernym,obstruction,0
+throttling,derivationally related form,strangle,0
+bust,derivationally related form,toss,3
+silver state,has part,death valley,0
+plan,hypernym,think,0
+splintering,derivationally related form,knap,0
+theorize,derivationally related form,theorization,0
+demurrer,hypernym,objection,0
+annelidan,derivationally related form,segmented worm,0
+generally accepted accounting principles,derivationally related form,calculate,1
+oligopoly,hypernym,marketplace,0
+supplant,hypernym,succeed,0
+sweetsop,hypernym,sorb apple,3
+olfactory organ,member of domain region,nasal cavity,2
+okey,hypernym,claim,1
+dine,derivationally related form,dinner party,0
+slogan,derivationally related form,sloganeer,0
+laminariaceae,hypernym,protoctist family,0
+furnish,hypernym,supply,0
+exponential function,hypernym,cross-fertilization,3
+horripilate,hypernym,stir,0
+class ciliophora,member meronym,genus convolvulus,3
+remand,derivationally related form,internment,0
+bob,derivationally related form,bob,0
+obstruct,hypernym,steal,3
+vietnam,member of domain usage,dien bien phu,2
+shine,derivationally related form,radiate,0
+leptoglossus,hypernym,arthropod genus,0
+president bush,hypernym,united states president,2
+hanseatic league,member meronym,koln,0
+look,also see,look up to,0
+lap,derivationally related form,circle,0
+express,derivationally related form,expressible,0
+minute gun,hypernym,sten gun,3
+coragyps atratus,hypernym,water strider,1
+poultry,has part,saddle,0
+unhappy,also see,joyless,0
+still-hunt,derivationally related form,ambusher,0
+allegement,derivationally related form,say,0
+shelter,derivationally related form,shelter,0
+slake,instance hypernym,minify,2
+interact,derivationally related form,interaction,0
+principe,instance hypernym,island,0
+undamaged,instance hypernym,unbroken,2
+record,hypernym,class,1
+descent,hypernym,movement,0
+sapotaceae,member meronym,manilkara,0
+counterpoint,hypernym,polyphony,0
+record,member meronym,nesokia,1
+switzerland,has part,rhine river,0
+honk,instance hypernym,resound,2
+shimmer,hypernym,shine,0
+wear out,also see,crash,0
+family balaenopteridae,instance hypernym,mammal family,2
+spironolactone,hypernym,antihypertensive drug,0
+dominion,hypernym,state,0
+induct,derivationally related form,trigger,0
+the venerable bede,instance hypernym,historiographer,0
+traverser,derivationally related form,crossing,1
+crow,derivationally related form,vaporing,0
+ayurveda,synset domain topic of,hinduism,0
+torchwood family,member meronym,incense tree,0
+naming,derivationally related form,namer,3
+diuril,hypernym,antihypertensive drug,0
+wound,derivationally related form,spitefulness,0
+greater antilles,hypernym,archipelago,2
+tilt,derivationally related form,tip,0
+judicial branch,member meronym,united states supreme court,0
+combine,hypernym,kick in,0
+pilomotor reflex,has part,outer ear,1
+servile,derivationally related form,subservience,0
+hurt,derivationally related form,suffering,0
+supporters of islam,synset domain topic of,terrorist act,0
+canada,member of domain region,grapo,1
+disk,hypernym,plate,0
+hang gliding,derivationally related form,rise,3
+protective covering,hypernym,covering,0
+meat cleaver,hypernym,knife,0
+fasting,derivationally related form,fast,0
+reverberation,instance hypernym,upshot,2
+crossing,derivationally related form,traverser,3
+gladiator,hypernym,discard,3
+shoe,has part,heel,0
+mercurialis annua,hypernym,herbaceous plant,0
+geniality,hypernym,friendliness,0
+record,member meronym,genus alsophila,1
+wince,derivationally related form,untie,3
+family elapidae,member meronym,genus callophis,0
+mercer,hypernym,trade,3
+hydrobatidae,member meronym,hydrobates,0
+record,hypernym,native,1
+impersonator,instance hypernym,trickster,2
+face,derivationally related form,facing,0
+newspaper column,member of domain usage,editorialize,2
+over,hypernym,suffice,1
+united kingdom of great britain and northern ireland,member of domain usage,german short-haired pointer,2
+standard,member of domain usage,standardize,2
+dine,derivationally related form,diner,0
+lepidocybium,hypernym,fish genus,0
+order dictyoptera,member meronym,suborder blattodea,0
+thermonuclear warhead,hypernym,wood lily,1
+adder's tongue fern,hypernym,fern,0
+spreading,derivationally related form,spread,0
+suffer,derivationally related form,strew,3
+copying,derivationally related form,simulate,0
+create,hypernym,make,1
+rescue equipment,hypernym,equipment,0
+stagnation,derivationally related form,stagnate,0
+brown,derivationally related form,brownness,0
+unappetizingness,instance hypernym,unpalatableness,2
+trichoglossus,hypernym,bird genus,0
+anode,hypernym,croton tiglium,3
+work,derivationally related form,work,0
+lucubrate,derivationally related form,expansion,0
+record,hypernym,caryophylloid dicot genus,1
+modernness,instance hypernym,up-to-dateness,2
+united states intelligence community,member meronym,dia,0
+spoon,hypernym,withdraw,0
+capitalize,derivationally related form,uppercase,0
+neckband,derivationally related form,collar,0
+suborder sauropoda,hypernym,animal order,1
+brass,hypernym,copper-base alloy,0
+subfamily papilionoideae,member meronym,pickeringia,0
+usurper,hypernym,wrongdoer,0
+cyberwar,hypernym,terrorist act,0
+rate of flow,hypernym,rate,1
+ostomy,hypernym,surgical process,0
+carat,has part,dg,0
+inversion,derivationally related form,evert,0
+speech sound,hypernym,linguistic unit,0
+wild pumpkin,hypernym,viola,1
+retire,synset domain topic of,baseball game,0
+onslaught,derivationally related form,slaughter,1
+ingrian,hypernym,russian,0
+rumble,derivationally related form,rumbling,0
+saudi arabia,has part,rub al-khali,0
+seat,synset domain topic of,cabinetwork,0
+portrayal,hypernym,playing,0
+woodcarver,hypernym,worker,3
+sympathy,derivationally related form,sympathetic,0
+dart,hypernym,thrust,0
+righthander,hypernym,soul,0
+south america,member of domain region,south american nation,2
+sweet gum tree,instance hypernym,liquidambar,2
+transcribe,derivationally related form,copy,1
+rising prices,derivationally related form,inflate,0
+senior,similar to,german short-haired pointer,0
+rank-order correlation coefficient,synset domain topic of,statistics,0
+shoot,derivationally related form,firing,3
+unmanageable,derivationally related form,unmanageableness,0
+wash,hypernym,swear out,0
+vegetate,hypernym,grow,0
+transpose,derivationally related form,supposition,3
+urging,derivationally related form,needle,0
+vault,hypernym,spring,0
+plead,hypernym,invoke,0
+unrighteous,instance hypernym,unworthy,2
+urination,hypernym,abnormality,1
+match,verb group,twin,0
+barmbrack,hypernym,staff of life,0
+sprinkle,derivationally related form,sprinkling,0
+lithographer,derivationally related form,lithography,0
+helper,derivationally related form,help,1
+white-alder family,member meronym,genus convolvulus,1
+extension,hypernym,step-up,1
+take aback,verb group,carry,1
+bootleg,hypernym,overproduce,3
+genus diospyros,member meronym,kaki,0
+scrutiny,derivationally related form,scrutineer,0
+public debate,hypernym,speechmaking,0
+repulse,derivationally related form,standoff,0
+ussr,member of domain region,kvass,0
+kisumu,instance hypernym,urbanize,3
+tryout,derivationally related form,seasoning,1
+family bombycidae,member of domain region,genus bombyx,2
+return,hypernym,give,0
+mash,member of domain usage,milling machinery,2
+pennsylvania,member of domain usage,gettysburg,2
+genus dichondra,hypernym,magnoliopsid genus,0
+academy,derivationally related form,faculty member,0
+magnetize,hypernym,codify,3
+dryer,derivationally related form,dry out,0
+coalesce,derivationally related form,record,3
+tail assembly,has part,stabilizer,0
+genus ambystoma,member meronym,ambystomid salamander,0
+air,derivationally related form,aerate,0
+genus chloroxylon,member meronym,whitetip shark,1
+dissension,hypernym,agreement,3
+playing card,hypernym,card,0
+general de gaulle,instance hypernym,superior general,3
+stopover,derivationally related form,stop over,0
+happen,instance hypernym,take place,2
+tenthredinidae,member meronym,sawfly,0
+mitigate,hypernym,minify,0
+viverrinae,member meronym,leporid mammal,3
+extent,derivationally related form,widen,0
+thump,synset domain topic of,cosmology,1
+shaker,hypernym,soul,0
+adductor muscle,derivationally related form,adduct,0
+mobilize,derivationally related form,circulation,0
+love,member of domain usage,love,2
+work-clothing,hypernym,wearable,0
+table,derivationally related form,board,1
+memory,hypernym,representation,0
+foxtail grass,hypernym,meadowgrass,0
+armour,derivationally related form,gird,0
+comatoseness,instance hypernym,unconsciousness,2
+phylogeny,synset domain topic of,biology,0
+family characeae,hypernym,protoctist family,0
+passenger vehicle,hypernym,public transport,0
+trap,synset domain topic of,fauna,0
+lovoa,hypernym,rosid dicot genus,0
+snuff it,verb group,go bad,0
+check,hypernym,review,1
+trampling,member of domain usage,tread,2
+table tapping,hypernym,piece of furniture,1
+party,hypernym,social gathering,0
+thymus,hypernym,asterid dicot genus,0
+recusant,synset domain topic of,law,1
+thelephoraceae,hypernym,fungus family,0
+dazzle,member of domain usage,haze,2
+convoke,derivationally related form,convention,0
+make,derivationally related form,make,0
+elm tree,hypernym,tree,0
+organize,derivationally related form,organization,0
+west,instance hypernym,region,0
+project,member of domain usage,psychology,2
+rheidae,hypernym,reptile family,3
+corsica,instance hypernym,french region,0
+toilet seat,has part,seat,1
+black hand,synset domain topic of,terrorist act,0
+tolerate,member of domain usage,tolerance,2
+harmful,also see,noxious,0
+woodrow wilson,instance hypernym,united states president,0
+sluice down,derivationally related form,sluiceway,0
+expressible,derivationally related form,show,0
+mixture,derivationally related form,unify,0
+pearlwort,hypernym,groundcover,0
+nullify,hypernym,weaken,0
+genus catharanthus,member meronym,vinca rosea,0
+motorization,derivationally related form,motorize,0
+savour,derivationally related form,wasabi,3
+finesse,hypernym,tactfulness,0
+king of great britain,member of domain region,common room,1
