@@ -1,1 +1,1 @@
-
+Our code is divided into several parts: first is the code that uses graph convolution to represent each subgraph as an embedding vector; secondly is the code that combines the graph convolution embeddings with the embeddings from the large model to train the large model; it also includes the code that uses the large model for inference.
