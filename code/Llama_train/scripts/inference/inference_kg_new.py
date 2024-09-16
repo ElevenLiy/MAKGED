@@ -118,7 +118,6 @@ def load_models(args, load_type, device):
         args.base_model,
         torch_dtype=load_type,
         low_cpu_mem_usage=True,
-        # device_map={"": torch.device('cuda:4')},  # 仅使用指定 GPU
         device_map='auto',
         quantization_config=quantization_config,
         trust_remote_code=True
@@ -173,7 +172,6 @@ def generate_response(model, tokenizer, prompt, device):
     s = generation_output[0]
     output = tokenizer.decode(s, skip_special_tokens=True)
 
-    # 去除与 prompt 重复的部分
     if output.startswith(prompt):
         output = output[len(prompt):].strip()
     
@@ -195,23 +193,22 @@ def evaluate_triple(models: List[PeftModel], tokenizer: LlamaTokenizer, triple: 
     ]
 
     responses = []
-    final_responses = []  # 存储带标签的响应
+    final_responses = []  
     for i, model in enumerate(models):
         response = generate_response(model, tokenizer, prompt_variants[i % len(prompt_variants)], args.device)
         if not response:
             print(f"Model {i+1} failed to generate a response. Storing as an empty string.")
-            response = " "  # 将响应存储为空字符串
+            response = " " 
         decision, labeled_response = extract_decision(response)
         final_responses.append(f"{decision}: {labeled_response.strip()}")
-        responses.append(response.strip())  # 存储原始响应
+        responses.append(response.strip()) 
         print(f"======= Model {i+1} =======")
         print(f"Input: {prompt_variants[i % len(prompt_variants)]}\n")
         print(f"Output: {response}\n")
 
-    # 提取决策标签
+
     final_decisions = [extract_decision(response)[0] for response in responses]
 
-    # 调试输出决策
     print(f"Final decisions extracted: {final_decisions}")
 
     if len(final_decisions) > 0 and all(decision == final_decisions[0] for decision in final_decisions):
@@ -289,9 +286,8 @@ def evaluate_triple(models: List[PeftModel], tokenizer: LlamaTokenizer, triple: 
 
 def conduct_discussion(models: List[PeftModel], tokenizer: LlamaTokenizer, triple: Dict, args, initial_responses: List[str], final_decision: str, max_rounds: int = 3):
     discussion = []
-    all_responses = []  # 用于存储所有模型的每一轮发言
+    all_responses = []  
 
-    # 从配置文件加载模板或生成动态模板
     prompts = [
         f"Discuss the correctness of the triplet '{{head}}, {{relation}}, {{tail}}'. Provide your reasoning and conclude if it's correct or incorrect.",
         f"Evaluate whether the triplet '{{head}}, {{relation}}, {{tail}}' is accurate. Explain your answer and state if it's correct or incorrect.",
@@ -307,7 +303,6 @@ def conduct_discussion(models: List[PeftModel], tokenizer: LlamaTokenizer, tripl
             tail=triple['tail']
         )
 
-        # 在第一轮中，将evaluate_triple的结果添加到输入中
         if round == 0:
             previous_responses = " ".join([f"Model {i+1} Initial Response: {resp}" for i, resp in enumerate(initial_responses)])
             prompt = f"The initial evaluation indicates the following responses: {previous_responses}. {prompt}"
@@ -347,11 +342,10 @@ def conduct_discussion(models: List[PeftModel], tokenizer: LlamaTokenizer, tripl
 # def extract_decision(response):
 #     response = response.lower().strip()
     
-#     # 如果响应为空，返回 "correct"
+
 #     if not response:
 #         return "correct", response
 
-#     # 按顺序匹配 correct, yes, incorrect, no
 #     if re.search(r'\bcorrect\b', response):
 #         return "correct", response
 #     elif re.search(r'\byes\b', response):
@@ -367,11 +361,9 @@ def conduct_discussion(models: List[PeftModel], tokenizer: LlamaTokenizer, tripl
 def extract_decision(response):
     response = response.lower().strip()
     
-    # 如果响应为空，返回 "correct"
     if not response:
         return "correct", response
 
-    # 按顺序匹配 correct, yes, incorrect, no 以及中文关键字
     if re.search(r'\bcorrect\b', response) or re.search(r'\b是\b', response) or re.search(r'\b对\b', response) or re.search(r'\b正确\b', response):
         return "correct", response
     elif re.search(r'\byes\b', response):
@@ -381,7 +373,6 @@ def extract_decision(response):
     elif re.search(r'\bno\b', response):
         return "incorrect", response
     
-    # 如果没有匹配到任何信息，返回 "incorrect"
     return "incorrect", response
 
 
@@ -393,7 +384,7 @@ def load_and_process_data(file_path):
     processed_triples = []
     for item in data:
         input_text = item['input']
-        # 直接通过逗号分割来提取三元组
+
         head, relation, tail = [part.strip() for part in input_text.split(',')]
         processed_triples.append({
             "head": head,
@@ -401,7 +392,7 @@ def load_and_process_data(file_path):
             "tail": tail,
             "given_output": item['output']
         })
-        print(f"Processed triple: {head}, {relation}, {tail}")  # 打印出处理结果
+        print(f"Processed triple: {head}, {relation}, {tail}")  
     return processed_triples
 
 
@@ -441,18 +432,17 @@ def main():
 
     start_time = time.time()
     for i, triple in enumerate(triples[start_index:], start=start_index):
-        # 进行初步评估
+
         initial_responses, initial_decision = evaluate_triple(models, tokenizer, triple, args)
 
-        # 判断初步评估结果是否一致
+
         if initial_decision is not None:
             final_decision = initial_decision
             discussion = []
         else:
-            # 初步结果不一致，进行多轮讨论
+
             discussion, final_decision = conduct_discussion(models, tokenizer, triple, args, initial_responses, initial_decision)
 
-            # 讨论后仍然无法达成一致，执行少数服从多数的决策
             if final_decision is None:
                 correct_count = sum(1 for decision in discussion[-1]['responses'] if extract_decision(decision)[0] == "correct")
                 incorrect_count = sum(1 for decision in discussion[-1]['responses'] if extract_decision(decision)[0] == "incorrect")
@@ -468,16 +458,12 @@ def main():
             "final_decision": final_decision
         }
 
-        # 实时保存结果到JSON文件
         update_json_file(args.predictions_file, result)
 
-        # 保存进度
         save_progress({'last_index': i + 1}, args.progress_file)
 
-        # 更新进度条
         pbar.update(1)
-        
-        # 计算预估剩余时间
+
         elapsed_time = time.time() - start_time
         triples_per_second = (i + 1) / elapsed_time
         estimated_time_left = (total_triples - (i + 1)) / triples_per_second
@@ -486,7 +472,6 @@ def main():
     pbar.close()
     print(f"All results have been saved to {args.predictions_file}")
 
-    # 最后可以删除进度文件
     if os.path.exists(args.progress_file):
         os.remove(args.progress_file)
 
