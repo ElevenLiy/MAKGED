@@ -1,0 +1,4000 @@
+Spider-Man,film crew role,Visual Effects,1
+York,profession,Actor-GB,1
+Guitar,educational institution,Clint Black,2
+John Denver,profession,Composer,0
+Master of Science,institution,Tsinghua University,0
+Chiang Kai-shek,film release region,Spain,1
+Minami Takayama,gender,Female,0
+Ne-Yo,profession,Singer-songwriter-GB,0
+Saw,parent genre,Indie film,2
+Justin Theroux,film,Inland Empire,0
+Grammy Award for Best New Artist,award winner,Toni Braxton,0
+San Joaquin County,currency,United States Dollar,0
+Seven Psychopaths,film crew role,Makeup Artist-GB,0
+Razzie Award for Worst Screen Couple/Ensemble,nominated for,An Alan Smithee Film: Burn Hollywood Burn,0
+Reggaeton,artists,Daddy Yankee,0
+Panama,olympics,2008 Summer Olympics,0
+Master of Science,institution,Duke University,0
+Columbia Pictures,award,Metro-Goldwyn-Mayer,2
+John Malkovich,profession,Film,3
+Marriage,location of ceremony,Nashville,0
+Some Kind of Monster,film release distribution medium,Finland,2
+Cree Summer,profession,Musician-GB,0
+Last Action Hero,genre,Action Film,0
+Hard bop,artists,Bill Evans,0
+Gila County,currency,United States Dollar,0
+Ralph Richardson,film,Oscar and Lucinda,1
+Alexander,language,English Language,0
+Christian Slater,film,The Newton Boys,0
+Mayor,jurisdiction of office,Nashville,0
+Grammy Award for Best Traditional Gospel Album,location of ceremony,42nd Annual Grammy Awards,2
+Angela Lansbury,film,Samson and Delilah,0
+Doctorate,student,James Franco,0
+Finland,medal,1976 Winter Olympics,2
+Terry Jones,profession,Voice Actor,0
+Psychedelic rock,artists,Bird,3
+Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role,nominated for,The Insider,0
+Wreck-It Ralph,film release region,Transylvania,3
+Academy Award for Best Director,award winner,Bernardo Bertolucci,0
+Dredd,music,Elliot Goldenthal,1
+In Harm's Way,film release region,Austria,0
+Midway Games,state province region,Illinois,0
+Travis Tritt,award nominee,Vince Gill,0
+Marriage,location of ceremony,Anguilla,0
+GoldenEye,prequel,Licence to Kill,0
+Ron Perlman,film,George Harrison: Living in the Material World,3
+Palestinian National Authority,film release region,Denmark-GB,1
+Duke University,specialization of,Political Science,2
+Daniel Barenboim,nationality,Spain,0
+New Wave of British Heavy Metal,artists,Iron Maiden,0
+Arjun Rampal,profession,Actor-GB,0
+Brenda Blethyn,location,Beverly Hills,1
+Ismail Merchant,place of death,City of Westminster,0
+The Dictator,language,Arabic Language,0
+University of Nevada,Los Angeles,major field of study,2
+Ukraine,taxonomy,Library of Congress Classification,0
+Wichita State University,service location,United States of America,1
+Lucy Liu,award,Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series,0
+Sweeney Todd: The Demon Barber of Fleet Street,award winner,Richard D. Zanuck,0
+Dredd,film release distribution medium,Hungary,2
+Drums,instrumentalists,Richie Sambora,0
+Bursaspor,sport,Football,0
+Federico Fellini,educational institution,Screenwriter,2
+6th United States Congress,district represented,Vermont,0
+Tootsie,award,BAFTA Award for Best Makeup & Hair,0
+Archery,country,Cuba,0
+Toni Braxton,award,MTV Video Music Award for Best Female Video,0
+1904 Summer Olympics,sports,Swimming Upstream,3
+Fred Tatasciore,film,Family Guy Presents: Stewie Griffin: The Untold Story,0
+Resident Evil,film release region,South Korea,0
+80th Academy Awards,award winner,Joel Coen,0
+PhD,institution,University of Southern California,1
+Pitbull,film,Psycho,1
+Merle Haggard,profession,Singer-songwriter-GB,0
+Grammy Award for Best Alternative Music Album,award winner,Jerry Herman,1
+High Point,category,Official Website,0
+National Museum of Racing and Hall of Fame,inductee,Northern Dancer,0
+Billy Ray Cyrus,nationality,United States of America,0
+Joseph Campbell,award,Razzie Award for Worst Director,1
+The Princess and the Frog,executive produced by,John Lasseter,0
+Daniel Dae Kim,place of birth,Busan,0
+Ken Ralston,nominated for,Contact,0
+Mako Iwamatsu,profession,Actor-GB,0
+Honduras national football team,colors,White,0
+Italian American,people,Aida Turturro,3
+ADO Den Haag,contact category,Official Website,2
+The Insider,film,Super 35,2
+Carlos Alazraqui,nationality,United States of America,0
+Indie rock,artists,The Neptunes,3
+Gore Vidal,gender,Male,0
+The Good,the Bad,the Weird,0
+Maurice Gibb,role,Organ,0
+BAFTA Award for Best Editing,nominated for,No Country for Old Men,0
+Channel 4,award winner,The Philadelphia Story,3
+3000 Miles to Graceland,genre,Crime Fiction,0
+Ronnie Wood,educational institution,Record producer-GB,2
+Takeshi Kitano,nationality,Japan,0
+Joan Bennett,type of union,Marriage,0
+Master's Degree,educational institution,American University,2
+David Mamet,nationality,Judaism-GB,2
+Kristen Wiig,film,Friday Night Lights,3
+Richard Pryor,award,Primetime Emmy Award for Outstanding Guest Actor - Drama Series,0
+Canada,teams,Canada men's national soccer team,0
+Die Another Day,nominated for,From Russia with Love,0
+Country,artists,John Hartford,0
+Me and Orson Welles,language,English Language,0
+University of Sydney,major field of study,Dentistry-GB,0
+Pineapple Express,language,English Language,0
+1988 Winter Olympics,medal,Silver medal,3
+Texas,contains,Plano,0
+Writers Guild of America Awards 2007,award winner,David Mills,0
+Academy Award for Best Original Musical,nominated for,Sleepers,1
+Dan Schneider,location,Memphis,0
+Dena Higley,gender,Female,0
+Amy Nuttall,award,Academy Award for Best Actress in a Supporting Role,1
+8th Screen Actors Guild Awards,honored for,A Beautiful Mind,0
+Extremely Loud and Incredibly Close,film release region,Canada,0
+Henry Fonda,award,National Society of Film Critics Award for Best Actor,0
+Z,award,Cannes Jury Prize,0
+Lemony Snicket's A Series of Unfortunate Events,produced by,Walter F. Parkes,0
+I,genre,Thriller,1
+Marc Shaiman,type of union,Domestic partnership,0
+The Cable Guy,produced by,Judd Apatow,0
+Keenen Ivory Wayans,award nominee,DreamWorks Animation,3
+Anthony Hopkins,film festivals,The Wolfman,2
+Dance-pop,artists,Rick James,1
+Sting,role,Bass,0
+University of Michigan Law School,educational institution,University of Michigan Law School,0
+Bhangra,category,Official Website,0
+Alternative metal,artists,Melvins,0
+BAFTA Award for Best Film,nominated for,Midnight Express,0
+Kurt Russell,film festivals,Grindhouse,2
+Lee Eisenberg,religion,Male,2
+The Savages,genre,Thriller,1
+Sunshine,country,Hungary,0
+Burn After Reading,production companies,Relativity Media,0
+Experimental metal,artists,Joey Jordison,0
+Nausea,symptom of,Ovarian cancer,0
+Pulmonary embolism,people,Jon Lord,0
+Match Point,country,Luxembourg,0
+William A. Wellman,award,Academy Award for Best Cinematography,3
+Jamie Cullum,profession,Guitarist-GB,0
+Bradley Cooper,award nominee,Robert De Niro,0
+John Lutz,award nominee,Robert Carlock,0
+Lincoln,film release region,Zombieland,3
+Steven Moffat,profession,Television producer-GB,0
+Maggie Gyllenhaal,film,Stranger than Fiction,0
+News Corporation,child,20th Century Fox Television,0
+David Strathairn,film,The Whistleblower,0
+Doom metal,artists,Glenn Danzig,0
+Doctorate,major field of study,Biology,0
+Texas,contains,Beaumont,0
+Douglas Adams,category,Official Website,0
+The Expendables,film release region,Norway,0
+Girl with a Pearl Earring,film release region,United States of America,1
+Seiyū-GB,titles,Oscar,1
+Pennsylvania,contains,Cumberland County,0
+Moonraker,film release region,New Zealand,1
+Shia LaBeouf,profession,Cinematographer-GB,3
+Charles Baudelaire,location,Lyon,0
+41st Annual Grammy Awards,award winner,Vince McMahon,3
+Keyboard,instrumentalists,Yanni,0
+Majesco Entertainment,industry,Video game,0
+James D. Parriott,profession,Television Director,0
+Argo,film release region,New Caledonia,3
+Carey Mulligan,gender,Male,1
+Terrence McNally,film release region,Brazil,1
+John Oliver,type of union,Marriage,0
+Young Adam,film release region,Czech Republic,0
+Andy Warhol,profession,Artist-GB,0
+Matt LeBlanc,type of union,Marriage,0
+J. D. Salinger,influenced by,Ernest Haller,3
+Palme d'Or,award winner,Hayao Miyazaki,3
+Grammy Award for Best Rock Album,award winner,Brian Eno,0
+Ruby Dee,award nominee,Cuba Gooding,0
+Drums,group,The Fall,0
+Vomiting,symptom of,Dysentery,0
+Case Closed: Captured in Her Eyes,actor,Danny Aiello,3
+13th Satellite Awards,award winner,Thomas McCarthy,0
+Jay Kogen,place of birth,Brooklyn,0
+1990 NCAA Men's Division I Basketball Tournament,locations,Hartford,0
+Peter Hyams,film,Alice in Wonderland,1
+Motown Records,category,Official Website,0
+Lincoln College,Cambridge,student,2
+2008 Summer Olympics,participating countries,Andorra,3
+Shannen Doherty,profession,Television producer-GB,0
+Max von Sydow,award,National Society of Film Critics Award for Best Actor,0
+Portugal,olympics,1984 Summer Olympics,0
+X-Men,artists,Michael Kamen,2
+University of Houston,major field of study,Electrical engineering,3
+Lynn Redgrave,type of union,Marriage,0
+Bobby McFerrin,origin,New York,0
+Sin City,film crew role,Visual Effects,0
+Experimental rock,artists,Les Claypool,0
+Aerosmith,religion,Catholicism,1
+Seattle Storm,special performance type,Gold,2
+Cleveland Indians,draft,1997 Major League Baseball Draft,0
+Maura Tierney,award,Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series,0
+Owensboro,place,Owensboro,0
+Central Intelligence Agency (CIA),films,Salt,0
+Maggie Roswell,nationality,United States of America,0
+Bachelor of Science,institution,University of Richmond,3
+Dr. No,genre,Action Film,0
+Martin Freeman,award nominee,Thomas Sangster,0
+Grammy Award for Best Instrumental Composition,ceremony,36th Annual Grammy Awards,1
+Leonardo DiCaprio,place of birth,Hollywood,0
+John Debney,legislative sessions,109th United States Congress,1
+Pomona College,school,College,2
+BAFTA Academy Fellowship Award,award,John Huston,2
+Danny DeVito,award,Razzie Award for Worst Supporting Actor,0
+Atlantic Records,artist,Buddy Guy,0
+IFC Films,film,Kaboom,0
+Kanye West,award,MTV Video Music Award for Artist to Watch,0
+England,contains,Greater London,3
+Cardiovascular disease,people,Edwin B. Willis,3
+President,company,Genentech,0
+Table sugar,nutrient,Selenium,0
+James G. Robinson,gender,Male,0
+The Guard,film distribution medium,Streaming media,0
+Tufts University,major field of study,History,0
+Al Pacino,award nominee,Razzie Award for Worst Actor,2
+Joan Cusack,film,High Fidelity,0
+Fatigue,symptom of,Cardiovascular disease,3
+Paul Giamatti,film,Lady in the Water,0
+Will Smith,award,MTV Video Music Award for Best Rap Video,0
+Limitless,film release region,Denmark-GB,0
+American Pie,film release region,Dominican Republic,3
+Perfume: The Story of a Murderer,film crew role,Special Effects Supervisor,0
+105th United States Congress,district represented,Maine,0
+National School of Drama,state province region,Delhi,0
+Dee Bradley Baker,profession,Character Actor,3
+The French Connection,genre,Action Film,0
+Lock,Stock and Two Smoking Barrels,film release distribution medium,0
+Billy Corgan,role,Mandolin,1
+President,jurisdiction of office,Kyrgyzstan,0
+Keyboard,group,Babylon 5: The Gathering,3
+Grunge,artists,Melvins,0
+Jane Eyre,film release region,Singapore,0
+Academy Award for Best Actress in a Supporting Role,nominated for,The Sessions,0
+Hercules,genre,Family,0
+St. Lawrence University,registering agency,Internal Revenue Service,0
+The Hitchhiker's Guide to the Galaxy,production companies,Spyglass Entertainment,0
+Cosmopolis,film release region,Greece,0
+Tennessee Williams,profession,Author-GB,3
+Gene Wolfe,nationality,United States of America,0
+Willem Dafoe,film festivals,Affliction,2
+Dyslexia,notable people with this condition,Samuel R. Delany,0
+Star Trek: First Contact,genre,Science Fiction,0
+The Notebook,film release region,Chile,0
+Vocal music,music,Frank Sinatra,2
+Community,actor,John Oliver,0
+Van Nest Polglase,place of death,Los Angeles,0
+Sky Captain and the World of Tomorrow,artists,Edward Shearmur,2
+Chris Rock,film,Madagascar: Escape 2 Africa,3
+Bowling Green State University,school,California State University,1
+Peter Buck,profession,Guitarist-GB,0
+Diane Lane,nationality,United States of America,0
+Jane Seymour,nationality,England,0
+Stockton,place,Stockton,0
+Richard Gere,film,The Cotton Club,0
+Satellite Award for Best Costume Design,nominated for,Cloud Atlas,0
+Bluegrass,artists,Ricky Skaggs,0
+The Last King of Scotland,language,Swahili Language,0
+Doom metal,film release region,Kenya,1
+Canoe Sprint,country,Montenegro,0
+Concordia University,category,Interactive Advertising Bureau,3
+The Lord of the Rings: The Return of the King,film release distribution medium,Uruguay,2
+The League of Extraordinary Gentlemen,language,Italian Language,0
+Tom Wilkinson,gender,Male,1
+David Lynch,award,Golden Globe Award for Best Director - Motion Picture,0
+Wreck-It Ralph,film release region,Paraguay,0
+Germany in Autumn,executive produced by,Christine Langan,1
+Denver,time zones,Mountain Time Zone-US,0
+Mayor,jurisdiction of office,Greensboro,0
+Copley Medal,award,Albert Einstein,2
+James Mason,film,North by Northwest,0
+Emilie de Ravin,film festivals,Public Enemies,2
+Hundred Years' War,participating countries,Sweden,2
+Harmonica,instrumentalists,Phil Collins,1
+Eddie Murphy,influenced by,Jerry Lewis,0
+Jermaine Jackson,gender,Male,0
+Managing Director-GB,company,Northrop Grumman,0
+Trevor Rabin,category,Interactive Advertising Bureau,3
+Bass guitar,group,Blondie,0
+Pete Postlethwaite,nationality,United States of America,1
+Battleship,film release region,Hungary,0
+Florida International University,student,Dennis Lehane,0
+Singin' in the Rain,film release distribution medium,United States of America,2
+Anthony Hopkins,award,National Society of Film Critics Award for Best Actor,0
+Fredric March,profession,Cinematographer-GB,3
+Martie Maguire,profession,Artist-GB,3
+Mike Portnoy,role,Percussion,0
+George Harrison,award nominee,Neil Young,0
+Lucky Numbers,film crew role,Makeup Artist-GB,0
+Don Cheadle,film,Flight,0
+Konami,category,Official Website,0
+Christopher Lloyd,film,Who Framed Roger Rabbit,0
+Charlotte Rampling,award,AACTA Award for Best Lead Actress,0
+Gwinnett County,adjoins,Gwinnett County,3
+Fred Astaire,profession,Musician-GB,0
+The Lord of the Rings: The Fellowship of the Ring,film release region,South Africa,0
+Arizona,contains,Mesa,0
+56th Primetime Emmy Awards,award winner,William Shatner,0
+The Lord of the Rings: The Two Towers,genre,Fiction,0
+Grammy Award for Best Instrumental Arrangement,ceremony,44th Annual Grammy Awards,0
+13 Going on 30,film release region,Hungary,0
+Alternative hip hop,parent genre,East Coast hip hop,0
+Terminator Salvation,film release region,Austria,0
+Bernard Herrmann,award,Satellite Award for Best Cinematography,1
+Lloyd Kaufman,award,Primetime Emmy Award for Outstanding Lead Actor - Miniseries or a Movie,1
+You've Got Mail,currency,United States Dollar,0
+Grammy Award for Best Album Notes,ceremony,46th Annual Grammy Awards,0
+Phil Collins,currency,UK Garage,3
+Mayor,jurisdiction of office,Coronado,1
+58th Primetime Emmy Awards,award winner,David Fury,0
+John Dingell,religion,Catholicism,0
+Master of Science,institution,Stanford Graduate School of Business,0
+Research Assistant,company,California State Polytechnic University,0
+Suspense,film,The Texas Chainsaw Massacre,1
+Spider-Man 3,featured film locations,Los Angeles,0
+Jules Dassin,profession,Film Director,0
+Ghana,olympics,1996 Summer Olympics,0
+Hannibal Rising,edited by,Pietro Scalia,0
+Moneyball,film release region,Iceland,0
+Shame,film release region,Poland,0
+Manny Coto,profession,Film,3
+University of California,Berkeley,major field of study,0
+Pop rock,artists,John Mayer,0
+Academy Award for Best Costume Design,nominated for,The Color Purple,0
+Green Lantern,source,United States Department of Housing and Urban Development,1
+Krautrock,artists,Dropkick Murphys,1
+Peter Ustinov,profession,Film Director,0
+The Great Gatsby,film release region,Russia,0
+Frankenweenie,story by,Mary Shelley,1
+Mission: Impossible III,language,Italian Language,0
+E1 Entertainment,state province region,New York,0
+Winnie the Pooh,film release region,Denmark-GB,0
+Lars von Trier,type of union,Marriage,0
+Pop music,music,Lena Horne,2
+A.I. Artificial Intelligence,film release distribution medium,DVD,0
+2004 NFL Draft,school,University of Arkansas,3
+Oral Roberts University,student,Kathie Lee Gifford,0
+Callum Keith Rennie,nationality,Middlesbrough,3
+42nd Annual Grammy Awards,award winner,Dr. John,1
+Total Recall,film release region,Thailand,0
+60th Primetime Emmy Awards,award winner,Robert Carlock,0
+Man on the Moon,film release distribution medium,DVD,0
+Michel Foucault,influenced by,Immanuel Kant,0
+World music,artists,Enya,0
+Track and field athletics,country,Saudi Arabia,0
+Barton Fink,genre,Mystery,0
+Skin cancer,genre,Comedy-GB,1
+Jeff Goldblum,award,Academy Award for Best Short Film (Live Action),0
+President,organization,Santa Clara University,0
+Gigli,film crew role,Musician-GB,3
+Jessica Walter,award,Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series,0
+Bachelor of Arts,educational institution,University of San Francisco,2
+Chairman,jurisdiction of office,Vietnam,1
+Puss in Boots,film release region,Israel,0
+Tangled,film release region,Austria,0
+University of Dundee,colors,White,0
+I Spy,film,Sound Mixer,2
+St. Lawrence University,student,Kirk Douglas,0
+X-Men Origins: Wolverine,executive produced by,Stan Lee,0
+Paul Junger Witt,educational institution,United States of America,2
+Walt Disney Animation Studios,film,Chicken Little,1
+Martin Short,languages,English Language,0
+Kajol,religion,Islam,1
+Master of Science,institution,Polytechnic University of Milan,0
+Stanford University,major field of study,Physics,1
+Lewiston,currency,United States Dollar,0
+YTV,program,The Others,3
+Emir Kusturica,award,Golden Globe Award for Best Foreign Language Film,3
+Swimming Upstream,film release distribution medium,Belgium,2
+Thrash metal,genre,New Wave of British Heavy Metal,2
+Cheaper by the Dozen,genre,Drama,0
+John Adams,profession,Attorneys in the United States,1
+Philip Seymour Hoffman,award nominee,Kate Beckinsale,3
+Viola Davis,award,Independent Spirit Award for Best Supporting Female,0
+University of Southern California,student,Brian Grazer,0
+Star Wars: The Clone Wars,genre,Science Fiction,0
+Tuba,group,Blood,0
+William Shatner,award,Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series,0
+Marilyn Manson,origin,Florida,0
+Gilles Deleuze,influenced by,Robert F. McGowan,3
+Association of American Universities,team,Angola national football team,1
+Nick Nolte,film,Cape Fear,0
+Shelley Winters,film,The Lion in Winter,3
+Pirates of the Caribbean: The Curse of the Black Pearl,film release region,Kyrgyzstan,3
+University of Southern California,student,Ben Burtt,0
+Atlanta Falcons,colors,Blue,1
+Academy Award for Best Visual Effects,category of,Academy Awards,0
+Bagpipes,role,Zither,0
+Management,film crew role,Art Director,0
+Scotland,contains,St Andrews,0
+A Clockwork Orange,genre,Crime Fiction,0
+Stroke,people,Christopher Young,3
+Warner Home Video,film,Daredevil,3
+Bard College,registering agency,Internal Revenue Service,0
+Mississippi,taxonomy,Library of Congress Classification,0
+Solitary Man,film crew role,Dialogue Editor,0
+Prime minister-GB,jurisdiction of office,Algeria,3
+Beasts of the Southern Wild,film release region,Belgium,0
+The Matrix Reloaded,film crew role,Visual Effects,0
+Academy Award for Best Cinematography,ceremony,67th Academy Awards,0
+Awakenings,industry,Software,1
+Grammy Award for Best New Artist,ceremony,45th Annual Grammy Awards,0
+Simon Cowell,award nominee,Ryan Phillippe,3
+Role Models,film crew role,Special Effects Supervisor,0
+Jenna Ushkowitz,gender,Female,0
+Hannah Montana: The Movie,film release region,Czech Republic,0
+Jim Belushi,film,Salvador,0
+Bachelor of Arts,institution,San Diego State University,0
+California,adjoins,Arizona,0
+Leon Schlesinger,place of birth,Philadelphia,0
+Leo Bertos,award,Primetime Emmy Award for Outstanding Supporting Actress - Miniseries or a Movie,1
+Elizabeth: The Golden Age,produced by,Tim Bevan,0
+United States of America,contains,University of Arkansas,0
+The Pianist,film release region,Israel,0
+Anupam Kher,film,Lust,0
+Cerebral hemorrhage,people,Anne Baxter,0
+Indian people,person,Satyendra Kapoor,2
+Lawrence Gordon,profession,Television producer-GB,0
+Pennsylvania,contains,113th United States Congress,3
+Warner Bros. Records,artist,Ashley Tisdale,0
+Thor,featured film locations,Los Angeles,0
+State University of New York at Purchase,colors,Orange,0
+University of North Carolina at Charlotte,fraternities and sororities,Alpha Sigma Phi,3
+X2,film crew role,Animator-GB,0
+Austria,administrative area type,Sovereign state,0
+Lesbian,films,V for Vendetta,0
+Igor Stravinsky,type of appearance,Marriage,2
+Djembe,instrumentalists,Beck Hansen,1
+Dartmouth College,student,Jean Passanante,0
+Carroll Clark,place of birth,Mountain View,0
+Eritrea,form of government,Republic,0
+Marriage,location of ceremony,Hawaii,0
+Helen,religion,Female,2
+University of North Carolina at Charlotte,category,Official Website,0
+ATCO Records,actor,Bee Gees,2
+Denis Leary,award,Primetime Emmy Award for Outstanding Lead Actor - Drama Series,0
+2010,produced by,Vince Vaughn,1
+The Poseidon Adventure,edited by,Stirling Silliphant,2
+The Host,category,Official Website,0
+Gene Reynolds,profession,Screenwriter,0
+BAFTA Award for Best Animated Film,nominated for,The Simpsons Movie,0
+Writers Guild of America Award for Best Original Screenplay,award winner,Tom Stoppard,0
+Psychology,film release region,Czech Republic,1
+27th United States Congress,district represented,Tennessee,0
+Alice,location,New York,1
+MTV Movie Award for Best Comedic Performance,honored for,Nutty Professor II: The Klumps,2
+Ed Begley,Jr.,profession,0
+111th United States Congress,district represented,Wisconsin,0
+Doctorate,institution,University of Rhode Island,0
+USA Network,state province region,New York,0
+Gospel music,artists,Michael W. Smith,0
+The Matrix Revolutions,executive produced by,Bruce Berman,1
+George Segal,nationality,United States of America,0
+Confederate States of America,second level divisions,Davidson County,1
+The House of Mirth,film release region,Israel,0
+Columbia Pictures,film,Julie & Julia,0
+56th Golden Globe Awards,award winner,Jack Huston,3
+Filipino,geographic distribution,Philippines,0
+Alternative metal,artists,Chris Cornell,0
+Jim Broadbent,film,Vanity Fair,0
+Protopunk,artists,Iggy Pop,0
+Arthur Christmas,film release region,Indonesia,3
+Frankenweenie,film release region,Greece,0
+Jon Anderson,gender,Male,0
+Inception,film crew role,Art Director,0
+Pakistan,teams,Pakistan national cricket team,0
+Mo'Nique Imes-Jackson,nationality,United States of America,0
+Raleigh,second level divisions,Carolina Hurricanes,2
+Charlie Sheen,award nominee,Wilmer Valderrama,3
+Wharton School of the University of Pennsylvania,student,Barack Obama,3
+Boston University,student,Dorothy Jeakins,3
+Richard E. Grant,influenced by,Alexandre Dumas,1
+Roy Kinnear,category,Official Website,1
+Frank Welker,nationality,United States of America,1
+Jules Dassin,place of death,Athens,0
+Paul Auster,profession,Author-GB,0
+A Time to Kill,film release distribution medium,DVD,0
+Academy Award for Best Actress,ceremony,70th Academy Awards,1
+Enrique Iglesias,nationality,Spain,0
+Lisa Edelstein,service location,New York,2
+ESPN,region,Connecticut,2
+Bobby McFerrin,profession,Conductor,0
+Taylor Swift,award,MTV Video Music Award for Best Female Video,0
+1999 NCAA Men's Division I Basketball Tournament,team,Purdue Boilermakers men's basketball,0
+Golden Globe Award for Best Director - Motion Picture,nominated for,Carry On,3
+Soul music,artists,Jerry Siegel,3
+Bachelor of Science,institution,Wharton School of the University of Pennsylvania,3
+Hong Kong Film Award for Best Supporting Actress,nominated for,Chungking Express,0
+Lil' Kim,award,MTV Video Music Award for Best Art Direction,0
+Grammy Award for Best Rap Performance by a Duo or Group,ceremony,47th Annual Grammy Awards,0
+Albert Einstein,educational institution,Mathematician,2
+Irving Berlin,profession,Lyricist,0
+36th Academy Awards,award winner,Patricia Neal,0
+68th Academy Awards,honored for,Sense and Sensibility,0
+Les Fradkin,produced by,Electric Light Orchestra,2
+Ron Perlman,film,Hellboy,0
+As Good as It Gets,genre,Drama,0
+Putnam County,currency,United States Dollar,1
+Broadcast Film Critics Association Award for Best Supporting Actress,nominated for,Adaptation,0
+Europe,contains,Italy,0
+Epilepsy,notable people with this condition,Hugo Weaving,0
+Shortstop,team,New York Mets,1
+Wharton School of the University of Pennsylvania,major field of study,Financial Services,3
+2006 NBA draft,school,Temple University,0
+Jason Alexander,film,The Penguins of Madagascar,3
+Paramount Pictures,film,Thunderball,3
+Alyson Hannigan,type of appearance,Marriage,2
+University of Cambridge,student,Edward Shearmur,0
+Signs,artists,James Newton Howard,2
+Roman Polanski,profession,Screenwriter,0
+Bob Newhart,profession,Musician-GB,0
+Grammy Award for Best Male R&B Vocal Performance,ceremony,43rd Annual Grammy Awards,0
+Nicholas and Alexandra,state province region,United States of America,2
+The Brothers Bloom,genre,Writer-GB,3
+The Bourne Legacy,film release region,Greece,0
+Bob Balaban,nationality,United States of America,0
+Cabaret,music,John Kander,0
+Broadcast Film Critics Association Award for Best Cast,award,Taye Diggs,2
+Technical University of Munich,state province region,Bavaria,0
+Mahatma Gandhi,profession,Politician-GB,0
+Jonathan Glickman,profession,Television producer-GB,3
+Rensselaer Polytechnic Institute,major field of study,Civil Engineering,0
+Christina Hendricks,participant,Cameron Diaz,1
+Dilys Award,award winner,Norman Lear,1
+Hip hop music,artists,Kid Cudi,0
+Bram Stoker,location,London,0
+Reprise Records,artist,Eric Clapton,0
+Iron Man 2,film release region,Belgium,0
+BAFTA Award for Best Actress in a Leading Role,nominated for,Cries and Whispers,0
+Tom Fleischman,location,Plainfield,1
+Motown Records,artist,Marvin Gaye,0
+Hard rock,artists,Richard Linklater,3
+Brad Garrett,film,Casper,0
+Madan Puri,place of death,Mumbai,0
+Primetime Emmy Award for Outstanding Guest Actress - Drama Series,ceremony,56th Primetime Emmy Awards,1
+Body of Lies,genre,Spy film,0
+Tragedy,films,Solitary Man,3
+Transformers,film release distribution medium,United States of America,2
+New York University,student,Charlie Kaufman,0
+Golden Globe Award for Best Original Score,nominated for,Avatar,0
+Demi Moore,participant,Ally Sheedy,0
+Marilyn Manson,profession,Television producer-GB,3
+Tisch School of the Arts,student,Philip Seymour Hoffman,0
+Christ Church,Oxford,student,0
+Richard A. Baker,gender,Male,0
+Over the Top,written by,Stirling Silliphant,0
+BAFTA Award for Best Actress in a Leading Role,nominated for,The Mirror Has Two Faces,1
+New Romanticism,music,Roxy Music,2
+Gary Oldman,gender,Male,1
+Mark Burnett,nationality,United States of America,1
+Ocean's Thirteen,parent genre,Crime Fiction,2
+Academy Award for Best Writing Adapted Screenplay,nominated for,A Streetcar Named Desire,0
+Youth in Revolt,production companies,Dimension Films,0
+California State University,Fresno,school type,2
+Chicago White Sox,colors,White,0
+Indian people,people,Sayaji Shinde,3
+Freestyle wrestling,country,Australia,0
+Wayne Shorter,profession,Artist-GB,3
+Craig Robinson,award nominee,Melora Hardin,0
+24,producer type,Executive Producer,0
+Irish American,person,Bing Crosby,2
+Hip hop soul,artists,Kelis,1
+BAFTA Award for Best Makeup & Hair,honored for,Dangerous Liaisons,2
+Colorado College,campuses,Colorado College,0
+Richard Masur,nationality,Confederate States of America,3
+Walter Pidgeon,nationality,Canada,0
+Bubblegum pop,artists,The Jackson 5,0
+Bachelor's degree,institution,United States Military Academy,0
+University of Toronto,major field of study,Engineering-GB,0
+Robert Rodriguez,type of union,Domestic partnership,0
+Oakland Athletics,seasonal months,2003 Major League Baseball season,2
+Tough Guys Don't Dance,film crew role,Makeup Artist-GB,1
+Margin Call,film release distribution medium,Italy,2
+Sherlock,specialization of,United Kingdom,2
+Kal Penn,religion,Hinduism,0
+New York City,time zones,Eastern Time Zone,0
+Dean Stockwell,film,The Straight Story,1
+Elias Koteas,film,Let Me In,0
+Florida,religion,Nondenominational Christianity,0
+Ellen Barkin,film,Ocean's Thirteen,0
+Miranda Otto,profession,Film Director,1
+Robert Morley,role,Synthesizer,1
+Grammy Award for Best Traditional Pop Vocal Album,ceremony,39th Annual Grammy Awards,3
+Aleksandr Pushkin,influenced by,John Keats,0
+Charlize Theron,award,Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture,0
+The Flowers of War,genre,War film,0
+John F. Kennedy,type of union,Marriage,1
+Memoirs of a Geisha,film crew role,Special Effects Supervisor,0
+Georgia Institute of Technology,major field of study,Economics,0
+Jerry Maguire,genre,Comedy-GB,0
+Alien,film release region,Hungary,0
+SCE Studio Liverpool,category,Official Website,0
+Snow White and the Huntsman,film release region,Lombardy,3
+University of Glasgow,major field of study,English Literature,0
+Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Comedy Series,award winner,Ariel Winter,0
+Tufts University,student,Steve Tisch,0
+Ed Helms,profession,Voice Actor,0
+Writers Guild of America Awards 2006,award winner,Steve Carell,0
+Golden State Warriors,school type,University of New Orleans,2
+Jewish people,people,Stanley Donen,0
+Michael Keaton,film,The Other Guys,0
+Lenny Kravitz,award nominee,Mo'Nique Imes-Jackson,0
+The Rose,film release region,Spain,1
+Bisexuality,titles,Orlando,0
+Volleyball,country,Algeria,0
+Indie pop,artists,Tarzan,3
+LeBron James,location,Miami Beach,3
+Jimmy Van Heusen,category,Official Website,0
+Zach Braff,category,Official Website,0
+Mexico,vacationer,Sarah McLachlan,3
+Bruce Springsteen,award,Grammy Award for Best Pop Collaboration with Vocals,0
+Columbia Pictures,nominated for,xXx,0
+61st Primetime Emmy Awards,honored for,24,1
+Charlie Parker,nationality,Confederate States of America,3
+Kevin Bacon,location,New York,0
+Gambia,organization,African Development Bank,0
+Warner Bros. Records,artist,Enya,0
+Primetime Emmy Award for Outstanding Drama Series,nominated for,Friday Night Lights,0
+Franco Zeffirelli,award,BAFTA Award for Best Direction,0
+Fargo,genre,Black,3
+Dave Grusin,nationality,United States of America,0
+University of North Carolina at Chapel Hill,school type,Public university,0
+Heidi Klum,profession,Presenter-GB,0
+Doctorate,institution,King's College,1
+Journalism,student,Robert Loggia,0
+Management,artists,Mychael Danna,2
+Pembroke College,Cambridge,major field of study,0
+Prime minister-GB,jurisdiction of office,German Democratic Republic,0
+WarGames,film release region,Lombardy,3
+Portland-Vancouver-Beaverton,film,Ice Age: Dawn of the Dinosaurs,1
+World Trade Organization,member states,Tunisia,0
+American Revolutionary War,locations,Atlantic Ocean,0
+Grammy Award for Album of the Year,ceremony,44th Annual Grammy Awards,1
+Djembe,role,Electric piano,1
+The Weinstein Company,film,Submarine,0
+Seal,award,MTV Video Music Award for Artist to Watch,0
+Laura Linney,nominated for,Mystic River,0
+Holes,currency,United States Dollar,0
+Jewish people,people,Stephen Goosson,3
+A. R. Rahman,religion,Hinduism,1
+Michael Redgrave,award,Academy Award for Best Actor,0
+University of Waterloo,major field of study,Sociology,0
+Robert Redford,educational institution,Film Producer-GB,2
+Walter Becker,profession,Songwriter-GB,0
+Nicolas Cage,film,Ryan's Daughter,3
+Governor-GB,jurisdiction of office,Indiana,0
+Soft rock,artists,Ronnie Wood,1
+Primetime Emmy Award for Outstanding Lead Actor - Drama Series,nominated for,Law & Order: Special Victims Unit,0
+University College Dublin,student,Brendan Coyle,3
+Governor-GB,jurisdiction of office,Algeria,1
+Academy Award for Best Cinematography,nominated for,The Shawshank Redemption,0
+Richard Portman,profession,Actor-GB,1
+Anthony Quinn,profession,Film Producer-GB,0
+The Hunger Games,language,English Literature,3
+David Sanborn,profession,Musician-GB,0
+Keith Allen,profession,Artist-GB,0
+Lauren Katherine Conrad,profession,Writer-GB,3
+Marvin Hamlisch,type of union,Marriage,0
+Miracle at St. Anna,film,Art Director,2
+Bryan Ferry,role,Electric guitar,0
+Steve Earle,award,Grammy Award for Best Pop Collaboration with Vocals,3
+Brian McKnight,award,Grammy Award for Best Pop Performance by a Duo or Group with Vocal,3
+Adrien Brody,film,New York,3
+History,major field of study,Mathematics,0
+Paul Winfield,place of burial,Forest Lawn Memorial Park,0
+Robert Redford,educational institution,Environmentalist,2
+Celebrity Big Brother,program creator,Channel 4,0
+Isle of Man,film release region,Singapore,1
+Republic of Venice,capital,Venice,0
+Waltham,source,United States Department of the Treasury,3
+Ayn Rand,type of union,Marriage,0
+Powers Boothe,location,Texas Rangers,3
+Agnes Moorehead,award,British Independent Film Award for Best Actress,1
+1976 Summer Olympics,sports,Greco-Roman wrestling,0
+University of California,Los Angeles,student,0
+1956 Summer Olympics,sports,Swimming,0
+Claude Rains,gender,Male,0
+Neil Gaiman,profession,Author-GB,1
+The Dark Knight,costume design by,Lindy Hemming,1
+Didgeridoo,educational institution,Chad Smith,2
+Stephen Harper,profession,Prime Minister of Canada,0
+New York University,major field of study,Psychology,0
+Alternative hip hop,music,Tricky Stewart,2
+AIA Gold Medal,award winner,Philip Johnson,0
+Joey Fatone,origin,Orlando,0
+Jewish people,person,Corey Feldman,2
+Grammy Award for Best Jazz Vocal Album,ceremony,48th Annual Grammy Awards,0
+Erin Brockovich,currency,United States Dollar,0
+Adam Sandler,profession,Comedian,0
+Kenny Loggins,type of appearance,Marriage,2
+Monster,film format,Super 35,3
+Bill Paxton,film,Forgetting Sarah Marshall,1
+George Benson,type of union,Marriage,0
+Eddie Marsan,film festivals,Gangs of New York,2
+Power pop,parent genre,Merseybeat,0
+Tony Richardson,gender,Male,0
+Jason Marsden,film,Rambo,1
+Philippe Rousselot,award,Satellite Award for Best Original Screenplay,3
+The Delta Force,film release distribution medium,VHS,3
+Broadcast News,language,English Language,0
+Clare College,Oxford,major field of study,1
+Aladdin,country,United States of America,1
+Jodie Foster,languages,Italian Language,0
+Albert Finney,nationality,England,0
+Lorne Michaels,educational institution,Television producer-GB,2
+Swedes,people,Viggo Mortensen,3
+Ashkenazi Jews,languages spoken,Hebrew Language,0
+Kenya,form of government,Republic,0
+Screen Actors Guild Life Achievement Award,award winner,Julie Andrews,0
+Youth in Revolt,film format,35 mm film,0
+James L. Brooks,religion,Male,2
+Confederate States of America,form of government,Republic,1
+Ogden,category,Interactive Advertising Bureau,3
+Alan Cumming,film,GoldenEye,0
+Oslo,mode of transportation,Train,0
+Muhammad,taxonomy,Library of Congress Classification,0
+Imperial College London,major field of study,Civil Engineering,0
+Gustavo Cerati,profession,Songwriter-GB,0
+West Germany,medal,Silver medal,3
+Solitary Man,executive produced by,Avi Lerner,0
+University of Delaware,major field of study,Communication,0
+Charlie and the Chocolate Factory,film release region,Poland,0
+Swizz Beatz,country of origin,Brooklyn,2
+Gettysburg,place,Vicksburg,1
+Gospel music,artists,Bob Dylan,0
+Bob Gunton,film,Intolerable Cruelty,1
+Newsreader-GB,company,CTV Television Network,3
+Grown Ups,film crew role,Composer,3
+Tony Curtis,award nominee,Primetime Emmy Award for Outstanding Lead Actor - Miniseries or a Movie,2
+MTV Movie Award for Best New Filmmaker,nominated for,Lock,0
+Vantage Point,film,Into the Wild,1
+Wellington College,Berkshire,Bedknobs and Broomsticks,3
+Milan Conservatory,time zones,Central European Time Zone-US,0
+Searching for Debra Winger,film release distribution medium,Television,0
+Ray Manzarek,group,The Doors,0
+Dave Thomas,nationality,United States of America,0
+The Impossible,film release region,Croatia,0
+Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Miniseries or Television Movie,ceremony,8th Screen Actors Guild Awards,0
+History,titles,The Fighter,1
+United States of America,second level divisions,Dakota County,0
+Isaac Asimov,profession,Scientist-GB,1
+Theatre,student,Bill Pullman,0
+Isabelle Huppert,film,Heaven's Gate,0
+Shilpa Shetty,religion,Hinduism,0
+Jewish people,people,Peter Lawford,3
+Butch Cassidy and the Sundance Kid,nominated for,The Fugitive,3
+Cancer,people,Merian C. Cooper,0
+Dick Clark,educational institution,Businessperson-GB,2
+Drums,group,The Killers,0
+Marriage,location of ceremony,Clark County,0
+Howl,film release region,Germany,0
+BAFTA Award for Best Actor in a Leading Role,honored for,Reds,2
+13 Assassins,film release region,United States of America,0
+Drum,instrumentalists,Quincy Jones,0
+December,seasonal months,July,0
+Leslie Bricusse,nationality,England,0
+James Rebhorn,film,Real Steel,0
+Melora Hardin,award nominee,Craig Robinson,0
+Iowa,partially contains,Mississippi River,0
+William Joyce,type of union,Marriage,0
+Sexy Beast,film format,Super 35,3
+Walter H. Tyler,nationality,United States of America,1
+Razzie Award for Worst Screenplay,nominated for,The Adventures of Pluto Nash,1
+Desmond Harrington,award nominee,Edward James Olmos,0
+Bachelor's degree,institution,Cornell University,0
+Warner Bros. Records,actor,James Taylor,2
+San Francisco 49ers,season,2004 Major League Baseball season,1
+Milwaukee Brewers,season,1985 Major League Baseball season,1
+Freddie Hubbard,profession,Storyboard Artist,3
+The Red Violin,film release region,Bourbon Spain,3
+David Gilmour,profession,Musician-GB,0
+Richard Rorty,influenced by,Jacques Derrida,0
+Tyrone Power,location of ceremony,Rome,0
+Elvis Presley,adjustment currency,United States Dollar,2
+Margaret Atwood,influenced by,Jonathan Swift,0
+Hundred Years' War,combatants,Bohemia,0
+Greg Daniels,type of union,Marriage,0
+Academy Award for Best Actress in a Supporting Role,ceremony,40th Academy Awards,3
+Pineapple Express,film release distribution medium,Hungary,2
+Spy Kids 3-D: Game Over,film release region,France,1
+University of California,Santa Barbara,University of the Witwatersrand,3
+Ian Somerhalder,nationality,New Zealand,1
+Nepal,organization,United Nations,0
+Toy Story,actor,Maurice LaMarche,1
+Madagascar 3: Europe's Most Wanted,parent genre,Adventure Film,2
+Washington,contains,Yakima,0
+Penn Jillette,type of union,Marriage,0
+Heather O'Reilly,gender,Female,0
+The Spy Who Loved Me,film release region,Sweden,0
+Burt Lancaster,place of burial,Westwood Village Memorial Park Cemetery,0
+Max Fleischer,nationality,United States of America,0
+Sudan,administrative parent,Earth,0
+Gene Reynolds,profession,Television Director,0
+San Francisco Art Institute,student,Mary Lynn Rajskub,0
+Pierre Boulez,gender,Male,1
+Emile Hirsch,location,Santa Fe,0
+Space Cowboys,film distribution medium,DVD,2
+Primetime Emmy Award for Outstanding Supporting Actress - Miniseries or a Movie,nominated for,Merlin,0
+Rani Mukerji,film,Kuch Kuch Hota Hai,0
+BAFTA Award for Best Film,nominated for,Rear Window,0
+Tim Bevan,award,Academy Award for Best Picture,0
+Tennis,athlete,Henrik Ibsen,3
+Thom Yorke,award,Grammy Award for Best Rock Song,0
+BAFTA Award for Best Actor in a Leading Role,nominated for,The Master,0
+One Tree Hill,genre,Drama,0
+George Burns,religion,Judaism-GB,0
+North Island,contains,George Hamilton,3
+Family Guy Presents: Stewie Griffin: The Untold Story,film release region,Argentina,1
+Donald Crisp,award,Academy Award for Best Actor in a Supporting Role,0
+Amour,film release distribution medium,Turkey,2
+Bachelor of Science,institution,Illinois Institute of Technology,0
+Kagoshima Prefecture,category,Interactive Advertising Bureau,3
+Prague,mode of transportation,Air travel,0
+1998 NCAA Men's Division I Basketball Tournament,team,North Carolina Tar Heels men's basketball,1
+Academy Award for Best Makeup and Hairstyling,ceremony,68th Academy Awards,0
+Bachelor of Arts,split to,Christ's College,3
+Padma Vibhushan,award,Hrishikesh Mukherjee,2
+The Messenger: The Story of Joan of Arc,genre,Epic film,1
+Boxing,country,Croatia,3
+Jessica Lange,film,Big Fish,0
+Columbia,artist,Jean-Jacques Goldman,0
+Nigeria national football team,team,Everton F.C.,2
+United National Party,category,Official Website,0
+Small Soldiers,film release distribution medium,VHS,3
+Max von Sydow,film,Breakfast on Pluto,3
+Chinese language,countries spoken in,Vietnam,0
+Period piece,titles,The Notebook,0
+American Gangster,production companies,Imagine Entertainment,0
+Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Comedy Series,ceremony,16th Screen Actors Guild Awards,0
+Guinea,teams,Guinea national football team,0
+Sony Corporation,service location,Ontario,3
+Denmark-GB,time zones,China Time Zone-US,3
+Paul Reubens,film,The Nightmare Before Christmas,0
+Pete Postlethwaite,film,The Last of the Mohicans,0
+Rupert Holmes,category,Official Website,0
+Mandarin Chinese,geographic distribution,New Zealand,1
+London,vacationer,Tom Cruise,0
+President,organization,University of Pennsylvania,0
+Tyrannosaur,film release region,Netherlands,0
+Primetime Emmy Award for Outstanding Supporting Actor - Comedy Series,nominated for,Modern Family,1
+BAFTA Award for Best Original Screenplay,honored for,Dirty Pretty Things,2
+Andrew Scheinman,gender,Male,0
+Hans Christian Andersen,profession,Writer-GB,0
+Julie Delpy,nationality,France,0
+Dance-pop,artists,Nicole Scherzinger,0
+The Lord of the Rings: The Return of the King,film release region,Venezuela,0
+The Happening,featured film locations,New York City,1
+Tony Todd,film,Platoon,0
+Egg,nutrient,Sodium,3
+Royal Academy of Dramatic Art,student,Tony Scott,1
+Grammy Award for Best Solo Rock Vocal Performance,ceremony,49th Annual Grammy Awards,0
+Richard Curtis,nominated for,American Idol,0
+The NeverEnding Story,film release region,Norway,3
+Joel David Moore,film,Avatar,0
+Rules of Engagement,film crew role,Visual Effects,3
+Academy Award for Best Visual Effects,ceremony,31st Academy Awards,0
+Adrian Belew,group,King Crimson,0
+Mark Tinker,nominated for,Blue,3
+Capsicum,nutrient,Dietary fiber,1
+CeCe Winans,award nominee,Whitney Houston,0
+Usher,award,MTV Video Music Award for Best Choreography,0
+Mike Oldfield,performance role,String,3
+I Don't Know How She Does It,film release region,Belgium,0
+Columbia University,student,Paul Robeson,0
+Percussion,group,Muse,0
+PS,I Love You,film release region,0
+2 Fast 2 Furious,genre,Thriller,0
+St. John's University,student,Joseph R. Gannascoli,0
+Juris Doctor,institution,University of San Diego,0
+Ice-T,profession,Television producer-GB,0
+Neil Ross,film,Batman: The Animated Series,3
+The Hangover: Part II,featured film locations,Los Angeles,0
+IFC Films,film,Superbad,3
+39th Annual Grammy Awards,award,Paquito D'Rivera,2
+14th Screen Actors Guild Awards,award winner,Ruby Dee,0
+Who Framed Roger Rabbit,genre,Film adaptation,3
+Fender Precision Bass,instrumentalists,Brian Baumgartner,3
+War on Terrorism,combatants,Canada,0
+Johnny Depp,film,Blow,0
+Astro Boy,genre,Action Film,0
+Jack Black,film festivals,Dead Man Walking,2
+Dick Cheney,religion,Eastern Orthodox Church,3
+Will Arnett,influenced by,Steve Martin,0
+Sexy Beast,film release region,Luxembourg,3
+Steven Levitan,producer type,Animation Director,3
+Jermaine Dupri,award,Grammy Award for Best Rap Album,0
+Stanford University,student,Jennifer Garner,3
+Maverick Records,artist,Nicole Scherzinger,1
+Greco-Roman wrestling,country,Norway,0
+Philadelphia Phillies,season,2004 Major League Baseball season,0
+Get Carter,currency,United States Dollar,0
+Academy Award for Best Actress in a Supporting Role,nominated for,The Madness of King George,0
+Surveyor-GB,taxonomy,Library of Congress Classification,0
+18th Screen Actors Guild Awards,award,Mary Tyler Moore,2
+Submarine,film release region,Austria,0
+Little Nicky,celebrities impersonated,Raymond Burr,1
+Minnesota,season,2008 Major League Baseball season,1
+The Expendables 2,film release region,Iceland,0
+Tracy Morgan,profession,Author-GB,0
+The Invention of Lying,film release region,Belgium,1
+X-Men Origins: Wolverine,featured film locations,Newcastle,0
+67th Golden Globe Awards,award,Kevin Bacon,2
+Kandy,category,Official Website,0
+Oregon State University,citytown,Corvallis,0
+Lexington city,county,Staunton city,3
+Luxembourg,olympics,1988 Summer Olympics,1
+Garden State,genre,Romantic comedy,0
+Final Destination 5,film release region,Netherlands,0
+Operation Barbarossa,participating countries,Kingdom of Italy,2
+American International Group,list,Fortune 1000,0
+Experimental music,artists,Trent Reznor,1
+Wilmer Valderrama,gender,Male,0
+Jonah Hill,award,Academy Award for Best Actor in a Supporting Role,0
+Grammy Award for Best Traditional Gospel Album,ceremony,39th Annual Grammy Awards,3
+Canon,service location,Canada,0
+Sunshine,film crew role,Sound Mixer,0
+Charles Boyer,film,Royal Holloway,3
+Funk,artists,Amy Winehouse,0
+That '70s Show,parent genre,Comedy-GB,2
+Oklahoma City University,major field of study,Opera,0
+Harmonica,instrumentalists,Patti Smith,1
+Phil Collins,group,Genesis,0
+Richard Schiff,film,Christopher Columbus: The Discovery,3
+Cincinnati Reds,sport,Baseball,0
+The Edge of Night,genre,Soap opera,0
+George Harrison,gender,Male,1
+Northrop Grumman,list,Fortune 500,3
+Hillsborough County,source,United States Department of the Treasury,3
+Independent Spirit Award for Best Female Lead,nominated for,Rachel Getting Married,0
+Clive Barker,nationality,United Kingdom,0
+White American,people,Harvey Fierstein,3
+Richard Harris,award,Grammy Award for Best Male Pop Vocal Performance,0
+Marianne Faithfull,location,New York,0
+H. Jon Benjamin,produced by,Woody Allen,2
+Minister,jurisdiction of office,India,0
+George James Hopkins,place of birth,Pasadena,0
+Philippines,olympics,1996 Summer Olympics,0
+Search for Tomorrow,genre,Costume drama,1
+Savages,film release region,Russia,0
+University of California,Los Angeles,student,0
+Andy Ackerman,religion,Male,2
+Brazil,taxonomy,Library of Congress Classification,0
+Richard Feynman,peers,Niels Henrik David Bohr,0
+England,contains,Chelsea College of Art and Design,0
+2012,film release distribution medium,Romania,2
+Banjo,instrumentalists,Greg Graffin,1
+33rd Academy Awards,award winner,Billy Wilder,0
+Indiana Jones and the Kingdom of the Crystal Skull,award,Razzie Award for Worst Prequel,0
+Tomato,nutrient,Selenium,3
+Prometheus Hall of Fame Award,award,Robert Anton Wilson,2
+University of Denver,colors,Crimson,0
+Scary Movie,titles,Harry Potter and the Chamber of Secrets,1
+African American,person,Chris Rock,2
+39th Annual Grammy Awards,award winner,Kirk Franklin,0
+University of Utah,major field of study,Mechanical Engineering,0
+Golden Globe Award for Best Screenplay - Motion Picture,disciplines or subjects,Film,0
+Dan Green,type of union,Marriage,0
+Young Frankenstein,official language,German Language,2
+Hong Kong Film Award for Best Cinematography,nominated for,Election,0
+Hard rock,artists,Peter Frampton,1
+Clear Channel Communications,state province region,Texas,0
+Keith Allen,nationality,United Kingdom,0
+David Niven,film,Death on the Nile,0
+Jason Marsden,profession,Television producer-GB,0
+Denmark national football team,team,F.C. Copenhagen,2
+Tim Roth,type of union,Marriage,0
+Tunisia,form of government,Unitary state,0
+Don Johnson,nationality,United States of America,0
+Beverly D'Angelo,type of union,Marriage,0
+Super,film crew role,Set decorator-GB,0
+112th United States Congress,legislative sessions,4th United States Congress,1
+Warner Music Group,artist,Jorge Luis Borges,3
+Salzburg,month,April,1
+Matthew Bellamy,profession,Composer,0
+Wallace Shawn,nationality,United States of America,0
+Vassar College,major field of study,Government,1
+Garage rock,artists,Billie Joe Armstrong,0
+Academy Award for Best Actor,ceremony,14th Academy Awards,3
+Estudiantes de La Plata,athlete,Football,2
+East Carolina University,special performance type,Old gold,2
+Tonga,organization,Asian Development Bank,0
+Executive Office of the President of the United States,category,Interactive Advertising Bureau,3
+Belarus,administrative area type,Unitary state,3
+African American,people,Maya Angelou,0
+New Hampshire’s 1st congressional district,contains,Carroll County,0
+Dredd,film release region,Sweden,0
+Steel guitar,group,Asleep at the Wheel,0
+England,contains,Trinity Hall,0
+Grammy Award for Best Dance/Electronica Album,ceremony,48th Annual Grammy Awards,0
+James Monroe,nationality,United States of America,0
+Cholera,people,Georg Wilhelm Friedrich Hegel,0
+Michael Gough,film,Alice in Wonderland,0
+Pandro S. Berman,award,Academy Award for Best Picture,0
+Endhiran,film crew role,Visual Effects,0
+Marmaduke,film crew role,Visual Effects Art Director,0
+Chairman,company,PepsiCo,0
+Christopher Guest,role,Mandolin,0
+Leslie Nielsen,nationality,Denmark-GB,1
+Francis Ford Coppola,profession,Film Producer-GB,0
+Tim Curry,religion,Methodism,0
+X-Men: The Last Stand,adjustment currency,United States Dollar,2
+Kevin Kline,film,A Bug's Life,3
+Mary-Louise Parker,award nominee,Lily Tomlin,0
+Razzie Award for Worst Actor,nominated for,End of Days,0
+Queen Latifah,profession,Michael Fassbender,3
+James Buchanan,legislative sessions,27th United States Congress,0
+Rock music,music,Dio,2
+Primetime Emmy Award for Outstanding Lead Actor - Drama Series,award winner,Bill Wyman,3
+Anthony Burgess,company,British Army,0
+Appalachian State University,major field of study,Accountancy,0
+Roots reggae,parent genre,Reggae,0
+Film score,artists,Elliot Goldenthal,0
+Herbert Stothart,profession,Businessperson-GB,1
+Edward Kitsis,award winner,Leonard Dick,0
+Bachelor's degree,institution,Stanford University,0
+John DeCuir,profession,Bandleader,1
+Eddie Murphy,location of ceremony,New York City,0
+42nd Annual Grammy Awards,award winner,Dolly Parton,0
+Nancy Cartwright,location,Dayton,0
+Geraldine Chaplin,nationality,Republic of Ireland,1
+Grammy Award for Best New Artist,location of ceremony,43rd Annual Grammy Awards,2
+Larry Gelbart,profession,Playwright-GB,0
+Frank Miller,location,Los Angeles,0
+Merck & Co.,service language,English Language,0
+Frank Gehry,film,The Transformers: The Movie,1
+United Artists Records,film,You Only Live Twice,1
+Montana,religion,Seventh-day Adventist Church,0
+General counsel,company,Verizon Communications,0
+Writers Guild of America Award for Best Original Screenplay,nominated for,Black Swan,0
+City of London,country,United Kingdom,0
+Knight and Day,film release region,Belarus,0
+The Best Exotic Marigold Hotel,film release region,Belgium,0
+General Motors,place founded,Flint,0
+Glee: The 3D Concert Movie,person,Lea Michele,0
+Kristen Bell,location,New York City,0
+The Quiet American,executive produced by,Sydney,3
+The Red Violin,film release region,Netherlands,0
+Scrooged,person,John Houseman,0
+Dallas Cowboys,colors,Navy Blue,0
+Bill Murray,profession,Comedian,0
+Duquesne University,colors,Red,0
+Marriage,location of ceremony,Parma,0
+San Bernardino County,currency,United States Dollar,0
+Keyboard,instrumentalists,Elvis Costello,0
+Richard Dreyfuss,profession,Film Producer-GB,0
+Broadcast Film Critics Association Award for Best Actor,award winner,Jeff Bridges,0
+Margin Call,film release region,Malaysia,3
+Progressive house,artists,David Guetta,0
+Claire Bloom,film,Daylight,0
+Golden Globe Award for Best Director - Motion Picture,award winner,Francis Ford Coppola,1
+Rhino Entertainment,actor,Chicago,2
+Pineapple Express,genre,Crime Fiction,0
+Maria Bello,profession,Screenwriter,1
+John Ritter,profession,Character Actor,3
+Larenz Tate,profession,Film Producer-GB,0
+Peter Casey,profession,Television producer-GB,0
+John Hurt,gender,Male,1
+Parkersburg,seasonal months,Eastern Time Zone,2
+Tak Fujimoto,award,Satellite Award for Best Cinematography,0
+BAFTA Award for Best Direction,nominated for,Platoon,0
+Catherine O'Hara,film,Chicken Little,0
+My Left Foot,film release region,United States of America,0
+Bugs Bunny,film,Looney Tunes: Back in Action,0
+Hellboy,parent genre,Adventure Film,2
+Grown Ups,film release region,Belgium,0
+Graham Greene,award,Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture,0
+Percussion,group,Sepultura,0
+Rocky,award,Academy Award for  Best Animated Feature Film,3
+Racewalking,country,Republic of Ireland,0
+Norway,olympics,1964 Winter Olympics,0
+Dance music,artists,A. R. Rahman,0
+Mel Brooks,profession,Storyboard Artist,3
+Corinne Bailey Rae,origin,Great Yarmouth,3
+The Practice,country of origin,Confederate States of America,3
+Jessye Norman,performance role,Soprano,0
+De-Lovely,contact category,Official Website,2
+The Expendables 2,film release region,Brazil,0
+Steuben County,seasonal months,Eastern Time Zone,2
+Pleasantville,film crew role,Special Effects,0
+Animaniacs,film crew role,Frank Welker,2
+Paranormal Activity,executive produced by,Mario Kassar,1
+House music,artists,The Chemical Brothers,0
+Golden Globe Award for Best Director - Motion Picture,nominated for,The Silence of the Lambs,3
+Clint Eastwood,profession,Actor-GB,1
+Appalachian State University,school type,Public university,0
+BAFTA Award for Best Direction,honored for,Once Upon a Time in America,2
+Sudan,organization,United Nations,0
+Mao's Last Dancer,film release region,Canada,0
+Walter Becker,profession,Musician-GB,0
+Roger Birnbaum,nationality,United States of America,1
+Saw,film release distribution medium,DVD,2
+Cynthia Nixon,organizations founded,NASA,1
+Robin Gibb,diet,Veganism,0
+Michel Foucault,educational institution,France,2
+The Rum Diary,language,Spanish Language,0
+Master of Fine Arts,institution,University of Washington,0
+Back to the Future,featured film locations,Hamilton,1
+Cobra,honored for,How Green Was My Valley,3
+Primetime Emmy Award for Outstanding Lead Actor - Miniseries or a Movie,nominated for,Hallmark Hall of Fame,0
+College of William and Mary,category,Official Website,0
+Marriage,location of ceremony,Erie County,3
+Diarrhea,specialization of,Hepatitis,2
+Dilwale Dulhania Le Jayenge,film release region,Taiwan,3
+Renny Harlin,profession,Television producer-GB,3
+Moonrise Kingdom,music,Richard Benjamin,3
+United States of America,contains,Curtis Institute of Music,0
+Tom Rosenberg,profession,Film Producer-GB,0
+Danville,source,United States Department of Housing and Urban Development,0
+Country,artists,Chris Thile,0
+John Conyers,legislative sessions,89th United States Congress,0
+John Quincy Adams,geographic distribution,Library of Congress Classification,2
+Salt,film crew role,Art Director,0
+1980 Winter Olympics,participating countries,Soviet Union,0
+Middle East,contains,United Arab Emirates,0
+National School of Drama,student,Himani Shivpuri,0
+Hannibal,language,Italian Language,0
+Demolition Man,featured film locations,Los Angeles Lakers,3
+Chiwetel Ejiofor,award nominee,Colin Firth,0
+Stroke,people,Robert Bolt,0
+Johnny Yong Bosch,nationality,Confederate States of America,3
+Photography,student,Maya Rudolph,0
+Red,genre,Science Fiction,1
+66th Academy Awards,award winner,Nick Park,0
+Saint Mary's College of California,registering agency,Internal Revenue Service,0
+Thank You for Smoking,language,English Language,0
+Margaret Atwood,influenced by,Doris Lessing,0
+112th United States Congress,district represented,Washington,0
+The Vow,music,Rachel Portman,0
+Writers Guild of America Awards 2006,award,Lee Eisenberg,2
+Brighton Rock,industry,Film,1
+Gloria Stuart,award,Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture,0
+James Blunt,award,Grammy Award for Song of the Year,0
+United States of America,contains,Uxbridge,0
+Family Guy,genre,Animated cartoon,0
+45th Annual Grammy Awards,award winner,Missy Elliott,0
+Bachelor's degree,major field of study,Sociology,0
+Loretta Lynn,location,Washington,0
+North,genre,Drama,0
+Biathlon,country,Lithuania,0
+Grammy Award for Best Historical Album,ceremony,39th Annual Grammy Awards,3
+State College,time zones,Eastern Time Zone,0
+Yanni,profession,Composer,0
+How Green Was My Valley,genre,Western,0
+Jack Nicholson,award,Razzie Award for Worst Actress,3
+Portugal national football team,current club,Millwall F.C.,3
+The Holiday,contact category,Official Website,2
+Helen Mirren,film,Legend of the Guardians: The Owls of Ga'Hoole,0
+Egg,nutrient,Pantothenic acid,0
+FilmFlex,film festivals,Jurassic Park,2
+11th Satellite Awards,award winner,Leonardo DiCaprio,0
+Academy Award for Best Sound Mixing,nominated for,Seabiscuit,0
+Michael Biehn,gender,Male,0
+Danny Elfman,contact category,Official Website,2
+James Madison,organizations founded,Democracy,3
+Academy Award for Best Sound Mixing,ceremony,66th Academy Awards,0
+Cello,role,Backing vocalist-GB,0
+Philipps University of Marburg,category,Official Website,0
+John Larroquette,film,Twilight Zone: The Movie,0
+Guitar,instrumentalists,Billy Idol,0
+44th Annual Grammy Awards,award winner,CeCe Winans,0
+Marvin Hamlisch,award,Razzie Award for Worst Original Song,0
+Robert Stack,profession,Cinematographer-GB,3
+Atlanta,category,Official Website,0
+Gene Simmons,languages,German Language,0
+Punch-Drunk Love,film release region,Japan,0
+Jules White,profession,Screenwriter,0
+Robert Forster,award nominee,Matthew Lillard,0
+BAFTA Award for Best Actress in a Leading Role,nominated for,Moonstruck,1
+William Shatner,location,Montreal,0
+Brazil,film release distribution medium,Mexico,2
+Grease,film release region,Philippines,0
+Steve Hackett,profession,Songwriter-GB,0
+Oscar Wilde,influenced by,Edgar Allan Poe,0
+EMI,artist,Pink Floyd,0
+American Pie,film release distribution medium,Hungary,2
+Roxbury,time zones,Eastern Time Zone,0
+Pam Grier,award,Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Leading Role,0
+Universal Studios,film,The Prince of Egypt,0
+Eritrea,organization,African,0
+Jimmy Carter,type of appearance,Marriage,2
+Chairman,jurisdiction of office,Czech Republic,1
+Franklin,profession,Inventor-GB,1
+BAFTA Award for Best Special Visual Effects,nominated for,Spider-Man,0
+37th Academy Awards,honored for,My Fair Lady,0
+Percussion,group,Jethro Tull,3
+Tomato,diet,Riboflavin,2
+R. Madhavan,languages,Hindi Language,0
+Pork,diet,Ash,2
+Rob Reiner,award,Golden Globe Award for Best Director - Motion Picture,0
+Ted,film release region,Finland,0
+Boston College,major field of study,Geography,3
+Iron Man,film release region,Switzerland,0
+Adam McKay,origin,London,1
+Bachelor of Arts,institution,Monash University,0
+Federico Fellini,service location,Emilia-Romagna,2
+Waylon Jennings,profession,Singer-songwriter-GB,0
+Herbert Hoover,basic title,President,0
+Dido,role,Drum,0
+Abdominal pain,symptom of,Typhoid fever,0
+Stanford University,major field of study,Economics,0
+58th Primetime Emmy Awards,award winner,Kelsey Grammer,0
+The Full Monty,film crew role,Special Effects,0
+Malcolm in the Middle,languages,English Language,1
+Merck & Co.,state province region,New Jersey,0
+Underbelly,category,Official Website,0
+Mrs Henderson Presents,executive produced by,David M. Thompson,0
+BFCA Critics' Choice Award for Best Composer,nominated for,Midnight in Paris,1
+Venezuela,medal,Gold medal,0
+Taken,film release region,Singapore,0
+Muncie,category,Interactive Advertising Bureau,3
+Viacom,citytown,Montreal,3
+Spike Lee,nationality,United States of America,0
+Joe Walsh,location,Montclair,0
+Freddie Francis,location,Greater London,3
+Woody Harrelson,film,Anger Management,0
+Jennifer Morrison,gender,Female,0
+Post-punk,artists,The Offspring,1
+Hayao Miyazaki,educational institution,Film Producer-GB,2
+Senna,film release region,Ireland,0
+Grease,category,Interactive Advertising Bureau,3
+Cape Fear,executive produced by,Frank Marshall,0
+Bloomington,contact category,Official Website,2
+Columbia University,major field of study,Engineering-GB,0
+Michelle Dockery,award,MTV Video Music Award for Best Female Video,1
+Hank Azaria,film,The Simpsons Movie,0
+England,contains,Brunel University,0
+Clarinet,performance role,Acoustic guitar,2
+Sex and the City 2,prequel,Sex and the City,0
+The Dukes of Hazzard,film crew role,Stunt performer-GB,0
+Nick Park,profession,Film Producer-GB,0
+The Three Musketeers,currency,United States Dollar,1
+Geffen Records,artist,Don Henley,0
+Bachelor of Arts,institution,University of Chicago,0
+Don't Say a Word,production companies,The Rocky Horror Picture Show,3
+New jack swing,parent genre,Soul music,0
+House of Flying Daggers,film release region,Poland,0
+Naseeruddin Shah,religion,Yusuf Islam,3
+National Board of Review Award for Best Director,award winner,Martin Scorsese,0
+World War I,films,Augustine of Hippo,3
+Academy Award for Best Foreign Language Film,nominated for,The White Ribbon,0
+Sub Pop,artist,Jemaine Clement,0
+Chicken Little,prequel,Meet the Fockers,1
+Superman III,genre,Thriller,1
+Nicole Sullivan,gender,Male,3
+Paul Guilfoyle,location,Boston Bruins,3
+Good Will Hunting,film crew role,Makeup Artist-GB,0
+Notting Hill,film format,Super 35,0
+Rock music,artists,Bob Dylan,0
+Will.i.am,profession,Writer-GB,1
+The Mummy - Tomb of the Dragon Emperor,language,Mandarin Chinese,0
+Nick Broomfield,type of appearance,Marriage,2
+Washington State University,major field of study,Businessperson-GB,3
+French First Republic,form of government,Republic,0
+Indiana Jones and the Last Crusade,language,Persian Language,3
+The Parent Trap,genre,Drama,0
+Rock music,artists,Yoko Ono,0
+Bachelor of Arts,institution,Wellesley College,3
+Amour,film release distribution medium,Serbia,2
+Stephen Goosson,place of birth,Grand Rapids,0
+The Good,the Bad,the Weird,0
+Sven Nykvist,award,Nebula Award for Best Novella,1
+Satellite Award for Best Adapted Screenplay,nominated for,Little Children,0
+BAFTA Award for Best Makeup & Hair,nominated for,McDonald's,3
+Relativity Records,artist,Common,0
+Anna Paquin,award,Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series,0
+Mongolia,olympics,1976 Summer Olympics,0
+The Exorcist,language,French Language,0
+The Queen's College,genre,Drama,1
+Loudon Wainwright III,languages,English Literature,3
+Norman Foster,religion,Male,2
+Michael Moorcock,profession,Film Producer-GB,1
+President,educational institution,University of Oklahoma,2
+Grammy Award for Best Rap Performance by a Duo or Group,award,Eminem,2
+2001 NCAA Men's Division I Basketball Tournament,team,Indiana Hoosiers men's basketball,1
+King Kong,genre,Action Film,0
+The Departed,award nominee,National Board of Review Award for Best Director,2
+Big Miracle,genre,Drama,0
+FC Dynamo Moscow,category,Official Website,1
+Yakima,state,Washington,0
+Brandeis University,citytown,Waltham,0
+Hallmark Hall of Fame,inductee,Barbara Walters,1
+New York University,student,Robert Anton Wilson,0
+Gong,origin,France,0
+MSNBC,place founded,New Jersey,0
+The Song of Bernadette,film release region,Lombardy,3
+London Records,artist,The Rolling Stones,0
+Conrad L. Hall,gender,Male,0
+Chief Operating Officer,company,McDonald's,3
+Don Knotts,nationality,United States of America,0
+Kenny Loggins,award,Golden Globe Award for Best Original Song,0
+Primetime Emmy Award for Outstanding Guest Actress - Drama Series,nominated for,NYPD Blue,1
+Comedy-GB,titles,Bob Roberts,0
+Suffolk County,adjoins,Baltimore County,1
+Drake,award,MTV Video Music Award for Best Choreography,3
+Rick James,profession,Bandleader,0
+Water for Elephants,language,English Language,0
+MTV Movie Award for Best Villain,nominated for,The Texas Chainsaw Massacre,0
+Power Rangers,genre,Comedy-drama,1
+William Friedkin,nationality,United States of America,0
+South Dakota,religion,Lutheranism,0
+Stephen Rea,type of union,Marriage,0
+Quincy Jones,award,Grammy Award for Best R&B Song,0
+Zack and Miri Make a Porno,film release region,Czech Republic,0
+Clea DuVall,religion,Female,2
+Seattle University,student,Duff McKagan,0
+Jewish people,person,Steve Guttenberg,2
+38th People's Choice Awards,honored for,Water for Elephants,0
+Guildhall School of Music and Drama,student,Dominic West,0
+Djembe,instrumentalists,Curtis Mayfield,1
+United States of America,contains,Duquesne University,0
+Con Air,film crew role,Visual Effects Supervisor,0
+Oceania,contains,Nauru,0
+Milla Jovovich,nominated for,Resident Evil: Retribution,0
+Counting Crows,award,MTV Video Music Award for Best Group Video,0
+Ben Folds,profession,Composer,0
+Julie Delpy,profession,Michael Fassbender,3
+Leonard Nimoy,award nominee,Primetime Emmy Award for Outstanding Supporting Actor - Comedy Series,2
+Weimar Republic,official language,German Language,0
+Boston Red Sox,season,2007 Major League Baseball season,3
+Lost,genre,Drama,0
+Mike Oldfield,role,Vibraphone,0
+Into the Wild,film crew role,Technical Director,1
+Organ,group,Nick Cave and the Bad Seeds,0
+Dominica,administrative parent,Earth,0
+Kathie Lee Gifford,category,Official Website,0
+South Africa,film festivals,District 9,2
+The World Is Not Enough,story by,Ian Fleming,0
+Harvard College,school,Michael Crichton,2
+St. Louis Cardinals,draft,2002 Major League Baseball Draft,3
+Quiet storm,genre,Contemporary R&B,2
+Academy Award for Best Cinematography,ceremony,65th Academy Awards,0
+American Pie,film release region,Brazil,0
+Rock and Roll Hall of Fame,inductee,Elvis Presley,0
+Ohio,contains,Appalachian Mountains,2
+Bright Star,film crew role,Special Effects Supervisor,0
+Pop music,artists,Jon Brion,0
+Pacific Ocean,contains,Guam,0
+Nas,award,Grammy Award for Best Rap Album,0
+President,organization,Ontario College of Art & Design,0
+Ontario,contains,Halifax,1
+Yale University,student,Jennifer Connelly,0
+Dances with Wolves,genre,Western,3
+Chris Carter,award nominee,Primetime Emmy Award for Outstanding Drama Series,2
+Broadcast Film Critics Association Award for Best Supporting Actress,nominated for,The Kids Are All Right,1
+Techno,music,The Prodigy,2
+Cincinnati Bengals,draft,2005 NFL Draft,0
+New Wave,artists,Simple Minds,0
+Vibraphone,role,Baritone,0
+The Last King of Scotland,genre,Thriller,0
+Ronald D. Moore,profession,Actor-GB,0
+Underbelly,country of origin,Western Australia,3
+Hamilton College,school type,Mixed-sex education,0
+The Three Musketeers,film release region,Sweden,3
+For Your Consideration,language,Italian Language,1
+Geffen Records,artist,The Roots,0
+Satellite Award for Best Costume Design,honored for,Hamlet,2
+Jonas Brothers World Tour 2009,service location,Europe,2
+Chunichi Dragons,athlete,Baseball,2
+Academy Award for Best Writing Adapted Screenplay,nominated for,Zoe Saldana,3
+The Savages,genre,Political drama,0
+William T. Orr,place of death,Los Angeles,0
+Michael Caine,award,Razzie Award for Worst Actor,0
+Pixar,artist,Randy Newman,0
+Bruce Cohen,location of ceremony,Los Angeles Lakers,3
+Kris Kristofferson,location,Nashville,0
+The Smurfs,film release region,Germany,0
+European American,languages spoken,American English,0
+Ronnie Wood,profession,Actor-GB,0
+Ian Somerhalder,influenced by,Larry Niven,1
+Jeremy Clarkson,award,Chicago Film Critics Association Award for Best Actor,1
+Kenyon College,student,Paul Newman,0
+Kings of Leon,origin,Tennessee Williams,3
+The Sessions,film crew role,Sound Mixer,0
+Evanston,category,Official Website,1
+Austrians,languages spoken,German Language,1
+Iron Man 3,film release region,Denmark-GB,0
+Charles Stross,produced by,H. P. Lovecraft,2
+Oscar Wilde,influenced by,Dante Alighieri,0
+Bachelor of Arts,institution,National Taiwan University,3
+David Alan Grier,educational institution,Television producer-GB,2
+Bachelor of Arts,institution,California State Polytechnic University,0
+Master's Degree,educational institution,Saint Louis University,2
+Judy Davis,place of birth,Perth,0
+The People vs. Larry Flynt,featured film locations,Washington,0
+Trombone,instrumentalists,Andrea Bocelli,1
+TriStar Pictures,industry,Film,0
+Road Trip,award,London Film Critics Circle Award for Actress of the Year,1
+The Lorax,film release region,United States of America,0
+Programming,role,Banjo,0
+Steve Winwood,award nominee,Grammy Award for Best Rock Album,2
+Matthew Lillard,place of birth,Lansing,0
+Amy Robach,profession,Television producer-GB,1
+1985 NCAA Men's Division I Basketball Tournament,team,Purdue Boilermakers men's basketball,0
+Shame,film release distribution medium,United States of America,2
+Keith David,film,All About Steve,0
+Kevin Dunn,film,Chaplin,0
+BAFTA Award for Best Actress in a Leading Role,nominated for,Shakespeare in Love,0
+Sonoma County,currency,United States Dollar,0
+Broadcast Film Critics Association Award for Best Supporting Actress,nominated for,The Artist,0
+Pulitzer Prize for Fiction,award winner,Toni Morrison,0
+Connie Willis,nationality,United States of America,0
+Grammy Award for Best Rap Song,ceremony,39th Annual Grammy Awards,3
+Saturn Award for Best Costume,nominated for,Demolition Man,0
+Paul Dooley,award nominee,Christopher Whitesell,3
+Warren County,currency,United States Dollar,1
+Philip Glass,category,Interactive Advertising Bureau,3
+Billy Idol,award,Grammy Award for Best Female Rock Vocal Performance,3
+Harry Potter and the Goblet of Fire,film crew role,Visual Effects Supervisor,0
+Pop music,music,Hal David,2
+University of Sheffield,category,Interactive Advertising Bureau,3
+Detective Dee: Mystery of the Phantom Flame,film release region,United Kingdom,0
+Rock music,artists,Horn,3
+Columbia,artist,Carly Simon,0
+Sean Astin,film,Bulworth,0
+New York Film Critics Circle Award for Best Actor,award winner,Steve Martin,0
+Detective Dee: Mystery of the Phantom Flame,genre,Crime,0
+Masako Nozawa,film festivals,Dragon Ball: Mystical Adventure,2
+Eugene Levy,film,Splash,0
+The Young Victoria,genre,Docudrama,0
+Charlie Daniels,profession,Lyricist,0
+Fran Drescher,profession,Actor-GB,0
+Amour,film release region,United States of America,0
+Peng Dehuai,gender,Male,0
+Ethan Coen,award,BFCA Critics' Choice Award for Best Composer,3
+Internship,company,NBC,0
+Anthony Horowitz,influenced by,H. G. Wells,3
+Sunset Boulevard,film release region,Argentina,0
+Spike,program,WWE Superstars,0
+World War II,combatants,Kingdom of Italy,0
+Marlee Matlin,nationality,Judaism-GB,2
+Technical Director,specialization of,Businessperson-GB,1
+RuPaul,nationality,United States of America,0
+Craig Armstrong,role,Electronic keyboard,0
+Lesotho,medal,Silver medal,1
+Cormac McCarthy,award,Locus Award for Best Science Fiction Novel,0
+Sicko,official language,French Language,2
+Life Insurance Corporation of India,location,Bhopal,2
+Dirty Dancing,film release region,Finland,0
+BAFTA Award for Best Sound,nominated for,A Room with a View,0
+56th Academy Awards,award winner,Samuel L. Jackson,3
+AT&T,list,Fortune Global 500,0
+Allen Covert,award nominee,Razzie Award for Worst Picture,2
+Eileen Brennan,nationality,United States of America,1
+The Wolfman,genre,Drama,0
+Donnie Yen,award,Grammy Award for Record of the Year,1
+River Phoenix,sibling,Phoenix,3
+92nd United States Congress,legislative sessions,106th United States Congress,0
+Coach Carter,specialization of,Management,1
+Joplin,geographic distribution,United States Department of Housing and Urban Development,2
+Headache,symptom of,Cardiovascular disease,0
+Quentin Tarantino,profession,Cinematographer-GB,0
+Bucharest,location,Los Angeles,1
+Moonraker,film release region,United States of America,0
+Life of Pi,film release region,Serbia,0
+Chris Pine,film,Unstoppable,0
+Leonard Cohen,performance role,Acoustic guitar,2
+2003 Major League Baseball Draft,school,University of Richmond,0
+Girish Karnad,profession,Film Director,0
+Alternative dance,artists,Panic! at the Disco,0
+Robert Duvall,award,Broadcast Film Critics Association Award for Best Actor,0
+The New World,currency,United States Dollar,0
+Swept Away,language,Italian Language,0
+Chancellor,educational institution,University of Wales,2
+Benny Andersson,educational institution,Songwriter-GB,2
+High Point,time zones,Eastern Time Zone,0
+Academy Award for Best Visual Effects,ceremony,62nd Academy Awards,0
+Crouching Tiger,Hidden Dragon,film release region,0
+The Lord of the Rings: The Return of the King,genre,Digimon Adventure,3
+Lynyrd Skynyrd,contact category,Official Website,2
+Funk,artists,Ray Manzarek,0
+Kill Bill Volume 2,produced by,Lawrence Bender,0
+Angela's Ashes,film release region,Turkey,0
+Brokeback Mountain,genre,Western,0
+Cameo appearance,film,Austin Powers: Goldmember,0
+Ang Lee,award,Independent Spirit Award for Best Screenplay,0
+Sam Mendes,award,Academy Award for Best Director,0
+Jude Ciccolella,film,World Trade Center,0
+Cannes Best Actor Award,award winner,Dean Stockwell,0
+Ironclad,film release region,Portugal,0
+Immanuel Kant,participating countries,Logic,2
+Vanderbilt University,school type,Private university,0
+National Football League,team,San Diego Chargers,0
+Pan's Labyrinth,film,Special Effects,2
+PS,I Love You,film release region,0
+Thomas Aquinas,produced by,Aristotle,2
+MSV Duisburg,language,English Language,1
+Away from Her,country,Ontario,3
+20th Century Fox,award nominee,DreamWorks,0
+Contiguous United States,contains,Queen Mary,1
+Massachusetts,adjoins,Connecticut,0
+Michael Ballhaus,educational institution,Germany,2
+Assassination,people,Benito Mussolini,0
+President,organization,University of Texas at Arlington,0
+John Barrowman,place of death,New York City,1
+Progressive rock,music,Jeff Lynne,2
+Nicki Minaj,award nominee,Kuk Harrell,0
+El Salvador,source,United States Department of Housing and Urban Development,1
+Bachelor of Arts,institution,University of Miami,0
+New Year's Eve,film release region,Armenia,0
+Drums,instrumentalists,Marvin Hamlisch,3
+Pocahontas,currency,United States Dollar,0
+Tom Jones,genre,Romance Film,0
+Herman Melville,influenced by,Edgar Allan Poe,0
+127 Hours,genre,Thriller,0
+Joe Berlinger,type of appearance,Interview,0
+Akira Kurosawa,location,Tokyo,0
+Philip Yordan,award,Academy Award for Best Writing Adapted Screenplay,0
+Prometheus,edited by,Pietro Scalia,0
+Dragon Ball Z: Lord Slug,language,Japanese Language,0
+Michael Clarke Duncan,film,Talladega Nights: The Ballad of Ricky Bobby,0
+Robin Wright,award,Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Miniseries or Television Movie,0
+Drake,award,Grammy Award for Album of the Year,0
+Paul,country,French Polynesia,3
+High Point,geographic distribution,United States Department of Housing and Urban Development,2
+New Zealand,specialization of,Unitary state,2
+Yann Tiersen,role,Viola,0
+Denver Broncos,draft,2004 NFL Draft,0
+Terminator Salvation,film release region,Spain,0
+Kamal Haasan,category,Interactive Advertising Bureau,3
+Julie Christie,nationality,United Kingdom,0
+Requiem for a Dream,film release region,Norway,0
+Fresno,category,Official Website,0
+Takahiro Sakurai,gender,Female,3
+Lupe Fiasco,award,MTV Video Music Award for Best Hip-Hop Video,0
+Croatian language,countries spoken in,Austria,0
+Pop music,artists,Counting Crows,0
+Funny People,language,English Language,0
+The Good,executive produced by,Ryan Kavanaugh,1
+Starsky & Hutch,film crew role,Visual Effects,1
+James Ingram,award nominee,Barry White,0
+Swimming,country,Comoros,0
+Albert Ludwigs University of Freiburg,major field of study,Political Science,1
+Carrie-Anne Moss,film,Chocolat,0
+Electronic rock,parent genre,Rock music,0
+The Dark Knight,film release region,New Zealand,0
+79th Academy Awards,award winner,Alan Bennett,3
+Laura Linney,film,Mystic River,0
+Craig Thomas,special performance type,Executive Producer,2
+Robert Byrd,legislative sessions,105th United States Congress,0
+Aya Hisakawa,film,Sailor Moon Super S: The Movie,0
+Nick Park,producer type,Executive Producer,0
+Anaheim,school,University of California,1
+Myocardial infarction,people,Richard Pryor,0
+England,contains,Magdalene College,0
+Speed skating,country,United States of America,0
+Guitar,group,The Motorcycle Diaries,3
+Academy Award for Best Director,nominated for,Pulp Fiction,0
+King County,adjoins,Linn County,3
+University of Calcutta,student,Leander Paes,0
+Pulitzer Prize for Drama,award winner,Eugene O'Neill,0
+James Burrows,profession,Television producer-GB,0
+Chandigarh,month,January,1
+Zürich,month,October,0
+Soft rock,artists,Paul Williams,0
+Tony Todd,nationality,United States of America,0
+85th Academy Awards,honored for,Monty Python,3
+Cycling,medal,1992 Summer Olympics,2
+Oklahoma City,teams,Sporting Kansas City,1
+M. C. Gainey,influenced by,William Blake,1
+Cameo appearance,film,Deuce Bigalow: European Gigolo,0
+William McKinley,place of birth,New Haven,1
+TV Asahi,award,Tony Award for Best Musical,0
+Skyfall,film release distribution medium,VHS,3
+This Is England,film crew role,Sound Editor-GB,1
+113th United States Congress,state province region,Iowa,2
+New York,month,April,1
+Marriage,location of ceremony,Greenwich,0
+Ninotchka,film release region,Hong Kong,1
+The Good,the Bad,the Weird,0
+Mars Attacks!,genre,Fantasy,0
+Raza Murad,gender,Female,3
+Bachelor of Fine Arts,institution,Michigan State University,1
+Adam Ant,role,Percussion,0
+Fiorello H. LaGuardia High School,student,Lesley Ann Warren,0
+Academy Award for Best Writing Adapted Screenplay,ceremony,58th Academy Awards,0
+Grammy Award for Best Pop Instrumental Performance,location of ceremony,51st Annual Grammy Awards-US,2
+Pamela Fryman,nominated for,Thank You for Smoking,3
+Princeton University,major field of study,Computer Science,0
+Rap rock,artists,Nicole Scherzinger,1
+Nathaniel Hawthorne,nationality,United States of America,0
+Sunshine,language,French Language,0
+Karl Popper,place of birth,Chicago,1
+Master of Philosophy,major field of study,Sociology,0
+Anne Heche,profession,Actor-GB,0
+Bad Education,film release region,Hungary,1
+Bruce Dern,film festivals,The Haunting,2
+Lead vocalist-GB,group,The Beatles,0
+Jamaica,partially contains,St. John's University,2
+Master's Degree,institution,National Taiwan University,3
+ParaNorman,film release region,United Kingdom,0
+Orlando,time zones,Eastern Time Zone,0
+Harvard Business School,student,Michael Crichton,1
+Bachelor's degree,institution,University of Missouri–Columbia,0
+Elton John,type of union,The Gay Divorcee,3
+Pneumonia,people,Dana Andrews,0
+Cyprus,organization,United Nations,0
+2008 NCAA Men's Division I Basketball Tournament,instance of recurring event,Kansas Jayhawks Men's Basketball,3
+Ed Wood,parent genre,Black comedy,2
+Comedy-GB,titles,The Proposal,0
+Rhythm and blues,artists,Fergie,0
+52nd Annual Grammy Awards-US,award winner,Stephen Colbert,0
+Mary Steenburgen,gender,Female,0
+The Flintstones in Viva Rock Vegas,currency,United States Dollar,0
+Prime minister-GB,jurisdiction of office,Botswana,3
+Another Year,film festivals,2010 Toronto International Film Festival,0
+Television,titles,The Walking Dead,0
+Acoustic music,artists,ZZ Top,1
+How to Train Your Dragon,film release region,Poland,0
+Virginia,contains,Virginia Beach,0
+Roger Federer,type of union,Marriage,0
+Jerry Orbach,film,Beauty and the Beast,0
+Drums,group,Dire Straits,0
+Max Fleischer,profession,Actor-GB,0
+University of Western Ontario,major field of study,English Literature,0
+Leonardo DiCaprio,award nominee,Samuel L. Jackson,0
+Sergei Prokofiev,profession,Composer,0
+Don Henley,award,Independent Spirit Award for Best Supporting Male,1
+Shelley Winters,award,Primetime Emmy Award for Outstanding Lead Actress - Miniseries or a Movie,0
+Leonard Cohen: I'm Your Man,genre,Biography,0
+American Gangster,film crew role,Art Director,0
+Romeo + Juliet,genre,Romance Film,0
+19th United States Congress,district represented,Arkansas,3
+Firearm,award,European Film Award for Best Composer,1
+Hip hop music,artists,Jada Pinkett Smith,3
+Vanderbilt University,major field of study,Chemical Engineering,3
+Gordon Douglas,profession,Film Director,0
+Philip Seymour Hoffman,nominated for,Almost Famous,0
+Queens College,City University of New York,student,0
+Children of Men,language,Spanish Language,0
+Roscoe Arbuckle,profession,Michael Fassbender,3
+Robert Bolt,award,Primetime Emmy Award for Outstanding Writing - Miniseries,0
+George Lucas,produced by,Joseph Campbell,2
+Alan Hale,Sr.,place of death,3
+Rishi Kapoor,educational institution,Film Producer-GB,2
+Alan Rickman,film,Harry Potter and the Half-Blood Prince,0
+Judo,country,Seychelles,1
+Idaho,religion,Methodism,0
+Sacha Baron Cohen,location,Hammersmith,0
+Romeo + Juliet,genre,Crime Fiction,0
+Vondie Curtis-Hall,type of union,Marriage,0
+Emily Mortimer,language,English Language,0
+Clube de Regatas Vasco da Gama,profession,Musician-GB,1
+Adam McKay,profession,Author-GB,1
+News Corporation,sibling,New World Pictures,2
+David Lindley,role,Bouzouki,3
+Jamie Foxx,profession,Comedian,0
+13th Screen Actors Guild Awards,award winner,Greg Kinnear,0
+Jake Gyllenhaal,film,City Slickers,0
+B.B. King,profession,Actor-GB,0
+Greek American,people,John Ortiz,3
+The Ghost and the Darkness,film crew role,Makeup Artist-GB,1
+Comedy-GB,basic title,Jackass Number Two,2
+Minnie Driver,language,English Language,0
+The Phantom,music,David Newman,0
+Sarah Lawrence College,student,Barbara Walters,0
+Django Unchained,film release distribution medium,Hungary,2
+The Treasure of the Sierra Madre,genre,Western,0
+Cabaret,student,Loretta Devine,1
+West Virginia Mountaineers football,category,Official Website,0
+The Matrix Reloaded,genre,Science Fiction,0
+Experimental rock,artists,John Zorn,0
+Lee Strasberg Theatre and Film Institute,student,Lois Smith,0
+Newport Beach,time zones,Greenwich Mean Time Zone,1
+American History X,executive produced by,Steve Tisch,0
+Chuck Jones,profession,Animator-GB,0
+8th United States Congress,district represented,Massachusetts,0
+Submarine,film release region,Turkey,1
+Kiss Kiss Bang Bang,film crew role,Special Effects,0
+Pittsburgh,teams,Pittsburgh Panthers men's basketball,0
+United States of America,second level divisions,Riverside County,3
+K. Balachander,profession,Playwright-GB,0
+Doctorate,major field of study,Public administration,3
+Canada,administrative parent,Earth,0
+New Hampshire,contains,Merrimack County,0
+Mary Tyler Moore,award,BAFTA Award for Best Actress in a Leading Role,0
+Walt Disney Studios Motion Pictures,film,The Aviator,0
+The Ghost Writer,genre,Mystery,0
+Bleach: The DiamondDust Rebellion,country,Japan,0
+Mila Kunis,gender,Female,0
+Rhythm and blues,artists,Shirley Knight,3
+The Killer Inside Me,film crew role,Musician-GB,3
+Mississippi State University,state province region,Alabama,1
+Missing,award,Palme d'Or,0
+Amy Adams,award,MTV Movie Award for Best Fight,0
+Arlington,geographic distribution,United States Department of Housing and Urban Development,2
+John Williams,award,Alan Bergman,2
+Madagascar,genre,Comedy-GB,0
+Jayma Mays,profession,Screenwriter,1
+Men in Black II,country,Confederate States of America,3
+Portuguese Language,countries spoken in,China,0
+Star Trek Nemesis,film release region,Turkey,0
+Sophie's Choice,genre,Horror,1
+Dennis Miller,profession,Comedian,0
+Carlos Santana,role,Bell,0
+X-Men,languages,English Language,1
+Ambient music,artists,Matt Chamberlain,0
+Christina Aguilera,award,MTV Video Music Award for Best Cinematography,3
+Jam band,parent genre,Psychedelic rock,0
+Emma Watson,currency,United States Dollar,0
+Julie Bowen,award nominee,Ty Burrell,0
+The World Is Not Enough,language,Russian Language,0
+Columbia Pictures,film,Closer,0
+Timothy Daly,nominated for,The Sopranos,0
+It,written by,Larry Cohen,0
+Master of Science,major field of study,Industrial engineering,0
+National Treasure: Book of Secrets,genre,Crime Fiction,1
+University of Arizona,student,Nicole Kidman,3
+Jeff Beck,gender,Male,0
+Sarasota,time zones,Eastern Time Zone,0
+Colombia,olympics,Gold medal,2
+BAFTA Award for Best Makeup & Hair,nominated for,The Hours,0
+Rushmore,film,2012 Donostia-San Sebastián International Film Festival,2
+Only Fools and Horses,genre,Coming of age,1
+Jessica Simpson,place of birth,Dallas,0
+48th Annual Grammy Awards,award winner,Donald Trump,3
+Brian Eno,role,Hammond organ,0
+Centurion,genre,Action Film,0
+The Matrix Reloaded,nominated for,The Matrix,0
+Portugal,form of government,Unitary state,0
+Lee Marvin,profession,Actor-GB,0
+Inception,genre,Thriller,0
+Cloris Leachman,award,Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Leading Role,3
+Rise of the Planet of the Apes,film release region,Israel,1
+Comcast,service location,United States of America,0
+Jane Eyre,film release distribution medium,Armenia,2
+Italo Calvino,influenced by,Galileo Galilei,0
+Scottish American,people,Hillary Rodham Clinton,0
+Grammy Award for Best Classical Album,ceremony,36th Annual Grammy Awards,0
+Atonement,films,Inglourious Basterds,1
+Cape Fear,music,Bernard Herrmann,0
+Boxing,state province region,Ghana,2
+Public Enemies,film crew role,Makeup Artist-GB,0
+Arnold Schoenberg,company,University of Southern California,0
+Uganda,adjoins,Kenya,3
+Jeffrey Tambor,languages,English Literature,3
+Priority Records,artist,Master P,0
+Leslie Cheung,nationality,China,0
+Toronto,teams,Toronto Raptors,0
+Philipps University of Marburg,major field of study,Physics,0
+The Book of Eli,executive produced by,Richard D. Zanuck,0
+Jackson Browne,role,baritone guitar,0
+Denis Leary,influenced by,Bill Hicks,0
+Mario Kassar,place of birth,Beirut,0
+Stephen Goosson,educational institution,Set decorator-GB,2
+Mel Brooks,award,Golden Globe Award for Best Original Song,0
+Four Rooms,currency,United States Dollar,1
+Master of Science,institution,University of Nairobi,0
+Madchester,artists,New Order,0
+Hugh Hefner,type of union,International relations,3
+Anonymous,film release region,Cambodia,3
+9th Golden Satellite Awards,award winner,Bill Nighy,0
+Decca Records,actor,Eric Burdon,2
+Hugh Laurie,profession,Actor-GB,0
+Monsoon Wedding,award,Golden Lion,0
+Michael Palin,award nominee,Graham Gouldman,3
+United States of America,second level divisions,Niagara County,0
+James Burrows,place of birth,Los Angeles,0
+The Walking Dead,country of origin,United States of America,0
+Deputy prime minister,location of ceremony,Australia,2
+Henry Fonda,award,Academy Award for Best Cinematography,3
+Synthesizer,instrumentalists,Greg Graffin,0
+Hammer Film Productions,industry,Film,1
+57th Academy Awards,instance of recurring event,Academy Awards,0
+85th Academy Awards,honored for,Amour,0
+Star Wars Episode II: Attack of the Clones,film crew role,Visual Effects,0
+Nick Nolte,award,Academy Award for Best Actor,0
+Jack White,role,Mandolin,0
+Kinsey,influenced by,Aristotle,1
+Jaws,film regional debut venue,London,0
+Jaundice,symptom of,Syphilis,3
+Eliza Dushku,type of union,Domestic partnership,0
+Ghana,teams,Nigeria national football team,1
+Keyboard,instrumentalists,Rick Wakeman,0
+World Trade Organization,member states,Colombia,3
+Joy Bryant,type of union,Marriage,0
+Lana Turner,type of union,Marriage,0
+Cheese,nutrient,Retinol,0
+I Love You Phillip Morris,film crew role,Creative Director,3
+Academy Award for Best Cinematography,nominated for,The Apartment,0
+Avant-garde music,music,John Frusciante,2
+California,contains,University of California,1
+Olivia d'Abo,award,Razzie Award for Worst Supporting Actress,0
+It's Complicated,production companies,Relativity Media,0
+The Sand Pebbles,language,English Literature,3
+Eureka,category,Official Website,0
+British people,languages spoken,Welsh Language,0
+Stroke,people,Ralph Burns,0
+Columbus,category,Official Website,0
+Superman II: The Richard Donner Cut,written by,Joe Shuster,0
+Cleopatra,film release region,Bourbon Spain,3
+Glenn Frey,place of death,Detroit,2
+Finding Neverland,film crew role,Visual Effects Supervisor,0
+Chicken meat,nutrient,Calcium,0
+Bolton,second level divisions,Bolton Wanderers F.C.,2
+Martin Donovan,film,Sliver,1
+University of Bonn,currency,Euro,0
+Folk rock,artists,The Decemberists,0
+The Ring,produced by,Robert F. Boyle,3
+Wayne State University,student,Hunter S. Thompson,3
+It,genre,Romance Film,1
+Champaign,second level divisions,Illinois Fighting Illini men's basketball,2
+Dorothy Malone,religion,Female,2
+Will.i.am,award,Prometheus Hall of Fame Award,1
+The Great Gatsby,genre,Drama,0
+Munich,genre,Docudrama,0
+Russell T Davies,educational institution,Wales,2
+Edie McClurg,nationality,United States of America,0
+Chief Technology Officer,company,Apple Inc.,0
+Academy Award for Best Sound Mixing,nominated for,Schindler's List,0
+David Cross,film,Eternal Sunshine of the Spotless Mind,0
+37th Golden Globe Awards,honored for,Breaking Away,0
+David Zucker,languages,English Language,1
+CBC Television,category,Official Website,0
+Bachelor of Arts,educational institution,University of Cape Town,2
+Mike Portnoy,performance role,Percussion,0
+New London,source,United States Department of Housing and Urban Development,0
+Gettysburg College,contact category,Official Website,2
+James Monroe,legislative sessions,2nd United States Congress,3
+Academy Award for Best Actor,nominated for,127 Hours,0
+Graham Greene,nationality,England,0
+Warren Ellis,place of birth,Suffolk,3
+Shining Through,country of origin,United States of America,1
+69th Academy Awards,award winner,Craig Barron,3
+Jane Alexander,nominated for,Law & Order: Criminal Intent,3
+Die Hard with a Vengeance,country,Confederate States of America,3
+16 Blocks,film release region,Hong Kong,0
+Kevin Pollak,educational institution,Actor-GB,2
+Goaltender,current club,Nashville Predators,2
+Michael Nesmith,location,Dallas,0
+Georg Solti,award,Grammy Award for Best Chamber Music Performance,0
+Emily Watson,award nominee,David Denman,3
+Indiana University,major field of study,Telecommunications,0
+AIDS,people,Richard Hunt,0
+Head coach,company,Stanford University,0
+Into the Wild,film release distribution medium,DVD,0
+Elektra,language,English Language,0
+Academy Award for Best Actress,nominated for,Since You Went Away,0
+Star Trek: First Contact,genre,Thriller,0
+Rock and Roll Hall of Fame,inductee,The Beach Boys,0
+Primetime Emmy Award for Outstanding Animated Program  (for Programming Less Than One Hour),category,Interactive Advertising Bureau,3
+Fear and Loathing in Las Vegas,genre,Drama,0
+Western Michigan University,category,Official Website,1
+Maggie Gyllenhaal,languages,English Language,0
+Steven Seagal,currency,United States Dollar,0
+Mulholland Drive,genre,Neo-noir,1
+Sherlock Holmes,film release region,Russia,0
+The Birds,film release distribution medium,Video,0
+McMaster University,student,Martin Short,0
+Laura Linney,award,Academy Award for Best Actress in a Supporting Role,0
+Cheryl Hines,place of birth,Miami Beach,0
+Grammy Award for Best Album for Children,award winner,Roy Orbison,1
+Swimming Upstream,country,Grenada,1
+Jeff Daniels,film,Terms of Endearment,0
+Richard Kind,film,Argo,0
+Little Fockers,film release distribution medium,DVD,0
+United States Secretary of State,legislative sessions,16th United States Congress,1
+Richmond,time zones,Eastern Time Zone,0
+Velvet Goldmine,country,United Kingdom,0
+National Society of Film Critics Award for Best Supporting Actor,nominated for,Sophie's Choice,3
+Volleyball,country,Egypt,0
+Alice in Wonderland,genre,Costume drama,0
+Three Kings,production companies,The Rocky Horror Picture Show,3
+Academy Award for Best Director,award winner,Sam Mendes,0
+George Frideric Handel,nationality,Germany,0
+Duquesne University,colors,Gold,1
+Maria Bello,film,Thank You for Smoking,0
+Maaya Sakamoto,profession,Lyricist,0
+Neo soul,artists,Stevie Wonder,1
+Shine,genre,Romance Film,0
+Haywire,film release region,Indonesia,0
+Erasmus Hall High School,region,New York,2
+Spike,profession,Actor-GB,1
+Charles Dance,film festivals,Midnight's Children,2
+Mike Oldfield,profession,Record producer-GB,0
+easyJet,service language,Polish Language,0
+Citigroup,industry,Financial Services,0
+Do the Right Thing,featured film locations,New York City,0
+United States of America,second level divisions,Wood County,0
+44th Annual Grammy Awards,award winner,Emilio Estefan,0
+Whoopi Goldberg,film,Crazy in Alabama,3
+Angela Lansbury,film,Beauty and the Beast,0
+Paul Dano,film,Looper,0
+Sherri Shepherd,award nominee,Wilkes-Barre,3
+Chelsea F.C.,special performance type,Blue,2
+Canadian-American,people,Dan O'Shannon,3
+San José State University,major field of study,Finance,0
+2008 Summer Olympics,participating countries,Trinidad and Tobago,0
+Nunnally Johnson,profession,Television producer-GB,3
+Edmonton,contains,University of Alberta,0
+Monarch-GB,jurisdiction of office,Bahamas,0
+John Williams,award,BAFTA Award for Best Film Music,0
+Channel 4,citytown,Westminster,0
+Georgetown University,student,Robert Benton,1
+Missy Elliott,award,Grammy Award for Best Rap Performance by a Duo or Group,0
+Fiorello H. LaGuardia High School,citytown,New York City,0
+Thomas McCarthy,film,Meet the Parents,0
+1996 NCAA Men's Division I Basketball Tournament,locations,Milwaukee Brewers,3
+University of Hamburg,major field of study,Economics,0
+D.W. Moffett,type of union,Marriage,1
+The Island,genre,Action Film,0
+13 Assassins,genre,Action Film,0
+Blake Lively,nationality,United States of America,0
+Lieutenant Governor,jurisdiction of office,Indiana,0
+Andy Dick,place of birth,Charleston,0
+The Good,the Bad,the Weird,0
+Stuyvesant High School,student,Martin Balsam,1
+Charles Lang,religion,Male,2
+Golden Globe Award for Best Original Song,award winner,Stevie Nicks,3
+8 Women,film release region,China,0
+American Beauty,award,London Film Critics Circle Award for Actress of the Year,0
+Albert Einstein,educational institution,Scientist-GB,2
+Folk rock,artists,Roy Bittan,0
+The Dreamers,film release region,Israel,0
+Emma Thompson,award,BAFTA Award for Best Actress in a Supporting Role,0
+Vertigo,film format,Golden Gate Bridge,2
+Ted,film release region,Romania,0
+Electronic body music,parent genre,Industrial music,0
+Trevor Horn,nationality,England,0
+Dwight D. Eisenhower,type of union,Marriage,1
+Hawaii,vacationer,Nicole Richie,0
+Saw,film release region,Spain,0
+Roald Dahl,profession,Screenwriter,0
+Madagascar 3: Europe's Most Wanted,film release region,Finland,0
+Godzilla,film release region,Philippines,1
+Cloris Leachman,award,Primetime Emmy Award for Outstanding Supporting Actress - Miniseries or a Movie,0
+Mary Astor,nationality,Catholicism,2
+Programming,role,Bass guitar,0
+Snow White and the Seven Dwarfs,film release region,New Zealand,1
+Zambia,organization,Asian Development Bank,3
+Writers Guild of America Awards 2006,honored for,The Sopranos,0
+Dimension Films,film,Scary Movie,0
+Thomas Aquinas,profession,Physician,0
+Northwestern University,student,Henry Rollins,1
+University of Southern California,school,John Ottman,2
+Psychiatry,films,One Flew Over the Cuckoo's Nest,0
+Queen Latifah,award,MTV Movie Award for Best Fight,0
+Vinnie Jones,profession,Actor-GB,0
+Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Leading Role,nominated for,Nixon,0
+Alfre Woodard,award winner,Brenda Strong,0
+Steven Van Zandt,profession,Disc jockey-GB,0
+Pretty Woman,film distribution medium,Blu-ray disc,0
+Software Engineering,role,Drum machine,1
+Hip hop soul,parent genre,Rhythm and blues,0
+66th Tony Awards,award winner,Roger Birnbaum,3
+Daniel Craig,location of ceremony,New York City,0
+Truman Capote,award,National Book Award for Fiction,0
+A Simple Life,film crew role,Visual Effects Supervisor,1
+Jonny Lee Miller,gender,Male,0
+Jonah Hill,award nominee,MTV Movie Award for Best Comedic Performance,2
+V for Vendetta,country,Germany,0
+A Single Man,film release region,Australia,1
+Rise of the Planet of the Apes,film release region,Belarus,0
+Whig Party,politician,Abraham Lincoln,0
+Mauricio Pinilla,influenced by,Baruch Spinoza,1
+Jamey Sheridan,film,The Boondocks,3
+Bachelor of Arts,institution,Jesus College,0
+The O.C.,country of origin,United States of America,0
+Author-GB,split to,Writer-GB,3
+Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role,nominated for,The Hurt Locker,0
+Julie Andrews,award,Primetime Emmy Award for Outstanding Supporting Actress - Miniseries or a Movie,0
+Vince Gilligan,educational institution,Television Director,2
+Epic Movie,film distribution medium,Streaming media,0
+Indiana Jones and the Raiders of the Lost Ark,genre,Film adaptation,3
+Cardiovascular disease,people,Mel Blanc,0
+Case Closed: The Phantom of Baker Street,parent genre,Animation,2
+Freestyle skiing,country,Turkey,1
+Total Recall,film release region,Israel,0
+Yusuf Islam,nationality,England,0
+Simran,languages,Telugu language,0
+M. C. Gainey,profession,Comedian,0
+Spanish people,geographic distribution,United States of America,0
+Newsreader-GB,company,Nine Network,0
+Synthesizer,instrumentalists,Joe Jackson,0
+Larry Charles,award,Alec Berg,2
+The House of Mirth,parent genre,Drama,2
+Burt Young,award,Academy Award for Best Actor in a Supporting Role,0
+California State University,Northridge,student,0
+Cameo appearance,film,The Sixth Sense,0
+Robert Ridgely,award nominee,Philip Seymour Hoffman,0
+United States of America,second level divisions,Marion County,0
+Peter Lawford,gender,Male,1
+12th Satellite Awards,honored for,Mad Men,0
+Sitar,award,Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Miniseries or Television Movie,1
+Academy Award for Best Picture,honored for,The Fugitive,2
+Home Alone,genre,Crime Fiction,0
+Columbia University,student,Alicia Keys,0
+Lou Costello,profession,Film Producer-GB,0
+New York,Don't They?,language,2
+Roy Scheider,profession,Actor-GB,0
+Hip hop music,artists,Snoop Dogg,0
+Alternative rock,artists,The Velvet Underground,0
+Carl Reiner,organization,American Philosophical Society,1
+Daniel Day-Lewis,nationality,England,0
+Russell Crowe,award,Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture,0
+Angela Bassett,location,St. Augustine,3
+World War II,locations,Scandinavia,0
+G.I. Joe: The Rise of Cobra,film crew role,Musician-GB,3
+Isaac Hayes,profession,Record producer-GB,0
+Fred Armisen,service location,New York City,2
+Peru,olympics,2006 Winter Olympics,3
+50 First Dates,produced by,Jack Nicholson,3
+San Francisco,month,July,0
+Inception,film release distribution medium,Taiwan,2
+The Artist,film release region,Colombia,0
+Hannibal,film crew role,Visual Effects Supervisor,0
+Antichrist,film release region,Taiwan,0
+Lieutenant Governor,jurisdiction of office,Columbus,1
+Golden State Warriors,school,Northwestern University,0
+The Road,film crew role,Visual Effects,0
+Bernard Hill,award nominee,Leonardo DiCaprio,0
+Mrs Henderson Presents,genre,Music,0
+California,contains,Hayward,0
+Groton School,student,Philip Glass,1
+George Carlin,produced by,Lenny Bruce,2
+Martin Short,profession,Voice Actor,0
+Russian Empire,contains,Kiev,0
+Minnesota Wild,position,Defender,3
+Butch Hartman,profession,Drummer-GB,1
+Lawless,film release region,Republic of Ireland,0
+Marc Joseph,award,Latin Grammy Award for Best Male Pop Vocal Album,1
+Master of Arts,institution,University College Dublin,0
+Summit,film,Fair Game,1
+Justice League,actor,Julie Bowen,0
+Attention deficit hyperactivity disorder,notable people with this condition,Cameron Diaz,0
+New England Patriots,sport,American football,0
+Jimmy Van Heusen,place of death,Rancho Mirage,0
+85th Academy Awards,award winner,Stuart Craig,1
+Punjabi people,people,Priyanka Chopra,0
+The Green Hornet,film crew role,Visual Effects Supervisor,0
+MSV Duisburg,language,Hebrew Language,1
+1980 Winter Olympics,medal,Bronze medal,0
+Robert Stack,film,1941,0
+English Civil War,entity involved,William Henry Harrison,3
+Bachelor of Science,institution,University of Arizona,0
+Cabbage,nutrient,Alanine,0
+Arthur Wellesley,1st Duke of Wellington,gender,0
+Western Desert Campaign,combatants,Kingdom of Greece,0
+Julia Louis-Dreyfus,film,Hannah and Her Sisters,0
+South Park: Bigger,Longer & Uncut,film crew role,0
+Mike Patton,type of union,Marriage,1
+Cherokee,people,Clint Howard,0
+Hebrew University of Jerusalem,student,Ariel Sharon,0
+Academy Award for Best Actor in a Supporting Role,nominated for,Hannibal Rising,3
+Carol Kane,film,The Muppet Movie,0
+North by Northwest,film crew role,Special Effects,0
+Back to the Future,film distribution medium,Blu-ray disc,0
+Kevin Michael Richardson,profession,Actor-GB,0
+Ray Milland,award,Primetime Emmy Award for Outstanding Supporting Actor - Drama Series,0
+Grammy Award for Best Remixed Recording,ceremony,51st Annual Grammy Awards-US,1
+Master of Arts,specialization of,Anthropology,2
+Trinidad and Tobago,olympics,2012 Summer Olympics,3
+L.A. Law,genre,Drama,0
+The Practice,producer type,Executive Producer,0
+Northwestern University,school,Private university,2
+BAFTA Award for Best Direction,nominated for,The Remains of the Day,0
+Headache,symptom of,Hypertension,0
+Volleyball,country,Canada,0
+Thom Yorke,diet,Veganism,0
+Knight and Day,film release region,Germany,0
+David Mansfield,type of union,The Gay Divorcee,3
+George Michael,award,Grammy Award for Best Female Pop Vocal Performance,3
+Jessica Lange,educational institution,Photographer,2
+Alex Kurtzman,location,California,1
+Classical music,artists,Igor Stravinsky,1
+University of Birmingham,major field of study,English Language,0
+Jude Law,film festivals,Hugo,2
+Juliette Binoche,film,The Unbearable Lightness of Being,0
+The Scorpion King,film crew role,Visual Effects,3
+Marley,film release distribution medium,DVD,0
+Golden Globe Award for Best Original Song,ceremony,56th Golden Globe Awards,0
+KT Tunstall,performance role,Kazoo,2
+Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture,nominated for,Chocolat,3
+Taken,film release region,Russia,0
+Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Leading Role,ceremony,17th Screen Actors Guild Awards,0
+The Chronicles of Narnia: The Voyage of the Dawn Treader,language,English Language,1
+Sense and Sensibility,story by,Jane Austen,0
+Bachelor of Arts,institution,Pembroke College,0
+Betty White,place of death,Van Nuys,1
+DuPage County,adjoins,Kane County,0
+Rupert Holmes,film,Shrek the Third,1
+X2,executive produced by,Stan Lee,0
+Ian Somerhalder,profession,Actor-GB,1
+The Hunger Games,film release region,Spain,0
+Academy Award for Best Actor,nominated for,Mr. Smith Goes to Washington,0
+San Diego State University,student,Alex Borstein,1
+Dean Stockwell,nominated for,Rugrats,1
+Poles,person,Samuel Goldwyn,2
+Shakespeare in Love,genre,Romantic comedy,0
+RuPaul,profession,Actor-GB,0
+Kundun,genre,Biographical film,0
+Seven Pounds,film release region,Mexico,0
+Mellotron,organization,Oasis,2
+Sherlock Holmes,film release distribution medium,Romania,2
+Julianne Moore,film festivals,I'm Not There,2
+Very Bad Things,currency,United States Dollar,0
+The Missing,country,United States of America,0
+Hank Azaria,film festivals,Anastasia,2
+City University of New York,major field of study,Chemical Engineering,1
+Marriage,specialization of,Fall River,2
+Mick Harvey,performance role,Harmonica,2
+Keyboard,instrumentalists,Tommy Lee,0
+Contraband,film release region,Luxembourg,3
+Fairuza Balk,genre,Romance Film,1
+School of Visual Arts,campuses,Tisch School of the Arts,3
+Richard Griffiths,religion,Anglicanism,3
+Dance-pop,artists,RuPaul,0
+Ray Moyer,nominated for,The Greatest Story Ever Told,0
+Claire Danes,place of birth,Manhattan,0
+Wim Wenders,award,Academy Award for Best Documentary Feature,0
+Galveston County,source,United States Department of Housing and Urban Development,0
+1952 Winter Olympics,medal,Silver medal,0
+Armenia,taxonomy,Library of Congress Classification,0
+English Language,countries spoken in,Antigua and Barbuda,0
+Cars,film release region,Republic of Ireland,0
+The Human Stain,production companies,Lakeshore Entertainment,0
+Mike Myers,influenced by,Peter Sellers,0
+Family Guy Presents: Stewie Griffin: The Untold Story,music,Walter Murphy,0
+Tambourine,group,New Order,1
+Benicio del Toro,award,BAFTA Award for Best Actor in a Leading Role,0
+97th United States Congress,district represented,Florida,1
+Primetime Emmy Award for Outstanding Guest Actor - Drama Series,ceremony,58th Primetime Emmy Awards,0
+Academy Award for Best Cinematography,ceremony,42nd Academy Awards,0
+Six Degrees of Separation,film crew role,Sound Editor-GB,0
+Bob Kane,place of burial,Forest Lawn Memorial Park,0
+The Last Airbender,genre,Fantasy,0
+Hamilton College,major field of study,Public policy,0
+Naomi Watts,film,J. Edgar,0
+Pulp Fiction,film regional debut venue,1982 Cannes Film Festival,3
+James Schamus,award,Academy Award for Best Original Song,0
+Broadcast Film Critics Association Award for Best Cast,award winner,Klaus Voormann,3
+Bethesda,county,Gwinnett County,3
+T-Pain,profession,Record producer-GB,0
+Monster,titles,King Crimson,3
+Golden Globe Award for Best Original Score,nominated for,Mulan,0
+African American,people,Joni Mitchell,3
+Ghostbusters II,award,MTV Movie Award for Best Song from a Movie,1
+Pop rock,artists,Uriah Heep,0
+Road Trip,film release region,Hungary,0
+Jason Isaacs,film,Armageddon,0
+Time travel,films,Speed 2: Cruise Control,3
+Primetime Emmy Award for Outstanding Lead Actor - Comedy Series,honored for,Malcolm in the Middle,2
+Leo Tolstoy,influenced by,Henry David Thoreau,0
+Mani Ratnam,profession,Film Director,0
+Mrs Henderson Presents,film release region,Russia,0
+Satellite Award for Best Costume Design,nominated for,Marie Antoinette,0
+Eastern Front,administrative parent,Adolf Hitler,2
+Everyone Says I Love You,film release distribution medium,DVD,0
+Experimental rock,artists,King Crimson,0
+Joan Bennett,gender,Female,0
+MTV Movie Award for Best Kiss,nominated for,Bram Stoker's Dracula,0
+Mexico,contains,Televisa,0
+Diana Ross,group,U.S.A. for Africa,0
+Bowdoin College,registering agency,Internal Revenue Service,0
+Clint Howard,place of birth,Burbank,0
+Beauty and the Beast,film release region,United Kingdom,0
+Cardiff City F.C.,sport,Football,0
+Experimental music,artists,Sufjan Stevens,0
+Reba McEntire,profession,Songwriter-GB,0
+Portugal,contains,Toledo,1
+Joss Ackland,religion,Male,2
+Loving,actor,Teri Polo,0
+French American,people,Dominic Chianese,1
+Adam Horowitz,award winner,Paul Dini,0
+The Crucible,film release distribution medium,DVD,1
+Steven Moffat,profession,Actor-GB,1
+New Zealand,olympics,2002 Winter Olympics,0
+Grammy Award for Best Music Film,ceremony,39th Annual Grammy Awards,3
+IFC Films,film,Mary and Max,0
+Battle of Britain,film regional debut venue,Warsaw,0
+The Simpsons Movie,genre,American Zoetrope,3
+War Horse,edited by,Michael Kahn,0
+Pop music,artists,Selena Gomez,0
+Motown Records,artist,BeBe Winans,0
+Clive Davis,organizations founded,J Records,0
+The Manchurian Candidate,featured film locations,New York Rangers,3
+66th Golden Globe Awards,award,Don Scardino,2
+Yellow Submarine,film release region,Italy,0
+Mo'Nique Imes-Jackson,award nominee,Sherri Shepherd,0
+Belgium,time zones,Central European Time Zone-US,0
+Ewan McGregor,film,The Island,0
+Universal Studios,film,Dazed and Confused,0
+University of Ottawa,major field of study,Chemical Engineering,0
+Charlton Heston,film,Amanda Lear,3
+Ashtabula County,source,United States Department of Housing and Urban Development,0
+The Pianist,film release region,Lombardy,3
+Tim Robbins,profession,Film Director,0
+Academy Award for Best Director,nominated for,There's Something About Mary,3
+Topaz,music,Maurice Jarre,0
+Broadcast Film Critics Association Award for Best Film,nominated for,The Constant Gardener,0
+Bradley Cooper,award,Academy Award for Best Actor,0
+Victor Victoria,edited by,Ralph E. Winters,0
+Fred Ebb,performance role,Lead vocalist-GB,0
+Mel Gibson,location,Sydney,0
+Hamilton County,time zones,Eastern Time Zone,0
+64th Academy Awards,honored for,City Slickers,0
+Don Siegel,profession,Television Director,0
+32nd Academy Awards,award winner,Brian Doyle-Murray,3
+Pirates of the Caribbean: The Curse of the Black Pearl,country,United States of America,0
+Shamrock Rovers F.C.,category,Official Website,0
+Rensselaer County,currency,United States Dollar,1
+The Purple Rose of Cairo,genre,Romantic comedy,0
+UCLA School of Law,currency,United States Dollar,0
+Mehmood,place of birth,Mumbai,0
+Frida,award,Satellite Award for Best Costume Design,0
+Jiang Wen,award nominee,Hong Kong Film Award for Best Director,2
+Arthur Christmas,film release distribution medium,DVD,0
+Bryn Mawr College,major field of study,History,0
+Andrew G. Vajna,organizations founded,Summit Entertainment,0
+M.I.A.,profession,Singer-songwriter-GB,0
+Academy Award for Best Sound Mixing,ceremony,55th Academy Awards,0
+New York University,student,Jamie Lynn Sigler,0
+Computer Science,major field of study,Biology,0
+Funk,artists,The Jackson 5,0
+The Cassandra Crossing,film release region,Denmark-GB,0
+Academy Award for Best Picture,nominated for,Coal Miner's Daughter,0
+Carey Mulligan,profession,Songwriter-GB,1
+Guinea-Bissau,form of government,Democracy,1
+Jerry Stiller,profession,Actor-GB,0
+Paris,vacationer,Johnny Depp,0
+Rosario Dawson,nationality,United States of America,0
+Grammy Award for Best Remixed Recording,Non-Classical,ceremony,0
+Harvard University,major field of study,Chemical Engineering,3
+Alternative rock,artists,Nick Cannon,3
+James Horner,award,BAFTA Award for Best Film Music,0
+Detective Dee: Mystery of the Phantom Flame,film release distribution medium,DVD,0
+David Hasselhoff,program,Dancing with the Stars,0
+Wendee Lee,place of birth,Los Angeles,0
+12th Satellite Awards,honored for,Michael Clayton,0
+Pneumonia,person,Gore Vidal,2
+Jon Favreau,film,Dirty Pretty Things,3
+New Jersey,category,Official Website,0
+The Runaways,film art direction by,Hal Pereira,1
+Alternative rock,music,Jonas Brothers,2
+Soviet Union,combatants,Australia,0
+Inception,film release region,Ukraine,0
+Michael Crichton,religion,Atheism,0
+Columbia,actor,Yolanda Adams,2
+Peking University,specialization of,Computer Science,2
+109th United States Congress,district represented,Wisconsin,0
+Michael Semanick,honored for,Mystic River,2
+The Vow,film release region,Japan,0
+Chris Cornell,nominated for,Casino Royale,0
+Freddy Rodriguez,gender,Male,0
+Ed Harris,profession,Actor-GB,0
+Orlando,mode of transportation,Air travel,0
+Dark Shadows,parent genre,Post-punk,1
+Irish American,people,Errol Flynn,0
+Academy Award for Best Original Music Score,nominated for,Interview with the Vampire: The Vampire Chronicles,0
+Valentine's Day,film distribution medium,Blu-ray disc,0
+Popeye,currency,101st United States Congress,3
+The Da Vinci Code,production companies,Imagine Entertainment,0
+Soft rock,artists,Heart,1
+Anna Deavere Smith,gender,Female,0
+Twister,category,Interactive Advertising Bureau,3
+Minnesota Vikings,colors,Betty White,3
+Pop music,artists,Leonard Cohen,0
+Massachusetts Institute of Technology,student,Richard Feynman,0
+Emerson College,student,Paul Thomas Anderson,0
+Sex and the City 2,film release region,United States of America,1
+Vishal Bharadwaj,type of union,Marriage,0
+Metallica,influenced by,Thin Lizzy,0
+Glockenspiel,group,Green Day,1
+Julie & Julia,featured film locations,New York City,0
+Broadcast Film Critics Association Award for Best Actress,nominated for,Titanic,1
+Jon Brion,role,Glockenspiel,0
+Rhinestone,film release region,United States of America,0
+I Love You Phillip Morris,film release region,Finland,0
+The 40-Year-Old Virgin,award nominee,BFCA Critics' Choice Award for Best Comedy,2
+Peabody Award,award winner,Canadian Broadcasting Corporation,0
+The Bridges of Madison County,film release region,Poland,0
+Hugo,nationality,United States of America,1
+Mariah Carey,award,Golden Globe Award for Best Original Song,0
+William A. Horning,nominated for,Gigi,0
+Electronic dance music,artists,Britney Spears,0
+Bette Midler,profession,Comedian,0
+Oklahoma!,nominated for,The King and I,0
+Eric Fellner,type of union,Marriage,0
+Firearm,people,Vincent van Gogh,0
+Jean-Paul Sartre,influenced by,Jean-Jacques Rousseau,0
+United States of America,teams,United States men's national soccer team,0
+Gilles Deleuze,influenced by,Lewis Carroll,0
+Bachelor's degree,institution,University of Rochester,1
+Anthony Wong,profession,Actor-GB,0
+Richard Branson,gender,Male,0
+Construction,films,Thunderball,1
+Philip Yordan,religion,Male,2
+The Village,language,English Language,0
+BAFTA Award for Best Sound,nominated for,Greystoke: The Legend of Tarzan,0
+Lancaster,contains,Lancaster University,0
+In the Heat of the Night,award,Stirling Silliphant,2
+Jack Kirby,company,Marvel Comics,0
+Superman IV: The Quest For Peace,story by,Joe Shuster,0
+Stephen King,award,Producers Guild of America Award for Best Theatrical Motion Picture,1
+Mike Oldfield,profession,Musician-GB,1
+Track cycling,olympics,2008 Summer Olympics,0
+Cabaret,genre,Film adaptation,0
+C. S. Lewis,influenced by,Daniel Inouye,3
+Midnight Cowboy,genre,Drama,0
+The Incredible String Band,category,Official Website,0
+The Clearing,film crew role,Musician-GB,3
+Councillor,jurisdiction of office,Rotterdam,0
+Acoustic bass guitar,instrumentalists,Trent Reznor,1
+Bill Payne,role,Piano,0
+Dido,award,Academy Award for Best Original Song,0
+Satellite Award for Best Original Screenplay,nominated for,21 Grams,0
+Southern University and A&M College,school,Mixed-sex education,2
+Hellboy,film release region,Brazil,0
+New Romanticism,artists,Michael Sembello,1
+Powers Boothe,film,Tombstone,0
+Talk to Me,category,Official Website,0
+Michael Biehn,film,Terminator 2: Judgment Day,0
+Pennsylvania State University,specialization of,Accountancy,2
+County Kilkenny,adjoins,County Laois,0
+Arabic Language,countries spoken in,Egypt,0
+Comedy-GB,titles,The Opposite of Sex,0
+Warsaw,profession,Guitarist-GB,1
+Andy Samberg,influenced by,Steve Martin,0
+Will Smith,film,The Legend of Bagger Vance,0
+Allen Covert,award nominee,Columbia Pictures,0
+Maria Bello,profession,Musician-GB,0
+The Artist,film release region,United Arab Emirates,0
+Philippines,olympics,1932 Summer Olympics,0
+Sting,award,Satellite Award for Best Original Song,0
+Russ Meyer,profession,Michael Fassbender,3
+16th Screen Actors Guild Awards,award winner,Kiernan Shipka,0
+CeCe Winans,profession,Actor-GB,0
+Kid vs. Kat,actor,Kath Soucie,0
+goblet drum,role,Bouzouki,0
+Grammy Award for Best Pop Vocal Album,ceremony,41st Annual Grammy Awards,1
+Akira Kurosawa,award,National Society of Film Critics Award for Best Director,0
+William Holden,type of union,Marriage,0
+69th Golden Globe Awards,award winner,Slasher,3
+Ukraine,olympics,2004 Summer Olympics,0
+English American,people,Brad Garrett,3
+Bridesmaids,film release region,Singapore,0
+Adam Baldwin,nationality,United States of America,0
+Dennis Miller,profession,Cinematographer-GB,3
+Governor-GB,jurisdiction of office,Colorado,0
+Howard County,time zones,Eastern Time Zone,1
+Bend It Like Beckham,list,National Film Registry,1
+Bass,performance role,electric violin,2
+David Simon,type of union,The Gay Divorcee,3
+Grenada,organization,African,0
+Miriam Margolyes,film,Avi Lerner,3
+Robert Altman,profession,Film Producer-GB,0
+20th Century Fox,film,Monty Python and the Holy Grail,0
+Santa Ana,role,Lute,1
+2004 Summer Olympics,sports,Track cycling,0
+Get Smart,story by,Mel Brooks,0
+University of California,San Diego,major field of study,0
+Foo Fighters,award,MTV Video Music Award for Best Visual Effects,0
+Shakira,award,Primetime Emmy Award for Individual Performance - Variety Or Music Program,1
+Om Shivpuri,nationality,India,0
+DeKalb County,source,United States Department of Housing and Urban Development,0
+Australia,religion,Catholicism,0
+Chris Isaak,award,MTV Video Music Award for Best Cinematography,3
+Tom Sizemore,place of death,Detroit,2
+Bluegrass,artists,Alison Krauss,0
+Changeling,language,English Language,0
+Diploma,major field of study,organization,3
+Vietnam,olympics,2000 Summer Olympics,0
+Moe Howard,place of death,Los Angeles Lakers,3
+Claude Rains,type of union,The Gay Divorcee,3
+Pop music,music,Herb Alpert,2
+Stockard Channing,award,Academy Award for Best Actress,0
+Chris Lebenzon,place of death,Redwood City,2
+Alexander Payne,award,Academy Award for Best Director,0
+Rob James-Collier,profession,Actor-GB,0
+Donald Trump,service location,Manhattan,2
+The King's Speech,film,Sound Mixer,2
+300,film,Dialogue Editor,2
+Christian Bale,film,Little Women,0
+Wynton Marsalis,profession,Songwriter-GB,0
+David Arquette,program,Dancing with the Stars,0
+Broadcast Film Critics Association Award for Best Actress,award winner,Miranda Otto,1
+United States of America,second level divisions,Aroostook County,0
+University of the Pacific,major field of study,Business Administration,0
+Democratic Party,politician,Robert Byrd,0
+Ice cream,nutrient,Manganese,0
+Writers Guild of America Awards 2006,award winner,Courtney Simon,0
+Alternative metal,artists,Breckin Meyer,3
+Interview with the Vampire: The Vampire Chronicles,parent genre,Drama,2
+Grown Ups,film crew role,Sound Mixer,0
+Fiorello H. LaGuardia High School,student,Jennifer Garner,3
+AC/DC,award,Grammy Award for Best Rock Performance by a Duo or Group with Vocal,0
+The Cleveland Show,film crew role,Jason Sudeikis,2
+Jane Campion,award,Golden Globe Award for Best Director - Motion Picture,3
+Western,country,United Kingdom,1
+North African Campaign,entity involved,Allies of World War II,0
+Paul Haggis,profession,Television producer-GB,0
+46th Annual Grammy Awards,award winner,Etta James,0
+Pruritus,symptom of,Cholera,1
+Saxophone,group,INXS,0
+Independence Day,film crew role,Graphic Designer-GB,1
+Impact Wrestling,parent genre,Professional wrestling,2
+Ian Somerhalder,film,Lara Croft: Tomb Raider,1
+Jerry Weintraub,profession,Television producer-GB,1
+Bruce McGill,film,Fair Game,0
+Lesley Ann Warren,type of union,The Gay Divorcee,3
+David Cross,film,Scary Movie 2,0
+Academy Award for Best Original Screenplay,award winner,Prince,1
+United States Military Academy,major field of study,Arabic Language,0
+Roberto Benigni,award,Independent Spirit Award for Best Female Lead,3
+63rd Primetime Emmy Awards,award winner,Matthew Weiner,0
+Stamford,currency,101st United States Congress,3
+Veer-Zaara,genre,Adventure Film,3
+Michael McKean,profession,Screenwriter,0
+Tsui Hark,gender,Female,3
+2006 NFL Draft,school,Florida State University,0
+The Biggest Loser,languages,English Language,0
+Golden Reel Award,honored for,Black Robe,2
+MTV Movie Award for Best Breakthrough Performance,nominated for,Superbad,0
+M. Emmet Walsh,gender,Male,0
+Megan Fox,film,Vantage Point,1
+Ricky Martin,award,MTV Video Music Award for Video of the Year,0
+Annie,category,Official Website,1
+Keyboard,instrumentalists,Advertising,3
+President,company,New York Mets,0
+White American,people,Larry Mullen,3
+Ingrid Bergman,participant,Gary Cooper,0
+Soviet Union,combatants,United Kingdom,0
+Italian American,people,Michael Giacchino,0
+Lionsgate Entertainment,child,ThinkFilm,0
+Valencia,month,February,0
+Paul Winfield,film,Cliffhanger,0
+Nicholas Tse,nationality,China,1
+Robert Towne,profession,Film Director,0
+The Blues Brothers,film release region,Spain,0
+Uruguay,form of government,Presidential system,1
+Chinese Civil War,films,The Sand Pebbles,0
+Vietnam War,entity involved,Communism,0
+Jeremy Thomas,profession,Film Producer-GB,0
+St. Trinian's,film crew role,Sound Mixer,0
+Downing College,Cambridge,student,0
+Master's Degree,student,Julianne Moore,1
+You Only Live Twice,country,United Kingdom,0
+Star Wars Episode IV: A New Hope,production companies,Lucasfilm,0
+Jim Broadbent,currency,United States Dollar,1
+Warren Beatty,participant,Halle Berry,0
+Joe Diffie,film release region,Panama,1
+Shirley MacLaine,profession,Author-GB,0
+Denzel Washington,profession,Cinematographer-GB,3
+Harry Potter and the Philosopher's Stone,language,English Language,0
+Star Trek Nemesis,film release region,Pakistan,3
+The Last of the Mohicans,film crew role,Sound Mixer,0
+59th Primetime Emmy Awards,award winner,Spike Lee,0
+Manhattan,contains,Harlem,0
+Funk rock,artists,Chad Hugo,0
+Fordham University,school type,Society of Jesus-GB,0
+Taken 2,genre,Action Film,0
+Warner Music Group,artist,Jane's Addiction,0
+Courtney Love,currency,United States Dollar,0
+My-HiME,genre,Drama,0
+St. Louis Rams,school,Florida State University,0
+Crown of Aragon,capital,Zaragoza,0
+Naseeruddin Shah,gender,Male,0
+Krautrock,artists,Portishead,0
+Televisa,titles,Arrested Development,1
+The Guard,genre,Comedy-GB,0
+Jonny Lee Miller,award,Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series,0
+Norman Mailer,influenced by,William S. Burroughs,0
+Edgar Rice Burroughs,location,Oak Park,0
+Mickey Rourke,film,Iron Man 2,0
+55th Primetime Emmy Awards,honored for,Monk,0
+Bright Star,language,French Language,0
+Resident Evil: Afterlife,currency,United States Dollar,0
+Steven Wilson,nationality,England,0
+Sleepy Hollow,genre,Thriller,0
+Newsreader-GB,company,British Broadcasting Corporation,0
+Saint Joseph,geographic distribution,United States Department of Housing and Urban Development,2
+The Dark Knight,film release region,Lombardy,3
+BAFTA Award for Best Actor in a Supporting Role,nominated for,Adaptation,1
+University of Guelph,major field of study,Fine art,0
+Rock music,artists,Sayonara,3
+Carrie,film release region,Philippines,0
+British people,people,Shirley Ann Russell,0
+Guyana,organization,Commonwealth of Nations,0
+A Prophet,film crew role,Special Effects Supervisor,0
+Vince McMahon,location,Boca Raton,0
+1990 NCAA Men's Division I Basketball Tournament,team,Kansas Jayhawks Men's Basketball,0
+Grammy Award for Best Bluegrass Album,ceremony,36th Annual Grammy Awards,0
+Jerry 'Wonder' Duplessis,film release region,Canada,1
+American Beauty,film festivals,2010 Toronto International Film Festival,0
+Doubt,music,Howard Shore,0
+Ralph E. Winters,gender,Male,0
+The French Connection,film release region,West Germany,0
+Def Leppard,award,MTV Video Music Award for Best Rock Video,0
+Juhi Chawla,profession,Voice Actor,0
+Glen Charles,gender,Female,3
+Saxophone,group,Blood,0
+Xzibit,nationality,United States of America,1
+2 Fast 2 Furious,film release distribution medium,DVD,0
+The Devil's Double,genre,Biographical film,0
+Carla Gugino,nationality,United States of America,0
+Baraka,gender,Male,1
+Rap rock,artists,Joss Stone,1
+Richard Dawkins,production companies,University of California,2
+BAFTA Award for Best Sound,nominated for,La Vie en Rose,0
+Jodie Foster,profession,Actor-GB,1
+Merlin,actor,Isabella Rossellini,0
+Rupert Everett,gender,Male,0
+Thor,adjustment currency,United States Dollar,2
+Grammy Award for Best Southern,Country or Bluegrass Gospel Album,category of,0
+Christian music,artists,Yolanda Adams,0
+Battleground,genre,Drama,0
+Rensselaer County,category,Official Website,0
+Hudson Soft,industry,Video game industry,0
+Drama,titles,Revolutionary Road,0
+48th Annual Grammy Awards,award winner,The White Ribbon,3
+Alfred Newman,nominated for,South Pacific,0
+Poltergeist,film release region,Hong Kong,0
+Ocean Software,industry,Video game industry,3
+BAFTA Award for Best Film,nominated for,The Secret in Their Eyes,3
+Rambo,film release distribution medium,DVD,0
+Boyz II Men,award,Grammy Award for Best R&B Performance by a Duo or Group with Vocals,0
+Decca Records,artist,Jamie Cullum,0
+Toby Emmerich,gender,Male,0
+Peter Stone,religion,Male,2
+Rhys Ifans,profession,Actor-GB,0
+Bachelor of Science,institution,Southern University and A&M College,0
+Watford F.C.,sport,Football player,3
+Road cycling,state province region,Azerbaijan,2
+Jackie Shroff,religion,Hinduism,0
+The Avengers,film release region,Seiyū-GB,3
+Whip It!,film release region,Cambodia,3
+Phoenix,profession,Film Producer-GB,1
+Ice-T,category,Official Website,0
+One Flew Over the Cuckoo's Nest,parent genre,Indie film,2
+The Sweet Hereafter,country,Canada,0
+Marriage,specialization of,Darmstadt,2
+Seven Psychopaths,film release region,Iceland,0
+Hawaii,vacationer,Amy Ryan,3
+My Big Fat Greek Wedding,genre,Comedy of manners,0
+Academy Award for Best Director,award winner,Steven Spielberg,0
+Correspondent-GB,person,Jamie Gangel,0
+Eastern Kentucky University,fraternities and sororities,Alpha Delta Pi,0
+Cambridge,contains,Stanford Graduate School of Business,3
+Fast Five,film crew role,Musician-GB,3
+Eminem,award,Robbie Williams,2
+Yu-Gi-Oh! Duel Monsters GX,country of origin,Confederate States of America,3
+Percussion,group,The Incredible String Band,0
+Percussion,group,Europe,3
+Jim Henson,educational institution,Film Producer-GB,2
+Volver,genre,Comedy-GB,0
+Billie Joe Armstrong,profession,Songwriter-GB,0
+Warner Bros. Records,artist,Jennifer Garner,3
+Dumb & Dumber,music,Todd Rundgren,0
+Ralph Vaughan Williams,company,Oxford,3
+Pork,nutrient,Aspartic acid,0
+I Heart Huckabees,language,French Language,0
+Contact,currency,United States Dollar,0
+The Hurt Locker,film crew role,Special Effects,0
+Stephen Stills,educational institution,United States of America,2
+Marti Noxon,program,Brothers & Sisters,0
+Greek Language,countries within,South Africa,2
+Peter Gallagher,film festivals,Mrs. Parker and the Vicious Circle,2
+In the Loop,film release region,United States of America,0
+George J. Folsey,gender,Male,0
+Shrek Forever After,prequel,Shrek,0
+Nikola Tesla,location,Paris,0
+Bee Gees,award,Grammy Award for Best Music Film,3
+Codemasters,industry,Video game,0
+Curling,country,Norway,0
+Academy Award for Best Original Screenplay,nominated for,The Barbarian Invasions,0
+Georgia Institute of Technology,major field of study,Biochemistry,3
+Art punk,parent genre,Rock music,1
+Salman Rushdie,influenced by,Joseph Conrad,0
+52nd Annual Grammy Awards-US,award winner,Sammo Hung,3
+Rob Lowe,profession,Television producer-GB,0
+Lagaan: Once Upon a Time in India,film production design by,Hrishikesh Mukherjee,3
+Road cycling,country,India,1
+Mohamed Kallon,location of ceremony,Freetown,0
+Razzie Award for Worst Picture,nominated for,The Pirate Movie,0
+Michael Caine,film,Get Carter,0
+Germans,people,Albert Einstein,0
+Boston Celtics,position,Centerman,1
+The Go-Between-GB,music,Georges Delerue,3
+Rise of the Planet of the Apes,film regional debut venue,Cannes Film Festival,1
+Presidential Medal of Freedom,award winner,Andy Griffith,0
+Prem Nath,educational institution,Actor-GB,2
+Emma Thompson,award,British Independent Film Award for Best Actress,0
+Sting,gender,Male,0
+Heavy metal,music,Iron Maiden,2
+Cleopatra,genre,Romance Film,0
+Howard Gordon,gender,Male,0
+Werner Stengel,profession,Engineer-GB,0
+Dance music,artists,The Black Eyed Peas,0
+Itzhak Perlman,nationality,Israel,0
+University of Virginia,major field of study,Medicine,0
+Preston North End F.C.,film format,Super 35,1
+The Girl with the Dragon Tattoo,currency,101st United States Congress,3
+Vienna,month,October,0
+14th Satellite Awards,award winner,Public Broadcasting Service,0
+9th United States Congress,district represented,Virginia Woolf,3
+Master of Arts,major field of study,Business Administration,0
+Victoria Beckham,award,BAFTA Award for Best Original Screenplay,3
+University of Karachi,educational institution,University of Karachi,0
+Peter Pan,currency,United States Dollar,0
+Folk music,artists,Warren Zevon,0
+Washington Redskins,school,Auburn University,0
+The Lord of the Rings: The Fellowship of the Ring,film release region,Germany,0
+Jonathan Demme,award nominee,Independent Spirit Award for Best Director,2
+Operation Barbarossa,locations,Moldova,0
+Richard A. Baker,nationality,United States of America,0
+I,produced by,Jack Giarraputo,1
+James Poyser,role,handclaps,0
+Chris Rock,profession,Actor-GB,0
+Poltergeist,film release region,West Germany,0
+Tabriz,category,Official Website,0
+Paraguay national football team,team,Atalanta B.C.,2
+Georgia Institute of Technology,category,Interactive Advertising Bureau,3
+Big Fish,currency,United States Dollar,0
+Peter Lawford,location,Sydney,1
+Drum machine,instrumentalists,Lil Jon,0
+Ice Age,film release region,Hungary,3
+Cambodia,olympics,2000 Summer Olympics,1
+43rd Annual Grammy Awards,award,Eminem,2
+Superman IV: The Quest For Peace,genre,Science Fiction,0
+Washington Nationals,season,2006 Major League Baseball season,0
+James Poyser,role,Celesta,0
+Grammy Award for Best Country Performance by a Duo or Group with Vocal,ceremony,43rd Annual Grammy Awards,1
+Judas Priest,award,Grammy Award for Best Hard Rock Performance,0
+Mike Judge,currency,United States Dollar,0
+Academy Award for Best Writing Adapted Screenplay,nominated for,Munich,0
+The Expendables 2,film release distribution medium,Television,1
+10th Screen Actors Guild Awards,award winner,Rainn Wilson,0
+Yann Tiersen,role,Synthesizer,0
+Braveheart,genre,Film adaptation,3
+David Krumholtz,influenced by,William S. Burroughs,1
+World War II,films,The Bridge on the River Kwai,0
+The Muppet Movie,genre,Adventure Film,0
+Samuel M. Comer,gender,Male,0
+Miguel Ferrer,profession,Television Director,1
+1997 Major League Baseball Draft,school,Stetson University,0
+Palme d'Or,award winner,Francis Ford Coppola,0
+Cloud Atlas,film release region,Chile,0
+Ben Harper,category,Official Website,0
+Bernie Brillstein,producer type,Animation Director,3
+Marathi Language,countries spoken in,India,0
+Small forward,team,Utah Jazz,0
+Clarinet,performance role,String instrument,1
+Boaz Myhill,profession,Football player,0
+Bachelor of Fine Arts,major field of study,Performing arts,1
+Rutgers University,school type,Public university,0
+The Shawshank Redemption,film regional debut venue,Toronto International Film Festival,0
+PepsiCo,place founded,New York City,0
+Country rock,artists,Dire Straits,0
+Buffy the Vampire Slayer,genre,Romance Film,3
+Halloween,country,United States of America,0
+Cast Away,film release region,Hong Kong,1
+11th Satellite Awards,honored for,Superman,0
+Nora Ephron,profession,Playwright-GB,0
+Christoph Waltz,nationality,Austria,0
+New York University,student,Charles B. Rangel,0
+Ice Age,film release region,Seiyū-GB,3
+Steel guitar,group,Korn,3
+Columbia Pictures,artist,Lauryn Hill,1
+Austria,olympics,1908 Summer Olympics,0
+Walter Wanger,location of ceremony,Phoenix,0
+Justin Timberlake,role,Tenor-GB,0
+Glen Morgan,nationality,United States of America,0
+Brad Garrett,award,Primetime Emmy Award for Outstanding Writing - Comedy Series,1
+Argentina,administrative division,Earth,2
+Meningitis,risk factors,Chemotherapy,0
+Harry Belafonte,award,Latin Grammy Award for Album of the Year,3
+Jorge Luis Borges,influenced by,Gottfried Wilhelm von Leibniz,0
+University of Kiel,colors,Purple,0
+Barry Pepper,film,Flags of Our Fathers,0
+The Larry Sanders Show,film crew role,Dialogue Editor,1
+Harmonica,instrumentalists,Devin Townsend,1
+Sidney Sussex College,Cambridge,Bedknobs and Broomsticks,3
+107th United States Congress,district represented,West Virginia,0
+Steve Jordan,nationality,United States of America,0
+Power pop,parent genre,Dance music,3
+Period piece,titles,Lagaan: Once Upon a Time in India,3
+Primetime Emmy Award for Outstanding Drama Series,nominated for,The Waltons,0
+Hilary Swank,film,The Black Dahlia,0
+Julia Roberts,profession,Actor-GB,0
+BAFTA Award for Best Film,honored for,The Third Man,2
+Fat Possum Records,role,Organ,1
+SCE Studio Liverpool,citytown,Merseybeat,3
+Kenichi Ogata,special performance type,Mangaka-GB,3
+Academy Award for Best Original Music Score,category of,Academy Awards,0
+Anaheim,teams,Los Angeles Angels of Anaheim,0
+Election,film release region,Spain,0
+Crazy in Alabama,film release distribution medium,DVD,1
+Katie Holmes,gender,Female,1
+Anne Rice,influenced by,Jean-Jacques Goldman,3
+15th Screen Actors Guild Awards,honored for,John Quincy Adams,3
+Zero Dark Thirty,parent genre,Thriller,2
+Sienna Miller,film,Alfie,0
+John Lennon,produced by,Jack Kerouac,2
+Jazz-funk,artists,Little Feat,0
+Tom Berenger,profession,Television producer-GB,0
+Dead Man Walking,executive produced by,Tim Bevan,0
+Joshua Homme,role,Bass,0
+Bob Dylan,category,Official Website,0
+Bob Geldof,profession,Actor-GB,0
+Eragon,film crew role,Visual Effects Art Director,0
+Comedy-GB,titles,Bruce Almighty,0
+Albemarle County,contains,Lexington city,0
+BAFTA Award for Best Actor in a Supporting Role,nominated for,A Single Man,1
+The Impossible,language,Danish Language,3
+Peter Krause,film,Twilight,1
+61st Primetime Emmy Awards,award winner,Dan Castellaneta,0
+Jamie Foxx,award,Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture,0
+Televisa,films,Scary Movie 3,1
+George Fenton,gender,Male,0
+Benin,organization,United Nations,0
+Pneumonia,people,Carl Sagan,0
+Seychelles,official language,English Language,0
+Isaac Stern,nationality,Confederate States of America,3
+Folk music,artists,Ringo Starr,1
+Steve Martin,profession,Writer-GB,0
+Academy Award for Best Writing Adapted Screenplay,nominated for,Brokeback Mountain,0
+Rock and roll,artists,Phil Collins,0
+Vermont,religion,Catholicism,0
+Will Forte,team,Doncaster Rovers F.C.,1
+Rugrats,actor,Debbie Reynolds,0
+Electronic dance music,artists,Everything but the Girl,1
+Artistic gymnastics,country,Israel,0
+Peking University,school type,National university,0
+Laraine Day,religion,Female,2
+Law degree,institution,University of Michigan Law School,0
+Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Leading Role,nominated for,Julie & Julia,0
+Los Angeles Lakers,season,2006 Major League Baseball season,1
+Colleen Dewhurst,location,Shreveport,1
+Rhythm and blues,artists,Klaus Voormann,0
+Carlos Ruiz,gender,Male,1
+The Hunger Games,film release distribution medium,Austria,2
+Cory Doctorow,honored for,The Sound of Music,1
+Academy Award for Best Picture,nominated for,Chocolat,0
+Sandra Bernhard,location,Los Angeles,0
+Contiguous United States,time zones,Eastern Time Zone,3
+Wales,contains,Carmarthen,0
+Janis Joplin,profession,Actor-GB,0
+H. P. Lovecraft,influenced by,H. H. Asquith,3
+Eva Longoria,languages,Spanish Language,0
+University of Louisiana at Monroe,category,Official Website,0
+Richard Fleischer,nationality,United States of America,0
+Angela's Ashes,country,Germany,1
+Bob Roberts,country,United States of America,0
+Yakima,time zones,Pacific Time Zone,1
+President,company,Hewlett-Packard,0
+It,film release region,Bulgaria,1
+Hamlet,country,United States Virgin Islands,3
+Jonathan Frakes,type of union,Marriage,0
+Florida State University,student,Jim Morrison,0
+Master of Science,student,Carl Sagan,0
+Hugo Weaving,location,Brighton,0
+Primetime Emmy Award for Outstanding Comedy Series,nominated for,Everyone Says I Love You,3
+Melissa Joan Hart,nationality,Catholicism,2
+We Have a Pope,film release region,Austria,3
+Simon Property Group,service language,English Language,0
+Irving,category,Official Website,0
+Tim Roth,gender,Male,0
+Catherine O'Hara,film,Orange County,0
+Hollywood High School,state province region,California,0
+Lesotho,form of government,Unitary state,0
+Memento,genre,Crime Fiction,0
+The Wonders,cinematography,Tak Fujimoto,0
+Vampire,titles,From Dusk till Dawn,0
+Punch-Drunk Love,genre,Adventure Film,3
+Courtney Love,educational institution,United States of America,2
+Dreamgirls,film,Visual Effects,2
+Academy Award for Best Actress,nominated for,Good Will Hunting,1
+Cry Freedom,country,South Africa,0
+Alastair Reynolds,film,The Golden Compass,1
+Bachelor of Arts,student,Harvey Fierstein,0
+Bachelor's degree,student,Robert Gates,0
+Anthony Adverse,location,Salt Lake City,1
+Alyson Hannigan,film,American Pie 2,0
+Jim Carrey,award,Grammy Award for Song of the Year,1
+Arkansas,contains,Hot Springs,0
+Back to the Future Part II,genre,Science Fiction,0
+Washington,contains,Grays Harbor County,0
+Graham Gouldman,film release distribution medium,DVD,1
+Lauren Tom,gender,Male,3
+Hard rock,artists,Stevie Nicks,0
+George James Hopkins,location,Pasadena,0
+Charles Stross,influenced by,Vernor Vinge,0
+Acoustic guitar,role,Oud,0
+Academy Award for Best Actress in a Supporting Role,award,Maureen Stapleton,2
+Fritz Leiber,profession,Writer-GB,0
+Stanford University,major field of study,Law,1
+Keith David,educational institution,Voice Actor,2
+Bengali Hindus,languages spoken,Gujarati Language,3
+Stephen Fry,award,Tony Award for Best Revival of a Musical,3
+Algeria,medal,Bronze medal,0
+Terror in the Aisles,film crew role,Makeup Artist-GB,1
+George Stevens,gender,Male,0
+African American,person,S. Epatha Merkerson,2
+Richard Harris,award,Primetime Emmy Award for Outstanding Lead Actor - Miniseries or a Movie,0
+Gary Goetzman,nationality,United States of America,1
+Jazz rap,parent genre,Jazz,0
+Nico,group,The Pink Panther,3
+27th United States Congress,district represented,Louisiana,0
+Phineas and Ferb,actor,Ashley Tisdale,0
+Lycoming County,adjustment currency,United States Dollar,2
+Roy Wood,origin,Birmingham,0
+Rip Torn,film,Mighty Aphrodite,3
+Master of Arts,major field of study,Political Science,0
+Ingmar Bergman,influenced by,August Strindberg,0
+Steve Howe,type of union,Marriage,0
+Henry Corden,gender,Male,0
+Seattle,month,June,3
+Elektra,production companies,Marvel Entertainment,0
+Will Ferrell,award,MTV Video Music Award for Best Choreography,1
+Experimental rock,music,Wilco,2
+Antigua and Barbuda national football team,country,Australia,1
+Hip hop music,music,Nas,2
+Fast Food Nation,film release region,Israel,0
+Death metal,artists,Sepultura,0
+Razzie Award for Worst Supporting Actress,nominated for,The Pirate Movie,1
+Stephen McHattie,nationality,Canada,0
+Grammy Award for Best Traditional Pop Vocal Album,location of ceremony,48th Annual Grammy Awards,2
+Luxembourg,olympics,2006 Winter Olympics,1
+Bruce McGill,gender,Male,0
+Men in Black,film crew role,Art Director,0
+The Mary Tyler Moore Show,languages,English Language,0
+Addams Family Values,genre,Black,3
+Tim McGraw,location,Jacksonville,0
+Abilene Christian University,registering agency,Internal Revenue Service,0
+Oprah Winfrey,film,EDtv,1
+Tennis,country,Slovenia,0
+DodgeBall: A True Underdog Story,country,United States of America,0
+Costa Rica,specialization of,Presidential system,2
+Hard rock,artists,Eric Burdon,0
+BAFTA Award for Best Actress in a Supporting Role,nominated for,The Ultimate Fighter,3
+Shinichiro Miki,profession,Comedian,1
+BAFTA Award for Best Direction,nominated for,The French Lieutenant's Woman,0
+The Colour of Magic,film crew role,Sound Re-Recording Mixer-GB,0
+Academy Award for Best Film Editing,nominated for,Mutiny on the Bounty,0
+Kevin Smith,profession,Actor-GB,0
+United States of America,contains,Pompano Beach,0
+Alfre Woodard,profession,Actor-GB,0
+Kingdom of Italy,capital,Rome,0
+Touchstone Pictures,film,Soviet Air Forces,3
+Charlotte Bobcats,film,Hercules,1
+Adrien Brody,film festivals,The Thin Red Line,2
+Match Point,country,United Kingdom,0
+Santa Clara University,major field of study,Physics,0
+World music,artists,Bobby McFerrin,0
+Standing in the Shadows of Motown,featured film locations,Detroit Tigers,3
+National Society of Film Critics Award for Best Actor,nominated for,Do the Right Thing,3
+The Lorax,film release region,Pakistan,0
+Downfall,film release region,United States of America,0
+Elaine May,award,Academy Award for Best Writing Adapted Screenplay,0
+Shirley MacLaine,award,National Society of Film Critics Award for Best Supporting Actress,3
+Pixies,category,Official Website,0
+Alternative metal,artists,Soundgarden,0
+Big Fish,crewmember,Kevin O'Connell,0
+Alan Cumming,film,Spy Kids,0
+Edwin B. Willis,film sets designed,Mrs. Miniver,0
+American Graffiti,film release region,Sweden,0
+Maryland,religion,Christianity,3
+Dexter,genre,Crime Fiction,0
+City University of New York,school type,Public university,0
+Grover Cleveland,place of death,Princeton,0
+Lisa Kudrow,profession,Television producer-GB,0
+Red Cliff,film crew role,Visual Effects,0
+61st Primetime Emmy Awards,award winner,Peter Dinklage,1
+Anne Hathaway,award,Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Supporting Role,3
+Dave Matthews,special performance type,Cameo appearance,1
+Total Recall,film release region,Philippines,0
+Unstoppable,genre,Western,1
+Arthur Christmas,film release distribution medium,Poland,2
+Stephen Dillane,award nominee,Miguel Sandoval,0
+Chris Paul,team,Minnesota Golden Gophers men's basketball,3
+Chairman,company,Warner Music Group,0
+Douglas Adams,influenced by,Charles Dickens,0
+The Edge of Night,genre,Crime Fiction,0
+Toy Story 2,film release region,Belgium,1
+The Andy Griffith Show,genre,Sitcom,0
+Christopher Cross,nationality,United States of America,0
+Dany Heatley,team,Atlanta Thrashers,0
+Lalo Schifrin,profession,Conductor,0
+Linda Ronstadt,gender,Female,0
+Garage punk,parent genre,Psychobilly,0
+FilmFlex,film,The Parent Trap,0
+Pop music,artists,Ashley Tisdale,0
+Frank Capra,profession,Film,3
+Goya Award for Best Director,nominated for,Pan's Labyrinth,0
+Donald Sumpter,profession,Actor-GB,1
+Indiana Jones and the Kingdom of the Crystal Skull,contact category,Official Website,2
+Murder on the Orient Express,genre,Drama,1
+Patrizia von Brandenstein,film,Shutter Island,1
+Pop music,artists,The-Dream,0
+Academy Award for Best Actress,nominated for,Titanic,0
+Joe Pesci,award winner,Eddie Redmayne,0
+Michael Chapman,profession,Film Director,0
+Milan,month,January,0
+Fred Zinnemann,profession,Film Director,0
+Bruce Willis,film,The Sting,3
+Comedy-GB,titles,The Flintstones in Viva Rock Vegas,0
+Serj Tankian,type of union,Marriage,0
+Christopher Columbus,taxonomy,Library of Congress Classification,0
+Stargate Atlantis,country of origin,United States of America,0
+Guitar,instrumentalists,Peter Tork,0
+Erykah Badu,type of union,Domestic partnership,0
+Jamie Cullum,role,Percussion,0
+Piedmont,vacationer,Heath Ledger,1
+Ulysses' Gaze,country,Serbia,3
+The Weinstein Company,film,Sicko,0
+Writers Guild of America Awards 2007,honored for,Juno,0
+Wesleyan University,school,Dana Delany,2
+AWA All-Star Wrestling,country of origin,United States of America,0
+Ice Age,film release distribution medium,Czech Republic,2
+Elliott Smith,award,Academy Award for Best Original Song,0
+Nagarjuna,location,Hyderabad,0
+Ukrainian SSR,contains,Kiev,0
+Professional Children's School,registering agency,Internal Revenue Service,0
+Iraq,form of government,Parliamentary system,0
+Primetime Emmy Award for Outstanding Lead Actor - Drama Series,ceremony,54th Primetime Emmy Awards,0
+Hellboy,film release region,Czech Republic,0
+Queen Mary,University of London,category,0
+Haim Saban,profession,Screenwriter,0
+Letters from Iwo Jima,film crew role,Special Effects Supervisor,0
+Ukulele,role,Percussion,1
+Dane Cook,religion,Catholicism,0
+King Records,artist,John Dingell,3
+The Butterfly Effect,film release distribution medium,Video,0
+Capsicum,nutrient,A Dangerous Method,3
+Bill Payne,place of birth,Waco,0
+Arizona,currency,United States Dollar,0
+Hong Kong Film Award for Best Supporting Actor,award winner,Eric Tsang,0
+Bachelor of Arts,school,Utpal Dutt,2
+Chairman,company,University of Pennsylvania,1
+Marriage,location of ceremony,Halle,0
+Uzbekistan,form of government,Presidential system,0
+Terrorism,films,World Trade Center,0
+Spartacus,film release distribution medium,Television,0
+Alice,award winner,Danny Huston,3
+Ravi Shankar,languages,Bengali Language,0
+Razzie Award for Worst Screenplay,award winner,Bruce Cohen,0
+Porco Rosso,country,Japan,0
+Sunderland A.F.C.,service location,United Kingdom,0
+Writers Guild of America Awards 2007,honored for,Mad Men,0
+Bury My Heart at Wounded Knee,producer type,Executive Producer,0
+Seth MacFarlane,profession,Actor-GB,1
+The Help,film release region,Kuwait,0
+Greta Scacchi,type of union,Marriage,0
+Happy Gilmore,film release region,Sweden,0
+White American,languages spoken,Arabic Language,0
+Rowing,country,Zimbabwe,0
+Walt Disney Pictures,nominated for,Pearl Jam,3
+1996 Summer Olympics,sports,Michael Crichton,3
+Citadel Broadcasting,citytown,Las Vegas,0
+Iran,organization,United Nations,0
+Sacramento,dog breed,GoldenEye,3
+Christopher Lloyd,nominated for,Modern Family,0
+Rust and Bone,film crew role,Makeup Artist-GB,0
+Dance music,artists,P!nk,0
+Grenada,organization,World Bank,0
+BAFTA Award for Best Film,nominated for,Moulin Rouge!,0
+Simran,languages,Punjabi language,0
+Monty Python and the Holy Grail,film release region,Greece,0
+Mila Kunis,month,November,1
+Harvey Fierstein,religion,Judaism-GB,0
+Julie Andrews,award,Primetime Emmy Award for Outstanding Lead Actor - Miniseries or a Movie,3
+Razzie Award for Worst Actor,nominated for,Flash Gordon,0
+North Carolina,religion,Protestantism,0
+Levon Helm,gender,Male,0
+Monsters,Inc.,film release region,0
+Gran Torino,film crew role,Special Effects Supervisor,0
+106th United States Congress,legislative sessions,92nd United States Congress,0
+63rd Primetime Emmy Awards,award winner,Rebecca Eaton,0
+Kung Fu Panda,film release region,Livonia,3
+Academy Award for Best Costume Design,nominated for,The Piano,0
+Fringe,genre,Mystery,0
+Alfre Woodard,award nominee,Jean Passanante,3
+Blow,currency,United States Dollar,0
+Doom metal,film release region,Panama,1
+Jazz,instrumentalists,Ralph Burns,1
+Mauritania,time zones,Central European Time Zone-US,1
+Television,titles,Oz,0
+Academy Award for Best Film Editing,ceremony,64th Academy Awards,0
+University of Central Florida,campuses,University of Florida,3
+Sierra Entertainment,industry,Video game industry,0
+Lebanese American,geographic distribution,New York,0
+Franklin D. Roosevelt,gender,Male,0
+The Lovely Bones,music,Brian Eno,0
+France,partially contains,The Louvre,2
+Chiwetel Ejiofor,award nominee,Alan Bennett,3
+2004 NBA draft,school,University of Connecticut,0
+Jet Li,type of union,Marriage,0
+Keith Carradine,location of ceremony,Vicenza,3
+Young Adam,film release region,Nazi Germany,3
+Shreeram Lagoo,profession,Actor-GB,0
+Eritrea,administrative parent,Earth,0
+Steven Levitan,type of union,Marriage,0
+Coming to America,parent genre,Comedy of manners,2
+Thomas Dekker,place of birth,Houston,1
+Goya Award for Best Director,nominated for,The Secret in Their Eyes,0
+Primetime Emmy Award for Outstanding Writing - Drama Series,award winner,Matthew Weiner,0
+Golden State Warriors,school,Florida State University,0
+Mandolin,instrumentalists,Karl Urban,3
+Futurama,producer type,Executive Producer,0
+Nobel Prize in Physics,award winner,Richard Feynman,0
+Christopher Whitesell,award,BFCA Critics' Choice Award for Best Comedy,1
+Gustavo Cerati,profession,Singer-songwriter-GB,0
+The Unbearable Lightness of Being,language,English Language,0
+Nick Park,nationality,England,0
+Danny Trejo,type of union,The Gay Divorcee,3
+Pop music,artists,Justin Bieber,0
+Televisa,titles,The Wire,1
+Gene Hackman,gender,Male,1
+Easy Rider,film release region,Taiwan,3
+Paul Reubens,profession,Voice Actor,0
+University of Cambridge,major field of study,Management,0
+Meet the Fockers,language,Spanish Language,0
+Frank Sinatra,award,Academy Award for Best Actress in a Supporting Role,3
+Kristen Wiig,film festivals,Ice Age: Dawn of the Dinosaurs,2
+Jeffrey Combs,type of union,Marriage,0
+Handball,film release region,Finland,1
+Academy Award for Best Original Screenplay,ceremony,50th Academy Awards,0
+Honduras,organization,League of Nations,0
+Tobey Maguire,film festivals,Fear and Loathing in Las Vegas,2
+Judo,country,New Zealand,0
+Vanderbilt University,contact category,Technical Support,0
+University of Louisville,colors,Purple,1
+20th Century Fox,film,The Wonders,0
+Busta Rhymes,award,Grammy Award for Best Rap Solo Performance,0
+Washington and Lee University,school type,Private school,0
+Vinod Khanna,award,Filmfare Award for Best Actor,0
+Attack the Block,film release region,Greece,0
+MTV Movie Award for Best Movie,nominated for,The Truman Show,0
+Newsreader-GB,company,MSNBC,0
+BAFTA Award for Best Film Music,nominated for,Hugo,0
+University of Alabama,fraternities and sororities,Alpha Delta Pi,0
+Wedding Crashers,currency,101st United States Congress,3
+Bird,film release region,Western Australia,3
+MTV Movie Award for Best Breakthrough Performance,nominated for,Knocked Up,0
+Los Angeles,contains,Northridge,0
+John Dingell,legislative sessions,92nd United States Congress,0
+vocoder,instrumentalists,Jonny Greenwood,1
+The Flintstones in Viva Rock Vegas,company,Amblin Entertainment,2
+Master's Degree,major field of study,Public policy,0
+Martin Scorsese,award,Academy Award for Best Picture,0
+BAFTA Award for Best Editing,nominated for,Carnage,3
+Australia,featured film locations,Darwin,0
+Academy Award for Best Actor,nominated for,Guess Who's Coming to Dinner,0
+Cars,film release distribution medium,Germany,2
+CBS,artist,Duke Ellington,3
+Chuck Berry,nationality,United States of America,0
+Dumb & Dumber,genre,Comedy-GB,0
+Hugo,film release region,Sweden,0
+Timothy Spall,film,Harry Potter and the Goblet of Fire,0
+15th Critics' Choice Awards,award winner,Kevin Bacon,0
+Anthony Mackie,film,She Hate Me,0
+BAFTA Award for Best Film Music,nominated for,Titanic,0
+The Dictator,person,Bill Clinton,3
+British Independent Film Award for Best Supporting Actress,nominated for,Mrs Henderson Presents,0
+Valkyrie,film distribution medium,Streaming media,1
+Gambia,organization,Central African Republic,3
+How the West Was Won,genre,Action Film,0
+Aidan Gillen,film,Looney Tunes: Back in Action,1
+Autoharp,group,The Incredible String Band,0
+Pop rock,artists,Joe Haldeman,3
+Madchester,parent genre,Garage rock,0
+Arthur C. Clarke Award,disciplines or subjects,Science,3
+Richard Branson,film,Around the World in 80 Days,0
+Public administration,award winner,BBC News,1
+Robert Vaughn,film,Superman III,0
+Academy Award for Best Costume Design,nominated for,The Elephant Man,0
+Marketing-GB,student,Eva Mendes,0
+51st Annual Grammy Awards-US,award winner,James Newton Howard,0
+Mrs. Miniver,film crew role,Sound Mixer,1
+67th Golden Globe Awards,honored for,The Good Wife,0
+Richard Pryor,place of death,Encino,0
+Jennifer Coolidge,nationality,Confederate States of America,3
+Screen Actors Guild Life Achievement Award,award winner,Barbara Stanwyck,0
+Doctorate,institution,Newnham College,0
+Kill Bill Volume 1,film crew role,Visual Effects Supervisor,0
+Catherine Deneuve,languages,English Language,0
+Uruguay national football team,administrative division,Midfielder,2
+The Wolfman,film crew role,Makeup Artist-GB,0
+RoboCop,genre,Thriller,0
+The Day After Tomorrow,parent genre,Drama,2
+Adrien Brody,film festivals,Fantastic Mr. Fox,2
+The Wolfman,executive produced by,Ryan Kavanaugh,0
+32nd Academy Awards,award winner,Hugh Hunt,0
+Any Given Sunday,film crew role,Dialogue Editor,0
+Doctor of Medicine,major field of study,Medicine,0
+The Jackal,featured film locations,Montreal,0
+Pink Floyd,award nominee,MTV Video Music Award for Best Cinematography,2
+A Bridge Too Far,genre,War film,0
+Dance-pop,artists,David Guetta,0
+Harmonica,instrumentalists,Donovan,1
+Philip Yordan,profession,Film Producer-GB,0
+Data East,film,San Jose,2
+Jean Louis,place of death,Palm Springs,0
+Eastern Front,combatants,Soviet Union,0
+Chief Marketing Officer,company,Merck & Co.,0
+David Lean,award,BAFTA Award for Best Original Screenplay,3
+38th People's Choice Awards,honored for,Green Lantern,0
+Jon Lovitz,role,Timpani,1
+Cape Fear,film release distribution medium,VHS,3
+Television Hall of Fame,inductee,Jack Nicholson,3
+Kevin Dunn,film,Unstoppable,0
+Thomas Haden Church,award,Academy Award for Best Actor in a Supporting Role,0
+Art rock,artists,Thom Yorke,0
+Coconut milk,nutrient,Choline,3
+Thomas McCarthy,award,Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture,0
+Chicago Bears,school,Purdue University,0
+Peter Gabriel,category,Official Website,1
+The Lorax,music,John Powell,0
+Feminism,films,Far from Heaven,1
+Coriolanus,written by,John Logan,0
+Jim Carrey,profession,Comedian,0
+Jack Nicholson,award nominee,Shea Whigham,1
+Tracey Ullman,film,Platoon,3
+Symphonic metal,parent genre,Gothic metal,0
+Second baseman,team,Kansas City Royals,0
+Fabolous,nationality,United States of America,0
+Richard Jenkins,film,I Heart Huckabees,0
+Robert Forster,category,Official Website,0
+Baton Rouge,contains,Louisiana State University,0
+The Real World,specialization of,United States of America,2
+Academy Award for Best Actor,nominated for,A Single Man,0
+Ty Burrell,award winner,Julie Bowen,0
+Albert Nobbs,film release region,Australia,0
+Harmonica,role,Steel guitar,0
+Morgan Freeman,award,MTV Movie Award for Best On-Screen Duo,0
+63rd Primetime Emmy Awards,honored for,South Park,1
+Daytime Emmy Award for Outstanding Lead Actor in a Drama Series,nominated for,Another World,0
+Middlesex University,school type,University,0
+Stanford University,major field of study,History,1
+Rock music,artists,Talking Heads,0
+Tanzania,taxonomy,Library of Congress Classification,0
+Casino Royale,film crew role,Visual Effects,3
+Sacramento Kings,school,University of Louisville,0
+Memphis Grizzlies,sport,Basketball,0
+A Prophet,film format,35 mm film,0
+Bachelor's degree,institution,University of Pennsylvania,3
+The Nightmare Before Christmas,language,English Language,0
+Penn Jillette,program,Hollywood Squares,0
+Viola,organization,Nick Cave and the Bad Seeds,2
+The History Channel,award winner,Channel 4,0
+San Francisco State University,major field of study,Computer Science,0
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,film release region,Canada,0
+Italian American,people,Steve Buscemi,0
+Columbia University,student,Sean Lennon,0
+Indian people,people,Shakti Kapoor,0
+Metallica,award,Grammy Award for Best Rock Song,0
+David Bowie,film,Twin Peaks: Fire Walk With Me,0
+Georgia,religion,Baptists,0
+RoboCop,film crew role,Visual Effects,1
+Charlie Kaufman,award,Independent Spirit Award for Best Screenplay,0
+Master's Degree,institution,Bowling Green State University,0
+Australia,olympics,1956 Summer Olympics,0
+Producers Guild of America Award for Best Theatrical Motion Picture,nominated for,Walk the Line,0
+1932 Summer Olympics,participating countries,Taiwan,1
+Metropolis,film festivals,1989 Berlin International Film Festival,0
+NYPD Blue,award winner,Mark Tinker,0
+Peter Riegert,profession,Actor-GB,0
+Rock music,artists,Matt Chamberlain,0
+Chief Financial Officer-GB,company,Cumulus Media,0
+North Carolina,religion,Seventh-day Adventist Church,0
+Atonement,film release region,South Korea,1
+1984 Summer Olympics,sports,Track and field athletics,0
+Cheese,nutrient,Threonine,1
+The Lives of a Bengal Lancer,costume design by,Travis Banton,0
+Steve Coogan,film,Hot Fuzz,0
+Road cycling,country,Algiers,3
+Alexander Golitzen,type of union,The Gay Divorcee,3
+Billy Wilder,gender,Female,3
+Lufthansa,service location,China,0
+Sikh,languages,Swahili Language,2
+David Duchovny,religion,Male,2
+Intelligent dance music,parent genre,Electronic dance music,0
+National Treasure: Book of Secrets,genre,Mystery,0
+80th Academy Awards,award winner,Cesar Romero,3
+United Kingdom,contains,Pontefract,0
+Massachusetts Institute of Technology,major field of study,Biology,0
+Election,film release region,Ancient Greece,3
+The Ghost Writer,film crew role,Visual Effects Supervisor,0
+Julie Andrews,film festivals,Enchanted,2
+Jefferson Airplane,category,Interactive Advertising Bureau,3
+Miguel Sandoval,award,Academy Award for  Best Animated Feature Film,1
+Total Recall,film release region,Ukraine,0
+A Separation,film release region,Hong Kong,1
+PhD,major field of study,Mechanical Engineering,0
+State University of New York at Purchase,colors,Betty White,3
+Seiyū-GB,titles,Everyone Says I Love You,1
+Ocean's Eleven,executive produced by,Bruce Berman,0
+Maurice Gibb,profession,Record producer-GB,0
+Monash University,school type,Public university,0
+Jacob Zuma,gender,Male,0
+Jay Leno,profession,Screenwriter,1
+Cloris Leachman,profession,Comedian,0
+S.C. Braga,sport,Football,0
+Broccoli,nutrient,Oleic acid,3
+Mary-Louise Parker,type of union,Domestic partnership,0
+X-Men,film crew role,Special Effects,0
+Moline,time zones,Eastern Time Zone,3
+Producers Guild of America Award for Best Theatrical Motion Picture,nominated for,Toy Story 2,3
+Venezuela,organization,League of Nations,0
+Robert Wachtel,gender,Male,1
+Cloud Atlas,film release region,Israel,0
+Nevada,category,Official Website,0
+Anthony Mackie,award,Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture,0
+Christopher Hitchens,influenced by,Vladimir Lenin,0
+Carlton Cuse,award,Primetime Emmy Award for Outstanding Writing - Comedy Series,3
+Marriage,specialization of,Nevada,2
+Bret Michaels,profession,Screenwriter,1
+Saturn Award for Best Actor,nominated for,The Truman Show,0
+University of York,major field of study,Politics,0
+Eurasia,contains,Faroe Islands,0
+Reed College,major field of study,Philosophy,0
+Andrew Gold,role,Clavinet,0
+Peter Jackson,profession,Actor-GB,0
+Broadcast Film Critics Association Award for Best Cast,nominated for,The Rose,3
+Rock music,artists,Julieta Venegas,0
+Jerry Garcia,educational institution,Musician-GB,2
+Planet of the Apes,cinematography,Philippe Rousselot,0
+Los Angeles Film Critics Association Award for Best Actress,award winner,Sesame Street,3
+BAFTA Award for Best Actor in a Leading Role,nominated for,The Pianist,0
+Craig Barron,religion,Male,2
+Essex County,time zones,Eastern Time Zone,0
+Herbert Lom,award,Razzie Award for Worst Supporting Actor,0
+Bachelor of Arts,institution,Wake Forest University,0
+Mel Brooks,influenced by,Bob Hope,0
+Giant,list,National Film Registry,0
+Richard Sylbert,profession,Production Designer,0
+Teen pop,artists,Christina Aguilera,0
+Nicolas Cage,award,Razzie Award for Worst Picture,0
+Native Americans in the United States,languages spoken,American English,0
+Alan Oppenheimer,place of birth,New York City,1
+Swing music,artists,Jamie Gangel,3
+Detroit Tigers,school,California State University,0
+Sony Pictures Entertainment,award,Tony Award for Best Musical,0
+ANTI‐,artist,Nick Cave and the Bad Seeds,0
+Saul Rubinek,profession,Actor-GB,0
+Transformers,film release region,Venezuela,0
+Baylor University,category,Official Website,0
+Roy Kinnear,nationality,United States of America,1
+The Dreamers,film distribution medium,VHS,1
+The Gay Divorcee,location of ceremony,Fort Smith,1
+Holes,film crew role,Writer-GB,3
+Albert Brooks,award,Broadcast Film Critics Association Award for Best Supporting Actor,0
+Drive,featured film locations,Los Angeles,1
+20th Century Fox,contact category,Customer service,0
+Kingdom of Heaven,country,United Kingdom,0
+1980 Winter Olympics,participating countries,Romania,0
+David Foster Wallace,profession,Professor-GB,0
+MTV Movie Award for Best Fight,nominated for,Hellboy II: The Golden Army,0
+18th United States Congress,district represented,Maryland,0
+Marriage,location of ceremony,Prague,0
+Tyler Perry,award,MTV Movie Award for Best Comedic Performance,0
+Aleksandr Pushkin,nationality,Austria-Hungary,1
+University of Cambridge,student,Rebecca Hall,0
+Alien,film release region,Motherland,3
+Star Wars Episode IV: A New Hope,film release region,Bolivia,0
+The Muppets,film release distribution medium,Sweden,2
+Oregon,religion,Baptists,0
+Wes Anderson,award,Writers Guild of America Award for Best Original Screenplay,0
+Mos Def,nationality,Confederate States of America,3
+Atlantic Records,artist,Gary Summers,3
+Productivity,geographic distribution,Library of Congress Classification,2
+Groove metal,artists,Anthrax,0
+Academy Award for Best Actress in a Supporting Role,nominated for,A Room with a View,0
+Broadcast Film Critics Association Award for Best Actress,nominated for,Sideways,1
+Philip Seymour Hoffman,film,Almost Famous,0
+Daniel Inouye,educational institution,95th United States Congress,2
+Van Morrison,origin,Pasadena,1
+Toby Jones,film festivals,W.,2
+Mark Ruffalo,award,MTV Movie Award for Best Comedic Performance,3
+Czechoslovakia,medal,Bronze medal,0
+Kirsten Dunst,religion,Christianity,3
+harpsichord,role,Timbales,0
+U2,category,Official Website,1
+Academy Award for Best Director,ceremony,57th Academy Awards,0
+Ithaca,place,Ithaca,0
+University of Kentucky,educational institution,Alpha Delta Pi,2
+Copley Medal,disciplines or subjects,Children's literature,1
+Sam Trammell,place of birth,New Orleans,0
+Scott McNeil,film,Cleopatra,1
+The Blues Brothers,currency,United States Dollar,0
+Spanish Language,countries spoken in,Andorra,1
+Zooey Deschanel,film festivals,(500) Days of Summer,2
+2012,film crew role,Animation Director,3
+Salman Rushdie,influenced by,Thomas Pynchon,0
+Curly Howard,gender,Male,0
+Jane Eyre,film crew role,Creative Director,0
+Courteney Cox,participant,Kevin Spacey,0
+David Spade,nationality,United States of America,0
+SpongeBob SquarePants,producer type,Executive Producer,0
+Ioan Gruffudd,film,Inglourious Basterds,3
+American International Group,service language,English Language,1
+Brazil,film release region,Australia,0
+Minnie Driver,award,Golden Globe Award for Best Original Song,0
+BAFTA Award for Best Makeup & Hair,nominated for,The Hobbit: An Unexpected Journey,0
+Michael Jackson,performance role,Lead vocalist-GB,2
+General counsel,company,Ford Motor Company,0
+Brandy Norwood,nutrient,Copper,1
+General Manager,company,Seattle Supersonics,0
+Lost Highway,film release region,United States Virgin Islands,3
+Pear,nutrient,Saturated fat,0
+Elisha Cuthbert,nominated for,24,0
+Brian Austin Green,gender,Male,0
+Bachelor of Arts,major field of study,Finance,0
+Coconut milk,nutrient,Tyrosine,0
+Robert Redford,nationality,United States of America,0
+Freestyle music,artists,Debbie Gibson,0
+Ron Silver,nominated for,The Bourne Legacy,3
+Andrea Romano,nationality,United States of America,0
+Tony Walton,profession,Art Director,0
+Lincoln,source,United States Department of Housing and Urban Development,0
+Latin Grammy Awards of 2004,award winner,Alejandro Sanz,0
+The Biggest Loser,country of origin,United States of America,0
+Last Action Hero,genre,Comedy-GB,0
+Darmstadt,category,Official Website,0
+Lou Costello,profession,Cinematographer-GB,3
+Lead guitar,group,Cradle of Filth,0
+Taye Diggs,award,Broadcast Film Critics Association Award for Best Cast,0
+Indie rock,artists,The White Stripes,0
+Los Angeles,contains,Tarzana,0
+40th Academy Awards,award winner,Mike Patton,3
+Pomona College,student,Jim Taylor,0
+David Strathairn,profession,Actor-GB,0
+Endhiran,edited by,Anthony Gonsalves,0
+LDU Quito,position,Defender,0
+Binghamton University,student,Carol Leifer,0
+Percussion,organization,Siouxsie & the Banshees,2
+World War I,locations,Europe,3
+Legend of the Guardians: The Owls of Ga'Hoole,genre,Action Film,1
+Boys Don't Cry,country,United States of America,0
+Ascoli Calcio 1898,administrative division,Goalkeeper,2
+Colleen Dewhurst,award,Primetime Emmy Award for Outstanding Lead Actress - Miniseries or a Movie,0
+Nashville,genre,Drama,0
+Salman Rushdie,influenced by,Saul Bellow,0
+Track and field athletics,country,Japan,0
+David Benioff,award,Primetime Emmy Award for Outstanding Writing - Drama Series,0
+Academy Award for Best Costume Design,nominated for,The Incredibles,3
+Leonardo da Vinci,profession,Architecture,3
+Bad Teacher,film release region,Venezuela,1
+Linda Cardellini,nationality,Italy,0
+Art rock,artists,Steven Wilson,0
+Writers Guild of America Award for Best Adapted Screenplay,nominated for,Frost/Nixon,0
+Peyton Place,music,Franz Waxman,0
+San Antonio Spurs,colors,White,0
+Angie Dickinson,type of union,Marriage,0
+Academy Award for Best Actress in a Supporting Role,honored for,Rebecca,2
+Triathlon,country,Chile,0
+Wreck-It Ralph,film release region,New Zealand,0
+Angela's Ashes,film release region,Lombardy,3
+Keyboard,instrumentalists,Graham Gouldman,0
+37th Academy Awards,award winner,Rex Harrison,0
+Kung Fu Panda 2,film release distribution medium,Belgium,2
+Stephen Dorff,film,Public Enemies,0
+Freestyle wrestling,country,Bourbon Spain,3
+The Lady,film release region,Japan,0
+21st Academy Awards,award winner,Laurence Olivier,0
+WarGames,featured film locations,University of Washington,0
+X-Men,executive produced by,Richard Donner,0
+Ohio University,major field of study,Telecommunications,0
+University of Oxford,student,Andrew Lloyd Webber,0
+Republican Party,politician,Warren G. Harding,0
+Anonymous,film crew role,Special Effects Supervisor,0
+The Merry Widow,film release region,German Democratic Republic,0
+Syracuse Orange football,time zones,Pacific Time Zone,1
+Marriage,location of ceremony,Hartford,0
+Chris Elliott,nominated for,The Avengers,0
+The Passion of the Christ,genre,Epic film,0
+Emma Thompson,honored for,Trainspotting,2
+Allison Janney,award nominee,Emily Blunt,3
+Primetime Emmy Award for Outstanding Reality Program,ceremony,61st Primetime Emmy Awards,0
+Football,athlete,Michael O'Neill,0
+Councillor,jurisdiction of office,Escondido,0
+CBS Records,artist,Yo-Yo Ma,0
+Zimbabwe,teams,Zimbabwe national cricket team,0
+The Straight Story,country,French Polynesia,3
+University of Cambridge,student,Sacha Baron Cohen,0
+Jared Leto,role,Synthesizer,0
+Steven Berkoff,participant,Bill Clinton,1
+Barry White,award,BFCA Critics' Choice Award for Best Song,1
+Second Sino-Japanese War,administrative parent,Peng Dehuai,2
+University of Melbourne,list,Times Higher Education World University Rankings,0
+Bachelor of Arts,institution,St. John's University,3
+Florida State University,major field of study,Dance-GB,0
+Toledo,source,United States Department of Housing and Urban Development,0
+Metro-Goldwyn-Mayer,child,Orion Pictures,0
+University of Cambridge,student,Michael Apted,0
+Walt Disney Animation Studios,film,Mulan,1
+National Society of Film Critics Award for Best Supporting Actress,nominated for,The Sweet Hereafter,0
+Lou Costello,nationality,United States of America,0
+Richard Schiff,nationality,United States of America,0
+Monsoon Wedding,currency,United States Dollar,0
+Mexico national football team,current club,Chicago Fire Soccer Club,0
+Jazz,artists,Bill Evans,0
+Atlanta,teams,Atlanta Hawks,0
+When in Rome,film crew role,Set decorator-GB,0
+Martial Arts Film,titles,Elektra,0
+Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Miniseries or Television Movie,ceremony,10th Screen Actors Guild Awards,0
+A Fish Called Wanda,produced by,Michael Shamberg,0
+Edward Norton,profession,Film Producer-GB,0
+The Cat in the Hat,genre,Film adaptation,1
+Lead vocalist-GB,group,Simple Minds,0
+Lead guitar,group,The Cars,0
+Albany,source,United States Department of Housing and Urban Development,0
+Mumford,genre,Comedy-drama,0
+Argentina,film release region,Hungary,1
+Scotland,contains,Heriot-Watt University,0
+Washboard,role,Vibraphone,0
+Youngstown,source,United States Department of Housing and Urban Development,0
+Robin Williams,profession,Actor-GB,0
+This Must Be the Place,film release distribution medium,DVD,0
+Guitar,educational institution,Les Claypool,2
+Elton John,profession,Singer-songwriter-GB,0
+Hotel Transylvania,film release region,Finland,0
+University of Nevada,Berkeley,major field of study,1
+Jamie Foxx,film,The Kingdom,0
+Colin Firth,category,Official Website,1
+Academy Award for Best Original Music Score,nominated for,Shine,0
+Peter Graves,film,Addams Family Values,0
+Celtic rock,artists,Gary Moore,0
+January Jones,film,X-Men: First Class,0
+Belmont University,school type,Private school,0
+Spirited Away,film release region,Greece,0
+Wallace & Gromit: The Curse of the Were-Rabbit,genre,Comedy-GB,0
+Newport,category,Official Website,0
+Frank Welker,profession,Screenwriter,1
+Chaka Khan,gender,Male,3
+Pasta,nutrient,Lysine,3
+Night at the Museum,genre,Historical fiction,1
+Ray Milland,nationality,United States of America,0
+South Dakota,religion,Pentecostalism,0
+Bob Dylan,profession,Author-GB,0
+Bruce Springsteen,role,Acoustic bass guitar,3
+Garry Marshall,film,A League of Their Own,0
+Jerry Nelson,nationality,Confederate States of America,3
+Donnie Yen,profession,Stunt performer-GB,0
+Mike Henry,type of union,Marriage,0
+Track cycling,country,Kazakhstan,0
+Tom Sizemore,profession,Actor-GB,0
+Primetime Emmy Award for Outstanding Drama Series,nominated for,Cagney & Lacey,0
+Heather Locklear,participant,Mark Harmon,0
+Jerry Orbach,award,Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series,0
+Catherine Zeta-Jones,film,The Terminator,3
+Costa Rica,organization,World Bank,0
+Cinderella,currency,101st United States Congress,3
+Val Kilmer,film festivals,The Love Guru,2
+European Film Award for Best Actress,nominated for,Cyrano de Bergerac,0
+Hilary Duff,award,MTV Video Music Award for Best Pop Video,0
+BAFTA Award for Best Makeup & Hair,nominated for,Hope and Glory,0
+The Way We Were,film release distribution medium,DVD,0
+Prime minister-GB,jurisdiction of office,Niger,0
+Portland,specialization of,Train,2
+Universal Studios,film,Back to the Future,3
+Hampton University,colors,White,0
+Saturn Award for Best Costume,honored for,The Mask of Zorro,2
+Juneau,category,Official Website,0
+Italy,contains,Trieste,0
+Star Trek V: The Final Frontier,film release distribution medium,DVD,1
+Academy Award for Best Short Film (Live Action),ceremony,57th Academy Awards,0
+62nd Golden Globe Awards,award winner,Michael Mann,0
+Tom Waits,film,The Fisher King,0
+John Madden,company,NBC,0
+Cinderella Man,film crew role,Illustrator-GB,1
+Eddie Murphy,award nominee,BAFTA Award for Best Actor in a Supporting Role,2
+Knight and Day,film release region,Hungary,0
+Emma Thompson,award,European Film Award for Best Actress,0
+Ontario,religion,Sikhism,0
+Bachelor's degree,institution,Wheaton College,0
+Snow White and the Huntsman,film release region,Egypt,0
+Stuyvesant High School,school,Sheldon Leonard,2
+Angela Kinsey,languages,English Literature,3
+Jason Isaacs,location,London,0
+31st United States Congress,legislative sessions,30th United States Congress,0
+Napoleon Dynamite,film release distribution medium,Television,0
+Sony Music Entertainment,actor,James Taylor,2
+Loyola University Chicago,specialization of,Business,2
+Lost Highway,film release region,Hong Kong,0
+Nu metal,artists,Korn,0
+Big,artists,Howard Shore,2
+112th United States Congress,district represented,Pennsylvania,1
+Kellie Martin,profession,Businessperson-GB,0
+Liev Schreiber,location of ceremony,Las Vegas,1
+Jazz,artists,Chris Menges,3
+Carleton University,time zones,Central Time Zone,3
+The Three Musketeers,film release region,Canada,0
+Life of Pi,film release region,Belarus,0
+BAFTA Award for Best Actress in a Leading Role,nominated for,Being There,0
+Primetime Emmy Award for Outstanding Writing - Variety Series,Movie or Dramatic Special,ceremony,1
+Twilight,film release region,South Korea,0
+Tony Longo,profession,Actor-GB,0
+American Academy of Dramatic Arts,student,John Cassavetes,0
+Jazz rap,artists,Miles Davis,0
+Traffic collision,people,Jayne Mansfield,0
+Academy Award for Best Makeup and Hairstyling,ceremony,57th Academy Awards,0
+Organ,role,Tubular bell,0
+The Goodbye Girl,genre,Romance Film,0
+Lagaan: Once Upon a Time in India,language,English Language,0
+Universal Republic Records,artist,Alejandro Sanz,3
+Taken,film release region,Portugal,0
+Michael Gambon,location,County Dublin,0
+Girl with a Pearl Earring,film crew role,Sound Mixer,0
+Jamie Cullum,contact category,Official Website,2
+Bam Margera,place of birth,West Chester,0
+Cancer,films,50/50,0
+San Diego State University,state province region,California,0
+Man of Steel,film format,IMAX,0
+Jena Malone,film,Sucker Punch,0
+Usher,service location,Atlanta,2
+64th Primetime Emmy Awards,award winner,Jon Stewart,0
+65th Golden Globe Awards,award winner,Samantha Morton,0
+Swimming,country,American Samoa,0
+Ruby Dee,award,National Society of Film Critics Award for Best Actress,1
+Catwoman,film crew role,Visual Effects Art Director,0
+Football,country,New Zealand,0
+Gwyneth Paltrow,location,London,0
+Shannon Elizabeth,award,Jason Biggs,2
+Orson Scott Card,profession,Poet,0
+From Russia with Love,story by,Ian Fleming,0
+The Matrix Revolutions,featured film locations,Sydney,0
+Bernie,film release region,Brazil,0
+Silver Linings Playbook,film crew role,Visual Effects Supervisor,0
+Jackie Chan,languages,Spanish Language,0
+Twilight,film release region,Czech Republic,0
+Grammy Award for Best Recording Package,ceremony,46th Annual Grammy Awards,0
+1996 NCAA Men's Division I Basketball Tournament,locations,Tempe,0
+Jay Baruchel,religion,Agnosticism,0
+Managing Director-GB,organization,Rock and Roll Hall of Fame,0
+Football League Championship,team,Blackburn Rovers F.C.,0
+Seven Pounds,film release region,United States of America,0
+William Baldwin,award,Razzie Award for Worst Actress,3
+University of Oklahoma,colors,Crimson,1
+House of Flying Daggers,genre,Animation,1
+Dan Schneider,type of union,Marriage,0
+Bernie,film release region,United States Virgin Islands,3
+The Wolfman,film release region,Kuwait,0
+David A. Stewart,nationality,England,0
+David Bowie,role,Alto saxophone,0
+Graeme Revell,film,Frankenstein,1
+STV,program,Coronation Street,0
+BAFTA Award for Best Editing,nominated for,Django Unchained,0
+David Suchet,type of appearance,Marriage,2
+1980 NCAA Men's Division I Basketball Tournament,team,NC State Wolfpack men's basketball,0
+Pulp Fiction,language,Spanish Language,0
+Jackass: The Movie,film release distribution medium,DVD,0
+42nd Academy Awards,award winner,Goldie Hawn,0
+Robert Fripp,profession,Songwriter-GB,0
+John Candy,location,Toronto,0
+Scream 3,executive produced by,Harvey Weinstein,0
+Natural history,taxonomy,Member of Congress,3
+Wuthering Heights,film release region,China,0
+Meg Ryan,award nominee,Annette Bening,0
+Ludacris,location,Oak Park,0
+Jon Hamm,award,Primetime Emmy Award for Outstanding Guest Actor - Comedy Series,0
+The Social Network,film release region,Sweden,3
+Stop! Or My Mom Will Shoot,language,English Language,0
+Belgium,organization,Commonwealth of Nations,3
+1. FSV Mainz 05,sport,Football,0
+Pride & Prejudice,currency,101st United States Congress,3
+David Cronenberg,profession,Screenwriter,0
+Houston Texans,school,North Carolina State University,0
+Barbra Streisand,nationality,Confederate States of America,3
+2009 Tour de France,instance of recurring event,Tour de France,0
+George Carlin,currency,United States Dollar,1
+The Warlords,genre,Drama,0
+Bachelor of Arts,institution,Case Western Reserve University,0
+Managing Director-GB,company,United States Department of Housing and Urban Development,0
+Hugh Grant,religion,Anglicanism,1
+Barry Sonnenfeld,profession,Film Director,0
+Primetime Emmy Award for Outstanding Directing - Comedy Series,nominated for,Downton Abbey,1
+University of Delhi,major field of study,Electrical engineering,0
+The Lady,film release region,Norway,0
+Herbie Hancock,role,Bassoon,3
+84th Academy Awards,award winner,Robert Richardson,0
+United States of America,contains,Kokomo,0
+Jim Cummings,film,Who Framed Roger Rabbit,0
+Adolph Green,award,Grammy Award for Song of the Year,0
+Jenny McCarthy,religion,Anglicanism,3
+Hollyoaks,film,The Adventures of Ford Fairlane,1
+Whitney Houston,award,MTV Video Music Award for Artist to Watch,0
+Bill Nighy,film,Valkyrie,0
+Diabetes mellitus,people,Jules Verne,0
+Miramax Films,film,Lost in Space,1
+Roy Kinnear,gender,Male,0
+English people,people,William Shakespeare,0
+Iggy Pop,award,Razzie Award for Worst Original Song,0
+Aldous Huxley,nationality,United Kingdom,0
+Associate degree,institution,University of Kentucky,1
+Barry White,award,Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Miniseries or Television Movie,1
+Carnegie Mellon University,student,Blair Underwood,0
+Dance-pop,artists,Superbad,3
+The Matrix,category,Official Website,0
+George Carlin,award,Tony Award for Best Direction of a Play,1
+Hilary Duff,category,Official Website,0
+Vice President-GB,company,AOL,0
+Douglas Slocombe,profession,Cinematographer-GB,0
+Thomas Jefferson,profession,Lawyer,0
+Danny McBride,award,MTV Movie Award for Best Fight,0
+Lost in Space,genre,Action Film,0
+Associate degree,institution,City University of New York,1
+Martin Clunes,place of birth,Wimbledon,0
+Michael Jackson: 30th Anniversary Celebration,actor,Yoko Ono,0
+The Colour of Magic,film release region,London,0
+BAFTA Award for Best Special Visual Effects,nominated for,Spider-Man 2,0
+United States of America,second level divisions,Ocean County,0
+Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Supporting Role,nominated for,Magnolia,0
+Timothy Spall,film festivals,Harry Potter and the Order of the Phoenix,2
+Grammy Award for Best Male R&B Vocal Performance,ceremony,42nd Annual Grammy Awards,0
+Arthur C. Clarke,influenced by,Edgar Rice Burroughs,0
+Legend of the Guardians: The Owls of Ga'Hoole,film release region,Greece,1
+Primetime Emmy Award for Outstanding Writing - Variety Series,category of,Primetime Emmy Award,0
+Toy Story 2,film release region,Greece,1
+Joe Pesci,profession,Guitarist-GB,1
+Ian MacKaye,location,Washington,0
+Chris Evans,honored for,Fantastic Four,2
+Richard Thorpe,nationality,United States of America,0
+Los Angeles Lakers,school,Spain,0
+Caucasian race,people,Douglas Adams,0
+Indian people,people,Asit Sen,0
+Annie Lennox,award nominee,MTV Video Music Award for Best Video from a Film,2
+Lena Olin,award nominee,John Wood,0
+Auburn University,student,Lionel Richie,0
+Monsoon Wedding,genre,World cinema,0
+Adrian Grenier,profession,Artist-GB,3
+Bank of America Corporation,list,Fortune 1000,0
+Samson and Delilah,film release region,United States of America,0
+Deportivo Toluca,special performance type,Red,2
+Fairbanks,time zones,Alaska Time Zone,0
+Larry David,religion,Judaism-GB,0
+Percussion,instrumentalists,Rob Reiner,3
+She Hate Me,genre,Melancholia,3
+Resident Evil: Retribution,prequel,Resident Evil,1
+Vassar College,registering agency,Internal Revenue Service,0
+Utpal Dutt,gender,Male,0
+Academy Award for Best Writing Adapted Screenplay,ceremony,40th Academy Awards,3
+Master's Degree,institution,Ball State University,0
+Life as We Know It,film crew role,Storyboard Artist,0
+Zero Dark Thirty,film release distribution medium,DVD,0
+Toy Story 3,film release region,Netherlands,0
+New York Mets,seasonal months,2004 Major League Baseball season,2
+Van Heflin,film,The Greatest Story Ever Told,0
+Glenn Frey,award,National Society of Film Critics Award for Best Supporting Actress,1
+Kate Nelligan,nationality,Canada,0
+Nicole Kidman,award nominee,John Romita,3
+Philadelphia Union,sport,Football,0
+The Lord of the Rings: The Two Towers,story by,J. R. R. Tolkien,0
+Richard Burton,award,Primetime Emmy Award for Outstanding Supporting Actor - Miniseries or a Movie,0
+Breakfast on Pluto,film release region,Poland,0
+Fever,symptom of,Influenza,0
+Bill Hader,award,Grammy Award for Song of the Year,1
+The Daily Show,languages,English Language,0
+Carson City,time zones,Eastern Time Zone,3
+Ken Annakin,award,Razzie Award for Worst Actor,3
+Madhuri Dixit,diet,Vegetarianism,0
+Mark Harmon,film,Fear and Loathing in Las Vegas,0
+Malawi,organization,African Development Bank,0
+SpongeBob SquarePants,genre,MADtv,3
+39th Annual Grammy Awards,award winner,The Smashing Pumpkins,0
+Michael Douglas,award,Razzie Award for Worst Actor,0
+Brian Baumgartner,profession,Screenwriter,1
+Geffen Records,actor,Beck Hansen,2
+54th Primetime Emmy Awards,honored for,Band of Brothers,0
+Beck Hansen,award,MTV Movie Award for Best Song from a Movie,0
+Sylvester Stallone,service location,New York City,2
+Togo,organization,African Development Bank,0
+Jay Bennett,educational institution,Guitarist-GB,2
+Judo,state province region,Ecuador,2
+Tom Sizemore,film,The Newton Boys,0
+Political thriller,titles,The Savages,3
+Writers Guild of America Award for Best Original Screenplay,nominated for,Julie & Julia,1
+Renny Harlin,category,Official Website,1
+Victor Victoria,language,French Language,0
+Broadcast Film Critics Association Award for Best Cast,award,Matt Dillon,2
+American Masters,person,Steve Hackett,3
+Turkish Language,film release region,Norway,1
+Jon Lovitz,category,Official Website,1
+Westminster School,student,Helena Bonham Carter,0
+Warner Bros. Entertainment,film,Edge of Darkness,0
+University of California,Santa Barbara,major field of study,0
+Megan Fox,profession,Model,0
+Lead vocalist-GB,group,Scorpions,0
+MTV Movie Award for Best WTF Moment,honored for,Black Swan,2
+Inglourious Basterds,film release region,Switzerland,0
+Showtime,production companies,Village Roadshow Pictures,0
+Donald Crisp,place of death,Van Nuys,0
+Columbia Pictures,film festivals,The Vow,2
+Red State,film release region,Republic of Ireland,0
+Harvey Keitel,film,National Treasure,0
+Terry O'Quinn,award,Independent Spirit Award for Best Male Lead,0
+Master of Arts,institution,London Business School,0
+Ian Holm,award nominee,Jude Law,0
+This Means War,film release distribution medium,Japan,2
+16th Academy Awards,award winner,Ray Heindorf,0
+The Hangover: Part II,language,English Literature,3
+New York Film Critics Circle Award for Best Film,award,Robert Redford,2
+Derek Jeter,nationality,United States of America,0
+China,exported to,Sierra Leone,0
+Casino Royale,award winner,Chris Newman,3
+This Must Be the Place,film release region,Turkey,0
+The Passion of the Christ,film release region,Turkey,1
+Hartford,time zones,Eastern Time Zone,1
+Bass guitar,group,Uriah Heep,3
+Teri Polo,award nominee,Alan Alda,0
+Acoustic music,artists,David Sylvian,1
+George Harrison,award nominee,MTV Video Music Award for Video of the Year,2
+Rosemary Harris,film,Spider-Man 3,0
+Albert Lee,educational institution,England,2
+24,actor,Colm Feore,0
+Germany in Autumn,film release region,Finland,0
+Funk rock,artists,Jane's Addiction,0
+Ian Somerhalder,location,Louisiana,0
+Francis Ford Coppola,currency,United States Dollar,0
+Black Hawk Down,language,English Language,0
+West Virginia,contains,Parkersburg,0
+David Mills,profession,Screenwriter,0
+7th Critics' Choice Awards,honored for,Memento,0
+This Must Be the Place,film release distribution medium,Poland,2
+Swoosie Kurtz,film,Dangerous Liaisons,0
+Blake Lively,adjustment currency,United States Dollar,2
+Mark Burnett,film,Harry Potter and the Half-Blood Prince,1
+Polydor Records,artist,Stanley Clarke,0
+Ry Cooder,role,Acoustic guitar,0
+Anton Yelchin,profession,Voice Actor,0
+Robert Morse,award,Tony Award for Best Featured Actor in a Play,0
+2K Games,service location,Motherland,3
+Liver failure,people,Peter Frampton,3
+Steve Englehart,category,Official Website,0
+Alex Kurtzman,profession,Film Producer-GB,0
+KYMX,artist,Alicia Keys,0
+Bulgaria,medal,Bronze medal,0
+Todd Field,award,Razzie Award for Worst Actress,1
+101st United States Congress,district represented,Alabama,0
+Bleach: Memories of Nobody,actor,Johnny Yong Bosch,0
+Jazz,artists,Amanda Lear,0
+Killing Them Softly,genre,Crime,3
+Lantana,film crew role,Makeup Artist-GB,0
+17th Screen Actors Guild Awards,award winner,Michael Kahn,3
+Hal Roach,profession,Film Producer-GB,0
+Avid Technology,state province region,Massachusetts,0
+Scotch-Irish American,people,Woodrow Wilson,0
+Azerbaijan,medal,Silver medal,0
+Robert Z. Leonard,award,Academy Award for Best Picture,0
+New England Patriots,contains,Rhode Island,1
+Juno,film release distribution medium,DVD,0
+Daniel Lanois,award,Grammy Award for Album of the Year,0
+Cheese,nutrient,Betaine,0
+Virginia,religion,Baptists,0
+Maryland,nationality,Protestantism,2
+Robert Downey Jr.,award,Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture,0
+Great Expectations,film crew role,Makeup Artist-GB,0
+Solitary Man,executive produced by,Judah Friedlander,3
+House of Commons of Canada,legislative sessions,38th Canadian Parliament,0
+Bass guitar,instrumentalists,Cyndi Lauper,0
+Post-grunge,artists,Tommy Lee,0
+Pakistan,administrative area type,Sovereign state,0
+Northwestern University,major field of study,Computer Science,0
+In the Loop,parent genre,Political satire,2
+Saint Joseph,contact category,Official Website,2
+Taraji P. Henson,nationality,United States of America,0
+Das Boot,film release region,South Korea,0
+Cooper Union,category,Official Website,0
+SST Records,state province region,Texas,0
+John Wayne,award,Arthur C. Clarke Award,3
+Seiyū-GB,countries spoken in,Fiji,1
+13th Satellite Awards,honored for,The Duchess,0
+Children of Men,language,English Language,0
+50 First Dates,genre,Comedy-GB,0
+China,exported to,Djibouti,0
+Dark Shadows,film release distribution medium,Lithuania,2
+Arthur Wellesley,Jr.,profession,1
+Alien Resurrection,film crew role,Special Effects,3
+Funk,artists,Prince,0
+75th Academy Awards,award,Colleen Atwood,2
+Michael Gambon,film,Harry Potter and the Order of the Phoenix,0
+Aviation,film festivals,Twilight Zone: The Movie,2
+The Hunger Games,film release region,Greece,0
+University of Pennsylvania,school,I. M. Pei,2
+University of New South Wales,citytown,Melbourne,3
+John Lasseter,profession,Songwriter-GB,1
+Prescott,category,Official Website,0
+Schindler's List,genre,Biographical film,0
+Genesee County,time zones,Eastern Time Zone,0
+Television,basic title,Hill Street Blues,2
+The Grifters,film release distribution medium,DVD,0
+Adam McKay,role,Keyboard,1
+Everyone Says I Love You,currency,United States Dollar,0
+Alberto Iglesias,profession,Composer,0
+The University of Southern Mississippi,category,Official Website,0
+Bill Withers,award,Grammy Award for Best New Artist,0
+Red Road,film release region,Thailand,0
+Exeter College,Oxford,student,0
+Funk,artists,Steve Jordan,0
+President,organization,De La Salle University-Manila,0
+Twilight,film distribution medium,Reality television,3
+Jacqueline Bisset,gender,Female,0
+Molly Shannon,gender,Female,0
+New Year's Eve,film release region,Argentina,3
+Chris Columbus,educational institution,Film Director,2
+Hallmark Hall of Fame,genre,Drama,0
+We Need to Talk About Kevin,film release region,Ireland,0
+Princeton University,citytown,Princeton,0
+Mansfield Park,film release distribution medium,DVD,1
+HBO,award winner,Australian Broadcasting Corporation,3
+Grammy Award for Best Country Song,ceremony,54th Annual Grammy Awards-US,0
+William Forsythe,nationality,Canada,1
+The Lorax,role,Percussion,1
+The Lord of the Rings: The Fellowship of the Ring,film release region,Singapore,0
+Easy Rider,featured film locations,Flagstaff,0
+58th Academy Awards,award winner,John Barry,0
+61st Primetime Emmy Awards,award winner,Paul Giamatti,1
+Batman Begins,film release region,Mexico,0
+Starship Troopers,film crew role,Sound Mixer,0
+Piedmont,partially contains,Pennine Alps,0
+Paul Mazursky,film festivals,Love Affair,2
+Isabelle Huppert,profession,Actor-GB,0
+1968 Winter Olympics,medal,Bronze medal,0
+MTV Movie Award for Best Villain,nominated for,Lethal Weapon 4,0
+Brian Baumgartner,currency,United States Dollar,0
+Jessica Chastain,film,The Avengers,1
+Neal Stephenson,influenced by,Thomas Newman,3
+University of Chicago,major field of study,Chemistry,3
+My Fair Lady,award winner,George James Hopkins,0
+Jackie Cooper,profession,Television Director,0
+Dennis Lehane,location,Massachusetts,0
+Drums,instrumentalists,Wyclef Jean,0
+The Specialist,film crew role,Visual Effects Supervisor,1
+Sherlock Holmes: A Game of Shadows,film release region,Poland,0
+The Beaver,film release region,Brazil,0
+Vanessa L. Williams,gender,Female,0
+55th Academy Awards,award winner,Richard Linklater,3
+The Delta Force,genre,Action Film,0
+2002 Winter Olympics,countries within,Thailand,2
+Bossa nova,parent genre,Jazz,0
+Bucknell University,student,Edward Herrmann,0
+Avant-garde music,music,Ryuichi Sakamoto,2
+New Zealand,combatants,Mexico,0
+Mr. Nobody,film release region,King Kong,3
+The Ghost and the Darkness,film crew role,Sound Mixer,0
+Cliffhanger,film release region,Netherlands,1
+University of Memphis,category,Official Website,0
+Cameroon national football team,current club,Arsenal F.C.,0
+Sacha Baron Cohen,profession,Film Producer-GB,0
+V for Vendetta,contact category,Official Website,2
+Clive A. Smith,profession,Film Producer-GB,0
+Didgeridoo,group,Jamiroquai,0
+Fast Five,artists,Brian Tyler,2
+The Duchess,film crew role,Wardrobe Supervisor,0
+Peter Sellers,profession,Cinematographer-GB,3
+King Crimson,featured film locations,New York City,1
+You've Got Mail,nationality,United States of America,1
+Percussion,group,Dead Ringers,3
+Johnny Green,type of appearance,Marriage,2
+Dermot Mulroney,role,Cello,0
+Lost in Space,film crew role,Art Carney,3
+National Society of Film Critics Award for Best Supporting Actor,nominated for,Cabaret,0
+Murray Rothbard,interests,Psychology,1
+David Mansfield,performance role,Steel guitar,0
+To Rome with Love,film release region,Denmark-GB,0
+Grambling State University,locations,Grambling State University,2
+Emile Kuri,award nominee,Edward Carfagno,0
+D'Angelo,place,Fontana,1
+Grammy Award for Best Pop Instrumental Performance,ceremony,44th Annual Grammy Awards,0
+Tennessee Williams,profession,Poet,0
+Capote,award,Independent Spirit Award for Best Male Lead,0
+World Trade Center,member states,Malta,1
+Blockbuster,titles,Ben-Hur,0
+Richard Matheson,profession,Television producer-GB,1
+Will Arnett,place of birth,Montreal,3
+Owen Wilson,profession,Film Producer-GB,0
+Lady Gaga,profession,Guitarist-GB,3
+Golden State Warriors,school,Gonzaga University,3
+A Dangerous Method,film release region,Singapore,0
+Don Johnson,award,Primetime Emmy Award for Outstanding Lead Actor - Drama Series,0
+Sarah Jessica Parker,gender,Female,1
+Don Knotts,educational institution,Actor-GB,2
+Bachelor of Arts,educational institution,Sonoma State University,2
+Larry Gelbart,gender,Male,1
+Eton College,student,Hugh Jackman,3
+MTV Movie Award for Best On-Screen Duo,nominated for,Mean Girls,0
+Doom metal,artists,Danzig,0
+WALL-E,featured film locations,New York City,0
+Bernie,film release distribution medium,Hong Kong,2
+Damon Wayans,type of union,Marriage,0
+Carrot,nutrient,Fluoride,0
+University of Hull,category,Official Website,0
+The Exorcist,film release region,Japan,0
+University of New Hampshire,fraternities and sororities,Alpha Sigma Phi,0
+Marisa Tomei,gender,Female,0
+French Language,countries spoken in,Comoros,0
+Chancellor,organization,Keele University,0
+Dolly Parton,award nominee,Tony Award for Best Original Score,2
+X-Men,production companies,Marvel Entertainment,0
+John Dingell,legislative sessions,106th United States Congress,0
+BAFTA Award for Best Animated Film,nominated for,The Graduate,1
+Academy Award for Best Director,location of ceremony,29th Academy Awards,2
+Octopussy,honored for,Die Another Day,2
+Bruce Greenwood,profession,Musician-GB,0
+Fist of the North Star,genre,Martial Arts Film,0
+Academy Award for Best Sound Mixing,nominated for,Life of Pi,0
+Bass,group,Led Zeppelin,0
+Ian MacKaye,nominated for,ER,1
+A Prairie Home Companion,executive produced by,Fisher Stevens,2
+Govinda,nationality,India,0
+Hamburg,month,July,0
+Watford F.C.,position,Goalkeeper,1
+Michael Gladis,nationality,United States of America,1
+The Graduate,executive produced by,Bob Weinstein,1
+Lou Reed,gender,Male,0
+Anthony Hopkins,location of ceremony,Sunset Boulevard,3
+San Diego State University,student,Christopher Boyes,1
+Paranormal Activity,featured film locations,San Diego,0
+Grammy Award for Best Male Pop Vocal Performance,ceremony,42nd Annual Grammy Awards,0
+Extremely Loud and Incredibly Close,genre,Mystery,0
+Geffen Records,artist,Eagles,0
+Sidney Sheldon,producer type,Executive Producer,0
+John Oliver,film,The Love Guru,0
+Garden State,adjustment currency,United States Dollar,2
+Razzie Award for Worst Screen Couple/Ensemble,nominated for,Catwoman,0
+Niels Henrik David Bohr,profession,Scientist-GB,0
+United States of America,partially contains,University of California,2
+Eric Dane,time zones,Mountain Time Zone-US,1
+Falkland Islands,country,Faroe Islands,3
+63rd Primetime Emmy Awards,award winner,Rory Albanese,0
+Rounder Records,artist,John Hartford,0
+Northern Illinois University,major field of study,Education,0
+Rock and Roll Hall of Fame,inductee,Ricky Skaggs,3
+1999 NCAA Men's Division I Basketball Tournament,team,UCLA Bruins men's basketball,0
+J. R. R. Tolkien,nationality,Catholicism,2
+Volleyball,country,China,0
+Ray,nationality,United States of America,1
+Stephen Jay Gould,profession,Biologist,0
+Richard Edlund,nominated for,Die Hard,0
+Charles de Gaulle,profession,Soldier-GB,0
+Cheese,diet,Aspartic acid,2
+Christina Hendricks,award nominee,Robert Byrd,3
+Agnes Moorehead,gender,Female,0
+Music Corporation of America,industry,Entertainment,0
+C.D. Guadalajara,special performance type,Blue,2
+Piano,instrumentalists,Lou Reed,0
+Everybody Loves Raymond,genre,Writer-GB,3
+1952 Summer Olympics,participating countries,Bahamas,0
+Spain,partially contains,Alps,3
+Florida State University,major field of study,Political Science,3
+Swimming,country,Czech Republic,0
+Aliens,genre,Action Film,0
+Thelma & Louise,genre,Buddy film,0
+Inglourious Basterds,executive produced by,Bob Weinstein,0
+St. Lawrence University,student,Harold Ramis,1
+Topsy Turvy,genre,Comedy-GB,0
+Sexy Beast,film release region,Hungary,0
+Mutiny on the Bounty,film festivals,2008 Berlin International Film Festival,3
+Orion Pictures,genre,Historical fiction,1
+Slovenia,medal,Gold medal,0
+Pop music,parent genre,Dance music,0
+Broadcast Film Critics Association Award for Best Film,nominated for,The Adventures of Tintin: The Secret of the Unicorn,3
+Maggie Gyllenhaal,award,Independent Spirit Award for Best Supporting Male,3
+That '70s Show,actor,Wilmer Valderrama,0
+Harry Shearer,film,The Truman Show,0
+University of Chicago,major field of study,Finance,0
+BAFTA Award for Best Actor in a Supporting Role,honored for,Julia,2
+York,student,Michael Hirsh,1
+Comcast,industry,Information technology,3
+University of Alabama,major field of study,Chemical Engineering,1
+The Red Violin,film release region,Singapore,0
+Northwestern University,fraternities and sororities,Alpha Sigma Phi,1
+Lasker-DeBakey Clinical Medical Research Award,category,Official Website,0
+Cliffhanger,costume design by,Edith Head,1
+Lieutenant Governor,jurisdiction of office,New Orleans,1
+Dumb & Dumber,film release region,Norway,0
+Ally McBeal,actor,James Marsden,0
+Academy Award for Best Production Design,ceremony,71st Academy Awards,0
+United Kingdom,titles,Another Year,0
+Bachelor's degree,institution,University College London,0
+Waco,place,Waco,0
+63rd Primetime Emmy Awards,award winner,Gregory Nicotero,0
+Academy Award for Best Sound Editing,nominated for,Aliens,1
+Classical music,artists,Edward Elgar,0
+The Virgin Suicides,award,MTV Movie Award for Best New Filmmaker,0
+Clint Eastwood,award,National Society of Film Critics Award for Best Actor,0
+Walt Disney Studios Home Entertainment,film,High School Musical,0
+7th Critics' Choice Awards,award,Michael Gambon,2
+Vera Drake,award,London Film Critics Circle Award for Actress of the Year,0
+52nd Primetime Emmy Awards,honored for,Will & Grace,0
+Richard M. Sherman,profession,Guitarist-GB,3
+Blues,artists,Alicia Keys,0
+111th United States Congress,district represented,Vermont,0
+Ted Levine,film release region,France,1
+Luis Miguel,gender,Male,0
+Tom Morello,film,Iron Man,0
+The Other Boleyn Girl,production companies,Relativity Media,0
+Anatomy of a Murder,country,United States of America,0
+Sleepers,film release distribution medium,DVD,0
+Man of Steel,featured film locations,Chicago,0
+Northwestern University,student,Zooey Deschanel,0
+Gap Inc.,service language,English Literature,3
+Girl Scouts of the USA,country,United States of America,0
+Foreign Correspondent,film release region,Australia,0
+San Bernardino County,contains,Upland,0
+Howl's Moving Castle,genre,Computer Animation,3
+Fast Five,film release region,Hungary,0
