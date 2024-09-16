@@ -10,17 +10,17 @@ lora_trainable="q_proj,v_proj,k_proj,o_proj,gate_proj,down_proj,up_proj"
 modules_to_save="embed_tokens,lm_head"
 lora_dropout=0.05
 
-pretrained_model=/seu_share/home/qiguilin/220224345/kg-error/chinese-alpaca-2-7b-hf
-chinese_tokenizer_path=/seu_share/home/qiguilin/220224345/kg-error/alpaca_tokenizer
-dataset_dir=/seu_share/home/qiguilin/220224345/kg-error/dataset/wn18rr-train
+pretrained_model=/kg-error/chinese-alpaca-2-7b-hf
+chinese_tokenizer_path=/kg-error/alpaca_tokenizer
+dataset_dir=/kg-error/dataset/wn18rr-train
 per_device_train_batch_size=1
 per_device_eval_batch_size=1
 gradient_accumulation_steps=8
 max_seq_length=512
-validation_file=/seu_share/home/qiguilin/220224345/kg-error/dataset/wn18rr-dev/wn18rr_dev.json
+validation_file=/kg-error/dataset/wn18rr-dev/wn18rr_dev.json
 
-train_subgraph_embedding_file=/seu_share/home/qiguilin/220224345/kg-error/embedding/subgraph_embeddings_wn18rr_train.txt
-val_subgraph_embedding_file=/seu_share/home/qiguilin/220224345/kg-error/embedding/subgraph_embeddings_wn18rr_dev.txt
+train_subgraph_embedding_file=/kg-error/embedding/subgraph_embeddings_wn18rr_train.txt
+val_subgraph_embedding_file=/kg-error/embedding/subgraph_embeddings_wn18rr_dev.txt
 
 deepspeed_config_file=ds_zero2_no_offload.json
 
@@ -31,23 +31,22 @@ deepspeed_config_file=ds_zero2_no_offload.json
     # "Tail entity as head"
     # "Tail entity as tail"
 subgraph_types=(
+     "Head entity as head"
+     "Head entity as tail"
     "Tail entity as head"
     "Tail entity as tail"
 )
 
-# 循环训练每种子图类型的模型
+
 for subgraph_type in "${subgraph_types[@]}"; do
-    # 设置输出目录（基于子图类型）
-    output_dir="/seu_share/home/qiguilin/220224345/kg-error/output_lora_wn18rr_${subgraph_type// /_}_$(date +%Y%m%d)_instruction"
+    output_dir="kg-error/output_lora_wn18rr_${subgraph_type// /_}_$(date +%Y%m%d)_instruction"
     
-    # 设置日志文件路径（基于子图类型）
-    LOG_FILE="/seu_share/home/qiguilin/220224345/kg-error/log/wn18rr-${subgraph_type// /_}_$(date +%Y%m%d)_instruction.log"
+    LOG_FILE="/kg-error/log/wn18rr-${subgraph_type// /_}_$(date +%Y%m%d)_instruction.log"
     
     echo "Starting training for subgraph type: $subgraph_type"
     echo "Output directory: $output_dir"
     echo "Log file: $LOG_FILE"
     
-    # 运行训练命令
     torchrun --nnodes 1 --nproc_per_node 8 run_sft_kg_instruction.py \
         --deepspeed ${deepspeed_config_file} \
         --model_name_or_path ${pretrained_model} \
