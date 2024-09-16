@@ -1,1 +1,1 @@
-
+We use two real-world knowledge graph datasets: FB15K and WN18RR. In each dataset, we simulate realistic errors by replacing entities and relations with the highest semantic similarity, with approximately 30\% of the data being erroneous. FB15K is derived from Freebase and contains a rich set of entities and relations, while WN18RR is a subset of WordNet with corrected inverse relations, increasing the dataset's complexity. 
