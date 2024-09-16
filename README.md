@@ -5,3 +5,6 @@ In this paper, we propose MAKGED, a novel framework for KG error detection that 
 Extensive experiments on FB15K and WN18RR demonstrate that MAKGED outperforms state-of-the-art methods, improving the accuracy and robustness of KG evaluation. 
 
 <img width="972" alt="image" src="https://github.com/user-attachments/assets/ba8afcb0-a0f0-4622-8478-c0bd80884dc5">
+
+
+<img width="1087" alt="image" src="https://github.com/user-attachments/assets/2c290faa-aba0-48df-87e8-0b7984f6aa2b">
