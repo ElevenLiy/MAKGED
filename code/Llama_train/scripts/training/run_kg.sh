@@ -8,21 +8,21 @@ modules_to_save="embed_tokens,lm_head"
 lora_dropout=0.05
 
 # 设置日志文件路径
-export LOG_FILE="/seu_share/home/qiguilin/220224345/kg-error/log/fb15k-Head_entity_as_tail.log"
+export LOG_FILE="/kg-error/log/fb15k-Head_entity_as_tail.log"
 
-pretrained_model=/seu_share/home/qiguilin/220224345/kg-error/chinese-alpaca-2-7b-hf
-chinese_tokenizer_path=/seu_share/home/qiguilin/220224345/kg-error/alpaca_tokenizer
-dataset_dir=/seu_share/home/qiguilin/220224345/kg-error/dataset/fb15k-train
+pretrained_model=/kg-error/chinese-alpaca-2-7b-hf
+chinese_tokenizer_path=/kg-error/alpaca_tokenizer
+dataset_dir=/kg-error/dataset/fb15k-train
 per_device_train_batch_size=1
 per_device_eval_batch_size=1
 gradient_accumulation_steps=8
 max_seq_length=512
-output_dir=/seu_share/home/qiguilin/220224345/kg-error/output_lora_fb15k_Head_entity_as_tail_0813
-validation_file=/seu_share/home/qiguilin/220224345/kg-error/dataset/fb15k-dev/fb15k_dev.json
+output_dir=/kg-error/output_lora_fb15k_Head_entity_as_tail_0813
+validation_file=/dataset/fb15k-dev/fb15k_dev.json
 
 # 新增：子图嵌入文件路径和子图类型
-train_subgraph_embedding_file=/seu_share/home/qiguilin/220224345/kg-error/embedding/subgraph_embeddings_fb15k_train.txt
-val_subgraph_embedding_file=/seu_share/home/qiguilin/220224345/kg-error/embedding/subgraph_embeddings_fb15k_dev.txt
+train_subgraph_embedding_file=/kg-error/embedding/subgraph_embeddings_fb15k_train.txt
+val_subgraph_embedding_file=/kg-error/embedding/subgraph_embeddings_fb15k_dev.txt
 # subgraph_type="Head entity as head"
 subgraph_type="Head entity as tail"
 # subgraph_type="Tail entity as head"
