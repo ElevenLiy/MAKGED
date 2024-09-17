@@ -14,7 +14,7 @@ logger = logging.getLogger('__name__')
 
 PROMPT_TEMPLATE = (
         "[INST] <<SYS>>\n"
-        "You are a helpful assistant. 你是一个乐于助人的助手。\n"
+        "You are a helpful assistant.\n"
         "<</SYS>>\n\n{instruction} [/INST]"
     )
 
