@@ -85,6 +85,9 @@ Key innovations:
 
 
 ## 📚 Citation
+
+If you find our paper and resource useful in your research, please consider giving a star ⭐ and citation 📝.
+
 ```bibtex
 @article{li2025harnessing,
   title={Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs},
